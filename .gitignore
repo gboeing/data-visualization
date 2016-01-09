@@ -3,6 +3,7 @@
 *.pdf
 keys.py
 keys.pyc
+*.mbox
 
 # Compiled source #
 ###################
