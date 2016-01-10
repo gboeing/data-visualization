@@ -41,11 +41,13 @@
     <script type="text/javascript">
     // create the Leaflet map container
     var map = L.map('map');
+    var initialMapCenter = [37.5, -97];
+    var initialZoomLevel = 4;
     
     //add tile layer basemap to the map
     basemapUrl = 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
     basemapAttribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>';
-    basemapProperties = {minZoom: 4, maxZoom: 20, continuousWorld: false, noWrap: true, attribution: basemapAttribution};
+    basemapProperties = {minZoom: 4, maxZoom: 11, attribution: basemapAttribution};
     var basemap = L.tileLayer(basemapUrl, basemapProperties);
     map.addLayer(basemap);
 
@@ -61,21 +63,45 @@
                         '<span class="popupDetails">School/Team: ' + feature.properties.team + '<br />' + 
                         'Location: ' + feature.properties.city + ', ' + feature.properties.state + '<br />' + 
                         'Built: ' + feature.properties.built + '<br />' + 
-                        'Capacity: ' + feature.properties.capacity + '<br />' + 
+                        'Capacity: ' + feature.properties.capacity_str + '<br />' + 
                         'Conference: ' + feature.properties.conference + '</span>');}
-                        
+    function getColor(div) {
+        if(div=='fbs') {return '#cc0000';}
+        else {return '#0033cc';}
+    }
+    
+    function getRadius(capacity) {
+        // radius is a function of stadium capacity and map zoom level
+        power = 0.35;
+        if (map.getZoom()) { radius = Math.pow(capacity / (100 / map.getZoom()), power); } //if map already exists, get current zoom level
+        else { radius = Math.pow(capacity / (100 / initialZoomLevel), power); } //if it's the initial startup, use initial zoom level
+        return radius;
+    }
+     
     // specify how to load the individual features 
     var pointsOptions = {
         onEachFeature: popupFunction,
-        pointToLayer: function (feature, latlng) { return L.circleMarker(latlng, markerStyles); }
+        pointToLayer: function (feature, latlng) { 
+            markerStyles.fillColor = getColor(feature.properties['div']);
+            markerStyles.radius = getRadius(feature.properties['capacity']);
+            return L.circleMarker(latlng, markerStyles);
+        }
     };
     
     // create the layer and add to map
-    var stadiumsPoints = L.geoJson(dataset, pointsOptions); 
-    map.addLayer(stadiumsPoints);
+    var geojsonLayer = L.geoJson(dataset, pointsOptions); 
+    map.addLayer(geojsonLayer);
     
-    // fit the map window to the data points
-    map.fitBounds(stadiumsPoints.getBounds());
+    //make marker size scale with zoom
+    map.on('zoomend', function() {
+        for (var key in geojsonLayer._layers) {
+            capacity = geojsonLayer._layers[key].feature.properties['capacity'];
+            geojsonLayer._layers[key].setRadius(getRadius(capacity));
+        }
+    });
+    
+    //center the map window on the contiguous US
+    map.setView(initialMapCenter, initialZoomLevel);
 
     </script>
 </body>
