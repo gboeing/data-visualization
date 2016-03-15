@@ -4,6 +4,7 @@
 keys.py
 keys.pyc
 *.mbox
+*.tsv
 
 # Compiled source #
 ###################
