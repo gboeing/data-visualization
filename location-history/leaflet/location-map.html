@@ -51,7 +51,7 @@
     var overlayOptions = { 
         onEachFeature: function (feature, layer) {
             layer.bindPopup(feature.properties.desc + '<br />' + feature.properties.year);
-            layer.on('mouseover', function (e) {this.openPopup();});
+            layer.on('click', function (e) {this.openPopup();});
         },
         pointToLayer: function (feature, latlng) {
             return L.circleMarker(latlng, markerStyles);
