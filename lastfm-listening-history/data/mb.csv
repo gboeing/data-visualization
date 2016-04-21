@@ -1,0 +1,6 @@
+name,type,gender,country,begin_date,end_date,begin_area_name,begin_area_name_full,begin_area_latlng,area_name,area_name_full,area_latlng
+Modest Mouse,Group,,,1993,,Issaquah,"Issaquah, King County, Washington, United States","47.5301011,-122.0326191",Portland,"Portland, Multnomah County, Oregon, United States","45.5230622,-122.6764816"
+David Byrne,Person,Male,US,1952-05-14,,Dumbarton,"Dumbarton, West Dunbartonshire, Scotland, United Kingdom","55.945287,-4.564554",United States,United States,"37.09024,-95.712891"
+Pink Floyd,Group,,GB,1965,2014,London,"London, England, United Kingdom","51.5073509,-0.1277583",United Kingdom,United Kingdom,"55.378051,-3.435973"
+Tinariwen,Group,,ML,1982,,Kidal,"Kidal, Mali","18.4520713,1.4096535",Mali,Mali,"17.570692,-3.996166"
+David Bowie,Person,Male,GB,1947-01-08,2016-01-10,Brixton,"Brixton, Lambeth, London, England, United Kingdom","51.4612794,-0.1156148",United Kingdom,United Kingdom,"55.378051,-3.435973"
