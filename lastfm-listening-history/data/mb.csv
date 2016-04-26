@@ -1,0 +1,8 @@
+id,name,type,gender,country,begin_date,end_date,begin_area_name,begin_area_name_full,begin_area_latlng,area_name,area_name_full,area_latlng,place_id,place,place_full,place_latlng
+cdc0fff7-54cf-4052-a283-319b648670fd,Prince,,,JP,,,,,,Japan,,,2db42837-c832-3c27-b4a3-08198f75693c,Japan,Japan,
+45fe4627-94fa-4cff-81d7-cb0636ccb053,Quilt,Group,,US,2009,,Boston,,,United States,,,e331bfdf-b908-429c-a79b-710cf9c06abb,Boston,"Boston, Suffolk County, Massachusetts, United States",
+5846ffe5-7239-4a5e-b3c6-ee44716ec20f,Danger Beach,Group,,AU,,,,,,Australia,,,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,Australia,
+d352f5dd-3023-4565-a7bb-52396bf8821d,Buddy Holly,Person,Male,US,1936-09-07,1959-02-03,Lubbock,,,United States,,,b56bd92d-9945-4828-a964-ccb932649633,Lubbock,"Lubbock, Lubbock County, Texas, United States",
+a2caf598-c303-4832-8de9-d6432fa7435e,Smog,Group,,HU,,,,,,Hungary,,,312bc5bb-7e43-3e63-81c6-b4d712b37b2c,Hungary,Hungary,
+75167b8b-44e4-407b-9d35-effe87b223cf,Neil Young,Person,Male,CA,1945-11-12,,Toronto,,,Canada,,,74b24e62-d2fe-42d2-9d96-31f2da756c77,Toronto,"Toronto, Ontario, Canada",
+72c536dc-7137-4477-a521-567eeb840fa8,Bob Dylan,Person,Male,US,1941-05-24,,Duluth,,,United States,,,04e60741-b1ae-4078-80bb-ffe8ae643ea7,Duluth,"Duluth, St. Louis County, Minnesota, United States",
