@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Last.fm Listening History: Map of Artist's I Have Listened To</title>
+    
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    
+    <script src='lastfm-dataset.js'></script>
+    
+    <style type='text/css'>
+    
+    body { 
+      margin: 0; 
+      padding: 0; 
+      font-family: Helvetica, sans-serif;
+    }
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+    .popupHeader {
+      font-weight: bold;
+      color: gray;
+      font-size: 110%;
+    }
+    .popupDetails {
+      font-weight: normal;
+      color: gray;
+    }
+
+    </style>
+</head>
+
+<body>
+
+    <div id="map"></div>
+
+    <script type="text/javascript">
+    // create the Leaflet map container
+    var map = L.map('map');
+    var initialMapCenter = [37.5, -97];
+    var initialZoomLevel = 4;
+    
+    //add tile layer basemap to the map
+    basemapUrl = 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
+    basemapAttribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>';
+    basemapProperties = {minZoom: 3, maxZoom: 11, attribution: basemapAttribution};
+    var basemap = L.tileLayer(basemapUrl, basemapProperties);
+    map.addLayer(basemap);
+
+    // specify what the circle markers should look like
+    var markerStyles = {
+        radius: 8,
+        fillColor: 'red', fillOpacity: 0.6,
+        color: '#333333', opacity: 0.6, weight: 1
+    };
+    
+    popupFunction = function (feature, layer) {
+        layer.bindPopup('<span class="popupHeader">' + feature.properties.place_full + '</span><br />' + 
+                        '<span class="popupDetails">' + feature.properties.artists + '</span>');}
+    
+    // specify how to load the individual features 
+    var pointsOptions = {
+        onEachFeature: popupFunction,
+        pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, markerStyles);
+        }
+    };
+    
+    // create the layer and add to map
+    var geojsonLayer = L.geoJson(dataset, pointsOptions); 
+    map.addLayer(geojsonLayer);
+    
+    //center the map window on the contiguous US
+    map.setView(initialMapCenter, initialZoomLevel);
+
+    </script>
+</body>
+</html>
