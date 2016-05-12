@@ -1,5 +1,6 @@
 *.bat
 */.ipynb_checkpoints/*
+.ipynb_checkpoints/*
 *.pdf
 keys.py
 keys.pyc
