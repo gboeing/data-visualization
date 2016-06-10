@@ -16,3 +16,5 @@ Otherwise, for the full process:
   3. I created a simple spreadsheet of pre-2012 travels and geocoded it with [previous-travels-history-geocode.ipynb](previous-travels-history-geocode.ipynb)
   4. Combine the Foursquare check-in history, the Google location history, and the previous travels data and visualize with [visualize-location-history.ipynb](visualize-location-history.ipynb)
   5. View the interactive leaflet map with [leaflet](leaflet)
+
+For a simple demonstration of parsing, visualizing, and mapping your full Google location history with Python, see [google-location-history-simple.ipynb](google-location-history-simple.ipynb)
