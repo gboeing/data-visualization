@@ -36,7 +36,7 @@
     //add tile layer basemap to the map
     basemapUrl = 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
     basemapAttribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>';
-    basemapProperties = {minZoom: 3, maxZoom: 18, continuousWorld: false, noWrap: true, attribution: basemapAttribution};
+    basemapProperties = {minZoom: 3, maxZoom: 16, continuousWorld: false, noWrap: true, attribution: basemapAttribution};
     var basemap = L.tileLayer(basemapUrl, basemapProperties);
     map.addLayer(basemap);
 
