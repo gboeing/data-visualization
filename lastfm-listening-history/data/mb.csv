@@ -1,4 +1,85 @@
 id,name,type,gender,country,begin_date,end_date,begin_area_id,begin_area_name,area_id,area_name,place_id,place,place_full
+e7deb86e-d9b1-4514-941c-16f652d85dd1,Porcas Borboletas,Group,,,,,,,,,,,
+1de28854-cd30-4118-838b-f1fd624bea7b,Ceylan Ertem,Person,Female,TR,1980-12-26,,b4fa70e6-df30-44e6-899d-7aa8be0073a6,Sakarya,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,b4fa70e6-df30-44e6-899d-7aa8be0073a6,Sakarya,"Sakarya, Turkey"
+67fb65b5-6589-47f0-9371-8a40eb268dfb,Tommy Guerrero,Person,Male,US,1966-09-09,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
+ff7d390f-03be-40e4-9210-3e0f660966df,Jagjit Singh,Person,Male,IN,1941-02-08,2011-10-10,,,d31a9a15-537f-3669-ad53-25753ddd2772,India,d31a9a15-537f-3669-ad53-25753ddd2772,India,India
+ddec1c79-0653-4d7a-a92a-ceaabc60748f,Francis Lai,Person,Male,FR,1932-04-26,,49856c85-1b7c-4f46-a078-b01261a058ad,Nice,08310658-51eb-3801-80de-5a0739207115,France,49856c85-1b7c-4f46-a078-b01261a058ad,Nice,"Nice, Alpes-Maritimes, Provence-Alpes-Côte-d'Azur, France"
+500d8273-6e4e-4d51-937a-3234af563ce1,Neşe Karaböcek,Person,Female,TR,1947-04-01,,,,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,Turkey
+5235052b-7fa0-498b-accf-26b9e7767da7,محمد منير,Person,Male,EG,1954-10-10,,cf82cb78-741a-46e8-8448-13b824261ca0,Aswān,8e0551f2-95c2-3cc0-a0a9-f2d344f10667,Egypt,cf82cb78-741a-46e8-8448-13b824261ca0,Aswān,"Aswān, Egypt"
+28c646b6-b854-467f-8e2d-cd1f540ac784,The Soul Snatchers,Group,,NL,,,,,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,Netherlands
+03beb9c7-776c-4b95-9197-48dc6d507855,Cernunnos Rising,Group,,,,,,,5c6f4550-e4ae-4570-99c9-dc133582d1aa,Lancashire,5c6f4550-e4ae-4570-99c9-dc133582d1aa,Lancashire,"Lancashire, England, United Kingdom"
+11e191d1-85d2-4a65-88a4-183f37c94f2e,Tudósok,Group,,,1988,,,,,,,,
+1a72edc2-a5cc-4a3f-b7f4-e98a8742f9f9,Yellow Red Sparks,,,,,,,,,,,,
+92c89b21-4e2f-458c-9ad2-41df1754ceec,Wemean,Group,,,1993-02,,,,,,,,
+64b3fe37-3092-441e-8aa6-bcedba870286,מטרופולין,,,,,,,,,,,,
+9cea2cd9-abaa-433c-b209-6f207703b561,The Loves,Group,,GB,2000,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
+e550412a-996d-4f06-ad1f-88730256af5b,Keba,Group,,FI,,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
+39136644-ced6-4cb4-8204-457566a9b673,Belkıs Özener,Person,Female,TR,1936,,,,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,Turkey
+e8fbaeb9-7d65-4af5-a7bd-800b4a43d6e3,The Hearing,Group,,,,,,,,,,,
+f93425ab-4f4a-4fd9-aa20-7142b25c6f29,Siberia,,,FI,1981,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
+956856b1-6e6b-4bb8-89a2-c4cb708e138a,Holograf,,,,,,,,,,,,
+bdc86b54-5607-464a-9f07-bd5da82e5880,Ulvens Döttrar,Group,,,,,,,,,,,
+c7b3fd60-ded9-4be6-8f80-5f02417a85f1,Héctor Pavez,Person,Male,CL,1932-12-01,1975-07-14,77ec97c2-5377-4ac7-b156-620470e71940,Santiago,82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7,Chile,77ec97c2-5377-4ac7-b156-620470e71940,Santiago,"Santiago, Región Metropolitana de Santiago, Chile"
+bd407a04-25e1-4ee5-aac2-d7725422a101,Lisa Thiel,Person,,,,,,,,,,,
+7dfd557d-b50d-4a95-86dd-6c7714063f28,Preßburger Klezmer Band,Group,,SK,1995,,,,eb52ca74-dd11-37a1-a3fa-154430bf2df2,Slovakia,eb52ca74-dd11-37a1-a3fa-154430bf2df2,Slovakia,Slovakia
+8730fa0e-de37-4b48-a39b-cb5613a6f23b,Mary McLaughlin,Person,Female,,,,,,,,,,
+ecac9b43-3b78-4210-8e13-b0cf1636b369,Yakuzi Pato,Group,,FI,,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
+8ba9b51b-e141-4606-973d-214c03e144b4,La Rondalla Venezolana,Group,,VE,,,,,2ac90d6b-04fa-3006-8a91-89da01032365,Venezuela,2ac90d6b-04fa-3006-8a91-89da01032365,Venezuela,Venezuela
+b1cfe0d1-5183-4909-abe9-505561745cea,Raquel Tavares,,,,1997-01-01,,,,,,,,
+e03f4a9b-7426-4503-aa53-d4ebb7c80d82,Lille Palle,Person,Male,DK,,,,,4757b525-2a60-324a-b060-578765d2c993,Denmark,4757b525-2a60-324a-b060-578765d2c993,Denmark,Denmark
+93da8c8a-bd13-4418-a00e-2861b8518a8d,Menahan Street Band,Group,,US,2007,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
+62236dc6-a060-4d85-a680-07ae71acb5b2,Morau,Person,,,,,,,,,,,
+707b2b4a-3f5d-40ae-a699-908ceb7af304,Jaz Dhami,Person,Male,,1986-03-01,,,,226c4dca-ef2a-4d4b-ba25-4118d116557a,Birmingham,226c4dca-ef2a-4d4b-ba25-4118d116557a,Birmingham,"Birmingham, West Midlands, England, United Kingdom"
+9bbbbc68-c60d-40e4-9b50-0b65d76a9683,La Floripondio,Group,,CL,1991,,,,82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7,Chile,82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7,Chile,Chile
+b0bbb2eb-713d-4ae6-b36c-e50b0e9f501f,Mikel Markez,Person,Male,ES,1971,,,,471c46a7-afc5-31c4-923c-d0444f5053a4,Spain,471c46a7-afc5-31c4-923c-d0444f5053a4,Spain,Spain
+61de7b0e-ac74-45fd-a148-dda5ef51a483,Kenan,Group,,TR,,,,,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,Turkey
+bc89206c-3dfd-4b6e-8de2-6b8ebc40629e,Meinir Gwilym,Person,Female,,1983-03-31,,74b3db14-539d-488d-8e66-1f5c8036e2ff,Isle of Anglesey,8297708c-5743-47d6-a5ac-f40a41c49ad9,Wales,74b3db14-539d-488d-8e66-1f5c8036e2ff,Isle of Anglesey,"Isle of Anglesey, Wales, United Kingdom"
+c5424237-3b55-40f9-ae2c-5b365c8d6328,R. Carlos Nakai Quartet,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
+2b5c26ec-1442-4026-bf8b-e7fb5bc6624a,Leo Marini,,,,,,,,,,,,
+7d88f17f-8073-46cf-ad47-547d72228f74,Cici Kızlar,Group,,TR,,,,,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,Turkey
+d10897d4-94d7-46d6-9c37-f859045e9717,Los Pakines,Group,,PE,1972,,,,719f6082-95c7-3dd5-9503-e143010a6cc1,Peru,719f6082-95c7-3dd5-9503-e143010a6cc1,Peru,Peru
+7e93517b-897f-43f7-bee9-8bdb7bd1c9b1,M.A. Numminen,Person,Male,FI,1940-03-12,,12c8f3b2-db51-4ac8-b400-51d82391acfb,Somero,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,12c8f3b2-db51-4ac8-b400-51d82391acfb,Somero,"Somero, Varsinais-Suomi, Finland"
+639601aa-d764-469d-b6b6-6f01edf47eb9,Romulo Caicedo,Person,Male,CO,1929-02-17,,,,02b60d8d-7164-339d-868d-22d147d9f74a,Colombia,02b60d8d-7164-339d-868d-22d147d9f74a,Colombia,Colombia
+8021d7c0-c61c-430b-a082-ae7f6122d59c,Muska,Person,Female,FI,1952-06-28,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
+e983a420-56a8-44d9-bb1a-bfc10f1cec7a,Gred and Forge,,,,,,,,,,,,
+0974e788-847f-4b79-ad90-0394976a5c5b,Royal City,Group,,CA,1999,2004,3013a6c3-6235-4e21-8ee6-9fc840e5e4fb,Guelph,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,3013a6c3-6235-4e21-8ee6-9fc840e5e4fb,Guelph,"Guelph, Wellington County, Ontario, Canada"
+f931c961-b647-4861-be8c-f47d84a4de51,Diljit Dosanjh,Person,Male,,,,,,,,,,
+bb0f8b94-24fb-4883-b705-1d5b413f9a40,Shirona,,,,,,,,,,,,
+8bee3098-9d1c-42b6-a13e-b9100c86c03c,James Asher,Person,Male,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
+95508331-85b3-4fff-a508-4cd7feca1093,Kaikukasti,Group,,FI,2004,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
+eac36ea9-cd3c-4ef5-8e98-97120be2acc8,Thomas Kjellerup,,,,,,,,,,,,
+f4164dcf-a8d8-4344-9031-dbf8772bb5ec,Kumikameli,Group,,FI,1986-11-13,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
+a25d2510-17c5-45b0-887f-570b9a47a3e4,Niña,Group,,MX,1996,,,,3e08b2cd-69f3-317c-b1e4-e71be581839e,Mexico,3e08b2cd-69f3-317c-b1e4-e71be581839e,Mexico,Mexico
+f91b9b28-25b7-4064-81d1-f43163085770,Мумий Тролль,Group,,RU,1983-10-16,,deebd9e3-4536-4df5-9ce4-d5a3f603121d,Vladivostok,1f1fc3a4-9500-39b8-9f10-f0a465557eef,Russia,deebd9e3-4536-4df5-9ce4-d5a3f603121d,Vladivostok,"Vladivostok, Primorskiy kray, Russia"
+f4b34587-c97c-4feb-bd3e-29b628527a94,Wrinkar Experience,,,,,,,,,,,,
+64835b83-a317-4e42-8f85-83dc4a440789,The Tiki Tones,Group,,,,,,,,,,,
+d981b146-7a5e-4963-98fc-b55cc1ab34c4,Gabriel Raymon,,,,,,,,,,,,
+3d785212-3e0c-4f22-bca5-3d48ce7f9b33,鳳飛飛,Person,Female,TW,1953-08-20,2012-01-03,f4bd5d62-336f-4753-b270-ddf94510f644,Dasi,41637cec-9a4f-389c-86d2-fc6abf3357b5,Taiwan,f4bd5d62-336f-4753-b270-ddf94510f644,Dasi,"Dasi, Taoyuan County, Taiwan"
+1fd31bdc-7672-421e-b6ed-84838780c502,Michel Portal,Person,Male,FR,1935-11-25,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
+b6fa9b9b-41cf-45a6-adc0-0a4c9a8c0d3c,The Budos Band,Group,,US,2005,,a8c1d0e2-0837-454c-afa9-4190b3fe4d92,Staten Island,489ce91b-6658-3307-9877-795b68554c98,United States,a8c1d0e2-0837-454c-afa9-4190b3fe4d92,Staten Island,"Staten Island, New York, New York, United States"
+c73617a2-72a0-4f60-9b82-4cad3557d916,Joana Amendoeira,Person,Female,PT,1982-09-30,,,,781b0c54-3d54-362d-a941-8a617def4992,Portugal,781b0c54-3d54-362d-a941-8a617def4992,Portugal,Portugal
+a52c12e1-d674-4e90-b86a-c331c2cfecfb,車婉婉,Person,Female,HK,1974-12-28,,,,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,"Hong Kong, China"
+dde13452-406d-4937-97a5-bf6c673297ec,Didar Sandhu,Person,,,,,,,,,,,
+c484b6ce-4acd-4eda-a1a0-c7a45097eef1,劉思惠,Person,,,1982-08-27,,,,,,,,
+be431331-e58c-4019-89c0-5aa10954bd82,郭小霖,Person,Male,HK,,,,,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,"Hong Kong, China"
+23c8fdc8-e593-48df-87f4-df448a85ba43,E.T. Mensah,Person,Male,GH,1919-05-31,1996-07-19,9cb34398-63c4-453e-91eb-0d52b36d62f7,Accra,cf48f4b4-28f0-39ab-9104-650324a1d1c8,Ghana,9cb34398-63c4-453e-91eb-0d52b36d62f7,Accra,"Accra, Greater Accra, Ghana"
+63cfceff-8b70-4e45-a12f-93c500516a97,Susana Félix,Person,Female,PT,1975-10-12,,9aee8c1a-c7d5-4713-af71-c022bccf50b4,Lisbon,781b0c54-3d54-362d-a941-8a617def4992,Portugal,9aee8c1a-c7d5-4713-af71-c022bccf50b4,Lisbon,"Lisbon, Lisboa, Portugal"
+90145471-64e9-4078-9d07-d19b501e51a5,雷安娜,Person,Female,HK,1959-07-04,,,,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,"Hong Kong, China"
+3805e1f5-e791-4b68-bb98-270452542cb6,陶贊新,,,,,,,,,,,,
+9c948d5d-08cf-418d-ab76-cf4dddfe3215,Văn Mai Hương,Person,Female,VN,1994-09-27,,,,0158e991-c3c6-374a-9b9d-024bbaff6980,Vietnam,0158e991-c3c6-374a-9b9d-024bbaff6980,Vietnam,Vietnam
+1cd4d60a-3e66-4a62-8505-36551a8930fe,The Pooh Sticks,Group,,GB,1987,1995,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
+083cb33e-c9a2-4156-a21c-cfda976476e9,The Sugarman 3,Group,,US,1996,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
+c835720e-b9cf-4efe-8e50-38fb2c2c71e9,Wendy Rule,Person,Female,AU,,,,,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,Australia
+5e37f952-41b5-4bf5-beda-ec2a84ab9de2,蔡立兒,Person,,,,,,,,,,,
+f0a5df5b-f6fb-4709-aa63-bbc8b13abe03,Kanaku y El Tigre,Group,,PE,2008-01-01,,,,719f6082-95c7-3dd5-9503-e143010a6cc1,Peru,719f6082-95c7-3dd5-9503-e143010a6cc1,Peru,Peru
+4234be04-7db3-4a2d-a90e-e1fa60e993b1,Olimpo Cárdenas,,,,,,,,,,,,
+962886ec-c1f9-402e-9fed-6402dae07955,Richard Warner,Person,,,,,,,,,,,
+2d3c8376-7671-469a-8af1-f5b00e9992f8,黃凱芹,Person,Male,HK,1961-11-18,,,,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,"Hong Kong, China"
+10385cb9-e45f-4c18-b03e-190c94f5f305,יהודית רביץ,Person,,,1956-12-29,,,,,,,,
+e25a34c1-e767-4580-8370-c6cf37b060a0,The Basics,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
+c2df3bd8-0ddf-4bff-80fc-303fa69b5014,Thu Thủy,Person,,,1984-01-03,,,,,,,,
+95eb13f5-6caa-4778-af62-59632ee90eaf,TV-Resistori,Group,,FI,1996,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
+d799af2a-329b-4547-abdf-608b1024f765,Los Huasos Quincheros,,,,,,,,,,,,
 fbbdf645-f003-46dc-8ff7-9b733f730c8f,殷承宗,Person,Male,CN,1941,,,,7c81bb69-a99b-3487-b6d4-0f76d7a29ca0,China,7c81bb69-a99b-3487-b6d4-0f76d7a29ca0,China,China
 f35f2f80-25ed-41b0-b44a-4e0d0f05c04b,小宮瑞代,Person,,,,,,,,,,,
 243de1ca-bd30-4fca-b8f4-0a0cc907205e,Boys of Scandinavia,Group,,,,,,,,,,,
@@ -157,7 +238,6 @@ ce090a15-86b6-41cb-8be9-9dc5af98e4ba,Dario Campeotto,Person,,,,,,,,,,,
 9c700e9d-a580-4126-9746-1b1c9b8d95a0,Anabela,Person,Female,PT,1976-09-22,,,,781b0c54-3d54-362d-a941-8a617def4992,Portugal,781b0c54-3d54-362d-a941-8a617def4992,Portugal,Portugal
 04b99eef-fe35-4266-8f97-06280007a22c,Anna Guo,Person,,,,,,,,,,,
 134f6a64-c08c-4d9e-8a73-71d1be8bfaf2,Birthe Wilke,Person,Female,DK,1936-03-19,,,,4757b525-2a60-324a-b060-578765d2c993,Denmark,4757b525-2a60-324a-b060-578765d2c993,Denmark,Denmark
-3805e1f5-e791-4b68-bb98-270452542cb6,陶贊新,,,,,,,,,,,,
 a986c008-f5af-4c41-a590-8360f60b8de8,Lela Tataraidze,,,,,,,,,,,,
 b72fcbc4-7cca-4164-be4b-94a07b814811,Los Caballeros,,,,,,,,,,,,
 0c63ece0-bf65-4349-b56d-4792f1731376,Cecilia Todd,Person,,,,,,,,,,,
@@ -211,7 +291,6 @@ fc96896b-cd44-4fca-aa48-f5ad2f14f195,Wang Yiqin,,,CN,,,,,7c81bb69-a99b-3487-b6d4
 e6c6b032-8ce1-4506-91f7-da09498a766c,The Occasionals,Group,,,,,,,,,,,
 07302a4a-9fda-43a7-8486-7346007871aa,朱昌耀,Person,,,,,,,,,,,
 fe1fb790-541b-4c5f-803b-634756beab6c,Vajas,Group,,NO,,,,,6743d351-6f37-3049-9724-5041161fff4d,Norway,6743d351-6f37-3049-9724-5041161fff4d,Norway,Norway
-a52c12e1-d674-4e90-b86a-c331c2cfecfb,車婉婉,Person,Female,HK,1974-12-28,,,,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,0373cdff-eac8-3fbc-92dc-36a607da06d1,Hong Kong,"Hong Kong, China"
 7dce8e46-63c0-46b5-b7fa-dfc84ed8727e,Hugo Montenegro and His Orchestra,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 d7be1441-063d-4ee8-8051-e3a9fc7834e0,Cynthia McQuillin,Person,,,1953-07-25,2006-01-14,,,,,,,
 36522185-8049-43b1-921c-e31217688969,Edmundo Arias,Person,Male,CO,1930,,,,02b60d8d-7164-339d-868d-22d147d9f74a,Colombia,02b60d8d-7164-339d-868d-22d147d9f74a,Colombia,Colombia
@@ -466,7 +545,7 @@ f50073c8-f175-4992-8a51-22df77f7bdb7,The Rocking Ghosts,Group,,DK,,,,,4757b525-2
 2df4ef09-c2bf-47c4-8ec9-401d106d3ea0,Nurhan Damcıoğlu,Person,Female,TR,,,,,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,d3be28b4-41f7-3752-8a05-ed45e1d1e492,Turkey,Turkey
 05997275-aced-4f41-9cd8-74d0cfa17803,Hey Geronimo,Group,,AU,,,,,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,Australia
 943018f9-a969-4922-9f3c-fc600214d856,Peter Thomas Sound Orchestra,Group,,DE,,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
-c3754232-e672-4055-afec-2f3f9633f864,Shit Robot,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+c3754232-e672-4055-afec-2f3f9633f864,Shit Robot,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 8383233b-1e09-4ab1-aa0b-c2030a979223,Polyanka Russian Gypsy Orchestra,,,,,,,,,,,,
 a0cded3a-4ca3-4ddb-8e46-ed9037f30aea,Todd Terje,Person,Male,NO,1981-05-11,,8708899d-4622-4e66-8579-b0a43ae503f4,Buskerud,6743d351-6f37-3049-9724-5041161fff4d,Norway,8708899d-4622-4e66-8579-b0a43ae503f4,Buskerud,"Buskerud, Norway"
 a270b68f-6bb5-41ba-ae7f-7b501e4797a5,Six Organs of Admittance,Person,Male,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
@@ -717,7 +796,7 @@ f25069f1-4954-4b55-bf62-341c2d85e85c,Poul Reichhardt,Person,Male,DK,1913-02-02,1
 3f107c41-0c08-44dc-b2a6-5ad7bc4e8fd6,Johnny Pearson,Person,Male,GB,1925-06-18,2011-03-20,338e2a89-1256-45c8-a59c-bedb8d8f533b,Chesterfield,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,338e2a89-1256-45c8-a59c-bedb8d8f533b,Chesterfield,"Chesterfield, Derbyshire, England, United Kingdom"
 0a6dbb13-8dbf-4113-a98a-7de22e4ac642,Rune Gustafsson,Person,Male,SE,1933-08-25,2012-06-15,,,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,Sweden
 b48aeb63-5733-43d0-b890-75a207890b29,Bobo Moreno,Person,Male,DK,1965,,,,4757b525-2a60-324a-b060-578765d2c993,Denmark,4757b525-2a60-324a-b060-578765d2c993,Denmark,Denmark
-abc68f31-c8e1-41af-b1b5-ecf0405aeea2,Barnbrack,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+abc68f31-c8e1-41af-b1b5-ecf0405aeea2,Barnbrack,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 090d8f2d-0634-4692-9f0c-ed496926269b,Kesane Quartet,,,,,,,,,,,,
 1fb517fd-25e4-4f71-9967-6e2674c781ed,Tuomari Nurmio,Person,Male,FI,1950-11-21,,39d62198-1e76-4de4-b079-e86e3a393bbc,Helsinki,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,39d62198-1e76-4de4-b079-e86e3a393bbc,Helsinki,"Helsinki, Uusimaa, Finland"
 ebaabcd8-3fcd-4db7-8524-e4ccf03bf4cd,Alash Ensemble,Group,,,1999,,,,,,,,
@@ -778,7 +857,7 @@ ff401398-6d43-4e91-8f87-33fe19aafd84,Pescado Rabioso,Group,,AR,1971,1973,2bd8607
 668b5081-410d-459f-a861-04cb27962c02,Gang Chenpa,Group,,,,,,,,,,,
 f1020b51-df89-4ccd-bfe2-7fad00c360f1,Brad Barr,Person,,US,1975-07-27,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 9aeae4e1-e07a-4e67-bfb7-00662c7c082a,Nikitov,Group,,,,,,,,,,,
-199d9689-b785-4c00-ba48-84f68b317e9b,Dermot O'Brien,Person,Male,IE,1932-10-23,2007-05-22,e7afc9a0-e0c8-4d16-99a5-973ff3dea2f6,Ardee,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,e7afc9a0-e0c8-4d16-99a5-973ff3dea2f6,Ardee,"Ardee, County Louth, Leinster, Ireland, Ireland"
+199d9689-b785-4c00-ba48-84f68b317e9b,Dermot O'Brien,Person,Male,IE,1932-10-23,2007-05-22,e7afc9a0-e0c8-4d16-99a5-973ff3dea2f6,Ardee,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,e7afc9a0-e0c8-4d16-99a5-973ff3dea2f6,Ardee,"Ardee, County Louth, Leinster, Ireland"
 1f5e54bb-08f2-47ce-8ba5-343ab54f8185,Loren MazzaCane Connors,Person,Male,US,1949-10-21,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 d37f9dc7-e905-4745-9816-6a1281f879a2,Georgian Voices,,,,,,,,,,,,
 efcbbbd3-1701-4021-a413-dcb5d5baf038,Chris Forsyth,Person,Male,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
@@ -1395,7 +1474,7 @@ c9dda914-1eb2-4762-8006-208010b89ee3,Lion Babe,Group,,,,,,,74e50e58-5deb-4b99-93
 e664d1cd-23ab-48d5-b8fa-e98485daa5be,The Radio Dept.,Group,,SE,1995,,b7e60f9a-4c25-43e3-95ff-c73b9bac93e6,Lund,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,b7e60f9a-4c25-43e3-95ff-c73b9bac93e6,Lund,"Lund, Lund Municipality, Skåne, Sweden"
 11b9a562-1c06-4731-80c9-18c36ad2bfd4,Les Sins,Person,Male,,,,,,,,,,
 b2595e56-5e19-43e1-8e6a-3e27fc7f7476,NAVVI,,,,,,,,,,,,
-81fc71ab-cd44-4c5b-8eb8-fd65e045ef61,MMOTHS,Person,Male,IE,1993-05,,49cf2d10-dd7f-479c-b414-fb1c29d6afec,Newbridge,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,49cf2d10-dd7f-479c-b414-fb1c29d6afec,Newbridge,"Newbridge, County Kildare, Leinster, Ireland, Ireland"
+81fc71ab-cd44-4c5b-8eb8-fd65e045ef61,MMOTHS,Person,Male,IE,1993-05,,49cf2d10-dd7f-479c-b414-fb1c29d6afec,Newbridge,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,49cf2d10-dd7f-479c-b414-fb1c29d6afec,Newbridge,"Newbridge, County Kildare, Leinster, Ireland"
 a1c29c2f-778f-4b02-9ac7-80f0c37cdea9,Sondre Lerche,Person,Male,NO,1982-09-05,,34268a86-54ec-487d-afa3-1afe3266a382,Bergen,6743d351-6f37-3049-9724-5041161fff4d,Norway,34268a86-54ec-487d-afa3-1afe3266a382,Bergen,"Bergen, Hordaland, Norway"
 ffd7af34-7a60-4238-be7d-36d490c84d1d,Petite Noir,Person,Male,,,,,,,,,,
 c89ea689-c053-4d97-bada-8b81a6236f58,Chromatics,Group,,US,2001,,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,489ce91b-6658-3307-9877-795b68554c98,United States,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,"Portland, Multnomah County, Oregon, United States"
@@ -1817,7 +1896,7 @@ a9667e1a-cc53-412e-ae6d-72e24b79cfa8,The Roots,Group,,,,,,,,,,,
 6ed9f05b-97f3-437b-ae52-6b6fee5ecc30,Joakim,Person,Male,FR,,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
 b83b1cc7-38ea-4a6c-bd87-9853f0034fab,We Have Band,Group,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 11f34bce-298f-4527-a5eb-28cafee71c4f,Generationals,Group,,,2008,,3c5a0506-d852-4e96-8d1e-d8126328f3be,New Orleans,3c5a0506-d852-4e96-8d1e-d8126328f3be,New Orleans,3c5a0506-d852-4e96-8d1e-d8126328f3be,New Orleans,"New Orleans, Louisiana, United States"
-f22942a1-6f70-4f48-866e-238cb2308fbd,Aphex Twin,Person,Male,,1971-08-18,,1063266a-afe6-4fb3-ab51-0d290a79f979,Limerick,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,1063266a-afe6-4fb3-ab51-0d290a79f979,Limerick,"Limerick, County Limerick, Munster, Ireland, Ireland"
+f22942a1-6f70-4f48-866e-238cb2308fbd,Aphex Twin,Person,Male,,1971-08-18,,1063266a-afe6-4fb3-ab51-0d290a79f979,Limerick,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,1063266a-afe6-4fb3-ab51-0d290a79f979,Limerick,"Limerick, County Limerick, Munster, Ireland"
 f43d43c8-eedf-4628-99b0-04120e7124c8,YELLE,Group,,FR,2005,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
 ad386705-fb8c-40ec-94d7-e690e079e979,Menomena,Group,,,2000,,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,"Portland, Multnomah County, Oregon, United States"
 7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222,Grimes,Person,Female,CA,1988-03-17,,6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef,Vancouver,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef,Vancouver,"Vancouver, British Columbia, Canada"
@@ -1850,7 +1929,7 @@ d2e123d0-c53e-4444-a52a-efeff44953c7,DJ Cam,Person,Male,FR,1973,,dc10c22b-e510-4
 27ca9c68-650a-4659-b8ef-013e5698ff55,John Grant,Person,Male,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 0ef5eb85-fddb-443b-8a14-8b5da90be3e9,Hospitality,Group,,,2007,,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,"Brooklyn, New York, New York, United States"
 f2492c31-54a8-4347-a1fc-f81f72873bbf,Mac DeMarco,Person,Male,CA,1990-04-30,,b43eccfe-628c-41d1-a257-cc07ed19942c,Duncan,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,b43eccfe-628c-41d1-a257-cc07ed19942c,Duncan,"Duncan, British Columbia, Canada"
-6272b7c7-db53-491d-980d-8a97b9064cc9,Jape,Person,Male,IE,2003,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland, Ireland"
+6272b7c7-db53-491d-980d-8a97b9064cc9,Jape,Person,Male,IE,2003,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland"
 96f6ec97-998c-4991-b836-7b71feb3ca6f,TOKiMONSTA,Person,Female,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 e5b3675b-efd0-4873-813d-a01462ba307e,CANT,Person,Male,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 3514578c-402a-4825-bd97-a525f31004e6,Temples,Group,,FI,,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
@@ -2061,7 +2140,7 @@ bae861b4-4023-470b-8f10-45adb446af8d,The Triffids,Group,,NL,,,,,ef1b7cc0-cd26-36
 b0b95c2e-a361-4a36-bd77-9dfb6ce41014,Poi Dog Pondering,Group,,US,1985,,a1411661-be21-4290-8dc1-50f3d8e3ea67,Honolulu,489ce91b-6658-3307-9877-795b68554c98,United States,a1411661-be21-4290-8dc1-50f3d8e3ea67,Honolulu,"Honolulu, Honolulu County, Hawaii, United States"
 98a35a4d-a845-4282-bc7c-5679f2bb9bd2,Frank Black,Person,Male,US,1965-04-06,,e331bfdf-b908-429c-a79b-710cf9c06abb,Boston,489ce91b-6658-3307-9877-795b68554c98,United States,e331bfdf-b908-429c-a79b-710cf9c06abb,Boston,"Boston, Suffolk County, Massachusetts, United States"
 6758601f-6d57-491e-a125-037f382a5ddd,The Polyphonic Spree,Group,,US,2000,,e96f1c0d-721b-470d-a9c4-0aa2d89cf9e7,Dallas,489ce91b-6658-3307-9877-795b68554c98,United States,e96f1c0d-721b-470d-a9c4-0aa2d89cf9e7,Dallas,"Dallas, Dallas County, Texas, United States"
-47aa3e97-f623-4472-8e54-da886c6a6e20,The Boomtown Rats,Group,,IE,1975,1986,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+47aa3e97-f623-4472-8e54-da886c6a6e20,The Boomtown Rats,Group,,IE,1975,1986,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 9d4c4835-c71a-4647-a4fc-263e26832cd0,Grandaddy,Group,,US,1992,2006-01-27,40110a75-ab09-4b39-b798-155de590b746,Modesto,489ce91b-6658-3307-9877-795b68554c98,United States,40110a75-ab09-4b39-b798-155de590b746,Modesto,"Modesto, Stanislaus County, California, United States"
 acc07ffc-ed8b-45a1-a70a-b518618ac649,Lush,Person,,,,,,,,,,,
 974b1bfe-dc7a-419a-94f4-f387a193e273,Golden Smog,Group,,US,1989,,3e80aaa7-9b71-450f-8147-0ecf101d8f1a,Minneapolis,489ce91b-6658-3307-9877-795b68554c98,United States,3e80aaa7-9b71-450f-8147-0ecf101d8f1a,Minneapolis,"Minneapolis, Hennepin County, Minnesota, United States"
@@ -2123,16 +2202,16 @@ b3ae82c2-e60b-4551-a76d-6620f1b456aa,Melissa Etheridge,Person,Female,US,1961-05-
 efef848b-63e4-4323-8ef7-69a48fbdd51d,4 Non Blondes,Group,,US,1989,1994,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 00c49f40-d715-4b79-b223-432048602cce,Indigo Girls,Group,,US,1985,,26e0e534-19ea-4645-bfb3-1aa4e83a4046,Atlanta,489ce91b-6658-3307-9877-795b68554c98,United States,26e0e534-19ea-4645-bfb3-1aa4e83a4046,Atlanta,"Atlanta, Fulton County, Georgia, United States"
 b10db9ad-b4c3-47f3-a7a4-37864b134f65,Soul Asylum,Group,,US,1983,,3e80aaa7-9b71-450f-8147-0ecf101d8f1a,Minneapolis,489ce91b-6658-3307-9877-795b68554c98,United States,3e80aaa7-9b71-450f-8147-0ecf101d8f1a,Minneapolis,"Minneapolis, Hennepin County, Minnesota, United States"
-a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,U2,Group,,IE,1976,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland, Ireland"
+a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,U2,Group,,IE,1976,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland"
 3d2b98e5-556f-4451-a3ff-c50ea18d57cb,Aerosmith,Group,,US,1970,,e331bfdf-b908-429c-a79b-710cf9c06abb,Boston,489ce91b-6658-3307-9877-795b68554c98,United States,e331bfdf-b908-429c-a79b-710cf9c06abb,Boston,"Boston, Suffolk County, Massachusetts, United States"
 0ef3f425-9bd2-4216-9dd2-219d2fe90f1f,Lenny Kravitz,Person,Male,US,1964-05-26,,261962ea-d8c2-4eaf-a80c-f14376ffadb0,Manhattan,489ce91b-6658-3307-9877-795b68554c98,United States,261962ea-d8c2-4eaf-a80c-f14376ffadb0,Manhattan,"Manhattan, New York, New York, United States"
 f9776598-2689-41db-98d3-829f5510021c,Jesus Jones,Group,,GB,1988-08,,fdce545c-2a96-42d7-a51a-f81e15924102,Bradford on Avon,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,fdce545c-2a96-42d7-a51a-f81e15924102,Bradford on Avon,"Bradford on Avon, Wiltshire, England, United Kingdom"
 26f94a6a-d60a-4bcc-a130-ce0e77122bd7,EMF,Group,,GB,1989,1997,da806ae8-ff93-4988-93ee-4bee3c5a56bf,Gloucestershire,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,da806ae8-ff93-4988-93ee-4bee3c5a56bf,Gloucestershire,"Gloucestershire, England, United Kingdom"
 825a918f-09fa-40ee-9c27-b0921d48bdbb,Tom Cochrane,Person,Male,CA,1953-05-14,,b459e1a2-17be-4e09-83ed-9bdb1afd6fdb,Lynn Lake,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,b459e1a2-17be-4e09-83ed-9bdb1afd6fdb,Lynn Lake,"Lynn Lake, Manitoba, Canada"
 1bcb61f3-ca9c-4a26-b16e-0547ad6c21be,Spin Doctors,Group,,US,1988,,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,489ce91b-6658-3307-9877-795b68554c98,United States,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,"New York, New York, United States"
-8ca01f46-53ac-4af2-8516-55a909c0905e,My Bloody Valentine,Group,,IE,1983,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland, Ireland"
+8ca01f46-53ac-4af2-8516-55a909c0905e,My Bloody Valentine,Group,,IE,1983,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland"
 c48d4327-8122-4286-af66-05e1ee6ac4d8,Mazzy Star,Group,,US,1989,,dbacf2e3-7e3e-4cee-8804-999b109285fa,Santa Monica,489ce91b-6658-3307-9877-795b68554c98,United States,dbacf2e3-7e3e-4cee-8804-999b109285fa,Santa Monica,"Santa Monica, Los Angeles County, California, United States"
-c98d40fd-f6cf-4b26-883e-eaa515ee2851,The Cranberries,Group,,IE,1990,,1063266a-afe6-4fb3-ab51-0d290a79f979,Limerick,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,1063266a-afe6-4fb3-ab51-0d290a79f979,Limerick,"Limerick, County Limerick, Munster, Ireland, Ireland"
+c98d40fd-f6cf-4b26-883e-eaa515ee2851,The Cranberries,Group,,IE,1990,,1063266a-afe6-4fb3-ab51-0d290a79f979,Limerick,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,1063266a-afe6-4fb3-ab51-0d290a79f979,Limerick,"Limerick, County Limerick, Munster, Ireland"
 9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6,Nirvana,Group,,GB,1967,,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,"London, England, United Kingdom"
 afb8f901-d846-4c70-a898-59bc183d1da7,Crash Test Dummies,Group,,CA,1989,,35307acf-aba0-4ca7-9df6-b9398d873a8f,Winnipeg,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,35307acf-aba0-4ca7-9df6-b9398d873a8f,Winnipeg,"Winnipeg, Manitoba, Canada"
 80ccfede-c258-4575-a7ad-c982e9932e0f,Sheryl Crow,Person,Female,US,1962-02-11,,82e9335c-a12e-421c-bcc1-a14f83b27b39,Kennett,489ce91b-6658-3307-9877-795b68554c98,United States,82e9335c-a12e-421c-bcc1-a14f83b27b39,Kennett,"Kennett, Dunklin County, Missouri, United States"
@@ -2294,24 +2373,44 @@ fe7ae31b-f7ca-4c90-8812-86e2faf664f8,Benny Hester,Person,Male,US,,,,,489ce91b-66
 b1b9d5cc-7975-43e5-960e-670583da7bc8,Throwing Muses,Group,,US,1981,,80fdf454-a704-4f43-a8d2-11f1d3835d6c,Newport,489ce91b-6658-3307-9877-795b68554c98,United States,80fdf454-a704-4f43-a8d2-11f1d3835d6c,Newport,"Newport, Newport County, Rhode Island, United States"
 cf20a6c7-822b-4c54-9600-c75bee6a296c,Count Five,Group,,US,1964,1969,f95f42b0-59a6-410d-a08e-3db77f4aea8a,San Jose,489ce91b-6658-3307-9877-795b68554c98,United States,f95f42b0-59a6-410d-a08e-3db77f4aea8a,San Jose,"San Jose, Santa Clara County, California, United States"
 78e854b8-9713-4ff2-9218-6b3784893bff,Vince Staples,Person,Male,US,1993-07-02,,e183ffae-1d35-4c78-b552-957535e40af1,Long Beach,489ce91b-6658-3307-9877-795b68554c98,United States,e183ffae-1d35-4c78-b552-957535e40af1,Long Beach,"Long Beach, Los Angeles County, California, United States"
+410bbb19-8309-4a0b-9f87-3d65bde4a826,Nipsey Hussle,Person,Male,US,1985-08-15,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 6b1cf581-17a9-42c3-927b-d1e2797b1695,Y.G.,Person,Male,US,1990-03-09,,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,489ce91b-6658-3307-9877-795b68554c98,United States,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,"Compton, Los Angeles County, California, United States"
 bce6d667-cde8-485e-b078-c0a05adea36d,ScHoolboy Q,Person,Male,,1986-10-26,,00ed07a5-acd7-4217-a37a-72ebf08349b6,Wiesbaden,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,00ed07a5-acd7-4217-a37a-72ebf08349b6,Wiesbaden,"Wiesbaden, Hessen, Germany"
 381086ea-f511-4aba-bdf9-71c753dc5077,Kendrick Lamar,Person,Male,US,1987-06-17,,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,489ce91b-6658-3307-9877-795b68554c98,United States,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,"Compton, Los Angeles County, California, United States"
+baec7ed1-32d7-482d-9455-33c403e61952,The Game,,,GB,1963,1967,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
+f90e8b26-9e52-4669-a5c9-e28529c47894,Snoop Dogg,Person,Male,US,1971-10-20,,e183ffae-1d35-4c78-b552-957535e40af1,Long Beach,489ce91b-6658-3307-9877-795b68554c98,United States,e183ffae-1d35-4c78-b552-957535e40af1,Long Beach,"Long Beach, Los Angeles County, California, United States"
+f43dd62f-4fc7-4216-9220-be555f16d131,Westside Connection,Group,,US,1993,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 382f1005-e9ab-4684-afd4-0bdae4ee37f2,2Pac,Person,Male,US,1971-06-16,1996-09-13,1cea068b-1894-4711-9578-47d9cfff5d84,East Harlem,489ce91b-6658-3307-9877-795b68554c98,United States,1cea068b-1894-4711-9578-47d9cfff5d84,East Harlem,"East Harlem, Manhattan, New York, New York, United States"
+3a54bffa-2314-44a2-927b-60144119c780,N.W.A,Group,,US,1986,1992,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,489ce91b-6658-3307-9877-795b68554c98,United States,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,"Compton, Los Angeles County, California, United States"
 a6f5f408-e37e-444a-a0dc-ea41a152dfcf,MC Ren,Person,Male,US,1969-06-16,,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,489ce91b-6658-3307-9877-795b68554c98,United States,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,"Compton, Los Angeles County, California, United States"
 5f6ab597-f57a-40da-be9e-adad48708203,Dr. Dre,Person,Male,US,1965-02-18,,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,489ce91b-6658-3307-9877-795b68554c98,United States,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,"Compton, Los Angeles County, California, United States"
 d67e2f50-a3c9-4ee7-b41d-2b90ebb31196,Craig Mack,Person,Male,US,1971-09-03,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
+5cab4a1f-9797-42eb-9346-f5f375262a4a,The 2 Live Crew,Group,,US,1985,1998,0aae418d-8db2-4802-911b-db230839f010,Riverside,489ce91b-6658-3307-9877-795b68554c98,United States,0aae418d-8db2-4802-911b-db230839f010,Riverside,"Riverside, Riverside County, California, United States"
+84683370-5eae-418b-acd8-883ac028a8a0,George Clinton,Person,Male,US,1941-07-22,,5d733f7d-0039-4747-bd78-329fda7f3ed6,Kannapolis,489ce91b-6658-3307-9877-795b68554c98,United States,5d733f7d-0039-4747-bd78-329fda7f3ed6,Kannapolis,"Kannapolis, Cabarrus County, North Carolina, United States"
 e89e79d4-04c1-4bc3-9be1-a15899c93d8f,Zapp,Group,,US,1978,1999-04-24,a55188f6-e976-499b-97b2-735985458216,Dayton,489ce91b-6658-3307-9877-795b68554c98,United States,a55188f6-e976-499b-97b2-735985458216,Dayton,"Dayton, Montgomery County, Ohio, United States"
 d1947987-9614-49ae-bd36-8000e6b6f7d0,Parliament,Group,,US,1968,1980,ee872fa7-4286-4928-b5a6-2785a4d43e98,Plainfield,489ce91b-6658-3307-9877-795b68554c98,United States,ee872fa7-4286-4928-b5a6-2785a4d43e98,Plainfield,"Plainfield, Union County, New Jersey, United States"
 2a0b3bf9-0d04-4e49-91f5-9530cbebab55,Cherrelle,Person,Female,US,1958-10-11,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
+6b6a2f74-2ef2-43fe-bf2f-84331b5c55fa,Steve Arrington's Hall of Fame,Group,,US,1982,1984,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 16fdd9af-467f-47ce-bd29-3413b445b90f,Jimmy Buffett,Person,Male,US,1946-12-25,,1f4e11c9-8bcb-48e5-af97-342a388b30d5,Pascagoula,489ce91b-6658-3307-9877-795b68554c98,United States,1f4e11c9-8bcb-48e5-af97-342a388b30d5,Pascagoula,"Pascagoula, Jackson County, Mississippi, United States"
 fd857293-5ab8-40de-b29e-55a69d4e4d0f,Muse,Group,,FR,,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
+24296e30-e076-43e7-902f-a69c2c463c12,Rocko,,,,,,,,,,,,
+fec7fe1c-05aa-4c72-82cc-75045c3fe56a,Break Science,Group,,US,2009,,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,489ce91b-6658-3307-9877-795b68554c98,United States,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,"Brooklyn, New York, New York, United States"
 8475297d-fb78-4630-8d74-9b87b6bb7cc8,of Montreal,Group,,US,1996,,29d7853f-28be-4114-8a5b-5dd95d162d69,Athens,489ce91b-6658-3307-9877-795b68554c98,United States,29d7853f-28be-4114-8a5b-5dd95d162d69,Athens,"Athens, Clarke County, Georgia, United States"
 fad2875e-ba81-4637-b859-4684622dcb1c,Kimbra,Person,Female,NZ,1990-03-27,,b30b3600-3cd6-4762-b3c6-33a0a5aff27d,Hamilton,8524c7d9-f472-3890-a458-f28d5081d9c4,New Zealand,b30b3600-3cd6-4762-b3c6-33a0a5aff27d,Hamilton,"Hamilton, Waikato, North Island, New Zealand"
+c3477250-bc5f-44e9-aa0a-144dd2d7a935,The Dø,Group,,FR,2007,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
+b6d7ec94-830c-44dd-b699-ce66556b7e55,Macklemore,Person,Male,US,1983-06-19,,10adc6b5-63bf-4b4e-993e-ed83b05c22fc,Seattle,489ce91b-6658-3307-9877-795b68554c98,United States,10adc6b5-63bf-4b4e-993e-ed83b05c22fc,Seattle,"Seattle, King County, Washington, United States"
+0ae49abe-d6af-44fa-8ab0-b9ace5690e6f,Bombay Bicycle Club,Group,,GB,2005,,1f2f8902-d8ed-41b5-b013-bd8d707851b2,Crouch End,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,1f2f8902-d8ed-41b5-b013-bd8d707851b2,Crouch End,"Crouch End, Haringey, London, England, United Kingdom"
+dc21d171-7204-4759-9fd0-77d031aeb40c,Frightened Rabbit,Group,,,2003,,c005cd8d-7d0a-48a2-8666-a7c7d86903d6,Selkirk,6fa1c7da-6689-4cec-85f9-680f853e8a08,Scotland,c005cd8d-7d0a-48a2-8666-a7c7d86903d6,Selkirk,"Selkirk, Scottish Borders, Scotland, United Kingdom"
+d8e41375-bd8d-4e39-9da7-f0c171e97086,Grouplove,Group,,US,2009,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 45dc5f07-6609-4760-a933-8c9e0f858d05,French Montana,Person,Male,,1984-11-09,,6ef0b580-b9d5-4c9e-851d-33b24cd66bac,Rabat,eb4a386e-1178-4e3a-a371-30418dd6fd2e,The Bronx,6ef0b580-b9d5-4c9e-851d-33b24cd66bac,Rabat,"Rabat, Rabat-Salé-Zemmour-Zaer, Morocco"
 6f009a97-416e-4169-82b2-6d96da8c7a97,NONONO,Group,,SE,2012,,1127ddc2-eab3-4662-8718-6adbdeea3b10,Stockholm,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,1127ddc2-eab3-4662-8718-6adbdeea3b10,Stockholm,"Stockholm, Stockholm, Sweden"
+1f574ab1-a46d-4586-9331-f0ded23e0411,Flight of the Conchords,Group,,NZ,1998,,,,8524c7d9-f472-3890-a458-f28d5081d9c4,New Zealand,8524c7d9-f472-3890-a458-f28d5081d9c4,New Zealand,New Zealand
 06db73fd-57e2-4a6f-bcd3-699fb7bb7af4,Martin Solveig,Person,Male,FR,1976-09-22,,dc10c22b-e510-4006-8b7f-fecb4f36436e,Paris,08310658-51eb-3801-80de-5a0739207115,France,dc10c22b-e510-4006-8b7f-fecb4f36436e,Paris,"Paris, Île-de-France, France"
+aa1d4315-5246-42b2-b62b-f997d046d8b2,Emancipator,Person,Male,,1987,,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,"New York, New York, United States"
 18e9528e-a4af-4e09-9a35-ea11c7a7ae43,Ylvis,Group,,NO,2000-10-19,,,,6743d351-6f37-3049-9724-5041161fff4d,Norway,6743d351-6f37-3049-9724-5041161fff4d,Norway,Norway
+fac3ff34-6ba4-425a-8f01-b181ef4a908a,tUnE-yArDs,Person,Female,US,1979,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
+97b1142f-c71e-4971-8736-4a8ceaf6b4c3,The Decemberists,Group,,,2000,,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,"Portland, Multnomah County, Oregon, United States"
+9fa07bb4-8312-4cd7-a19a-4fdbc5797148,Okkervil River,Group,,US,1998,,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,489ce91b-6658-3307-9877-795b68554c98,United States,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,"Austin, Travis County, Texas, United States"
 6c8b9855-ba8b-48f9-ac1d-42167f7f7b18,The Shins,Group,,US,1997,,075e1cc9-9567-4317-a931-4f6dcecc688f,Albuquerque,489ce91b-6658-3307-9877-795b68554c98,United States,075e1cc9-9567-4317-a931-4f6dcecc688f,Albuquerque,"Albuquerque, Bernalillo County, New Mexico, United States"
 44c26f0c-7f46-4cf0-9673-f7aa1bec1e5b,Merchandise,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 86809b51-cbe2-45f1-804a-e66eed635dea,Laurie Anderson,Person,Female,US,1947-06-05,,c627b685-0637-4482-8f3f-750211d472b6,Glen Ellyn,489ce91b-6658-3307-9877-795b68554c98,United States,c627b685-0637-4482-8f3f-750211d472b6,Glen Ellyn,"Glen Ellyn, DuPage County, Illinois, United States"
@@ -2575,7 +2674,6 @@ e2e5564e-be3f-4ce6-94d8-4e09ea5c85c9,Paula,,,,,,,,,,,,
 e56aee57-d90e-40cf-a70d-beb70f6f3c69,Kaytranada,Person,Male,,1992-08-25,,3c620ce0-11e1-4dfc-b510-4143b165258f,Port-au-Prince,a510b9b1-404d-4e23-8db8-0f6585909ed8,Quebec,3c620ce0-11e1-4dfc-b510-4143b165258f,Port-au-Prince,"Port-au-Prince, Ouest, Haiti"
 ca5db97b-ba17-4e85-a876-46065e2052b3,Spirit,Group,,US,1967,1997,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 42012890-61a5-4c58-a97b-b93ef26effd3,Antwon,,,,,,,,,,,,
-410bbb19-8309-4a0b-9f87-3d65bde4a826,Nipsey Hussle,Person,Male,US,1985-08-15,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 390ff98c-0614-4927-8b94-db7b40a92bbe,Toquinho,Person,Male,BR,1946-07-06,,,,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,Brazil
 751e517d-9663-4692-8c20-942e16d484c5,Djavan,Person,Male,BR,1949-01-27,,,,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,Brazil
 f81f19b9-c76e-43ac-8656-bb56071785fb,Marisa Monte,Person,Female,BR,1967-07-01,,9443d4f5-668c-4f30-96bd-6caf831de30f,Rio de Janeiro,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,9443d4f5-668c-4f30-96bd-6caf831de30f,Rio de Janeiro,"Rio de Janeiro, Rio de Janeiro, Brazil"
@@ -2652,7 +2750,6 @@ c18efdce-44d9-4d80-a10a-667c89b60986,Perro,Group,,,,,,,5c2c1de2-b38d-4484-b8e9-f
 2281c0fa-ee97-43e8-9da7-9c652295d6a0,Wildbirds & Peacedrums,Group,,SE,2007,,8f6c316e-9924-48ea-967b-16757dd82399,Gothenburg,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,8f6c316e-9924-48ea-967b-16757dd82399,Gothenburg,"Gothenburg, Västra Götaland, Sweden"
 51b13502-903f-4c6c-b0a2-9cccfbfea9b1,Benjamin Booker,Person,Male,,1989-06-14,,21834e17-8606-4e10-af5c-76d5d668eba9,Virginia Beach,3c5a0506-d852-4e96-8d1e-d8126328f3be,New Orleans,21834e17-8606-4e10-af5c-76d5d668eba9,Virginia Beach,"Virginia Beach, Virginia, United States"
 d7224804-9845-4d2f-a09c-b5869dd65ef4,The Snails,Group,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
-f0a5df5b-f6fb-4709-aa63-bbc8b13abe03,Kanaku y El Tigre,Group,,PE,2008-01-01,,,,719f6082-95c7-3dd5-9503-e143010a6cc1,Peru,719f6082-95c7-3dd5-9503-e143010a6cc1,Peru,Peru
 5048de90-abf2-4da7-8f8f-c3a567feef2d,Denise LaSalle,Person,Female,US,1939-07-16,,6fddb177-f3fc-4c30-9d49-9c7e949fe0bc,Mississippi,489ce91b-6658-3307-9877-795b68554c98,United States,6fddb177-f3fc-4c30-9d49-9c7e949fe0bc,Mississippi,"Mississippi, United States"
 8e2188f5-c28b-4cf5-9f01-b3ed0ed2b00b,The Free Design,Group,,US,1967,1972,75e398a3-5f3f-4224-9cd8-0fe44715bc95,New York,489ce91b-6658-3307-9877-795b68554c98,United States,75e398a3-5f3f-4224-9cd8-0fe44715bc95,New York,"New York, United States"
 fa598e78-5cc5-4a8b-a3b5-63934d4712c7,Joan Armatrading,Person,Female,GB,1950-12-09,,3b66ce42-7e2e-46c5-ade7-8fface535fb0,Saint Kitts,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,3b66ce42-7e2e-46c5-ade7-8fface535fb0,Saint Kitts,"Saint Kitts, Saint Kitts and Nevis"
@@ -2774,7 +2871,7 @@ dc0d05ce-2f47-4962-b4fa-8631a0a51987,The Replacements,Group,,US,1979,1991,3e80aa
 8ddc1812-2cf8-451c-afd1-e88f9d446e1b,Galaxie,Group,,,2002,,,,c3cc624e-b963-49cf-ad0b-e318cb341963,Montreal,c3cc624e-b963-49cf-ad0b-e318cb341963,Montreal,"Montreal, Quebec, Canada"
 d62842be-03d8-414b-a8d6-36f4b3b563ed,The Olivia Tremor Control,Group,,US,1992,,970c9f3c-4b1c-4860-991d-f687632e8937,Ruston,489ce91b-6658-3307-9877-795b68554c98,United States,970c9f3c-4b1c-4860-991d-f687632e8937,Ruston,"Ruston, Lincoln Parish, Louisiana, United States"
 7b1cf87e-c54f-4abc-893d-90245a31900d,Mercury Rev,Group,,US,1989,,7e5e7fd7-c1eb-4cb8-87e2-fb1c0eda9e48,Buffalo,489ce91b-6658-3307-9877-795b68554c98,United States,7e5e7fd7-c1eb-4cb8-87e2-fb1c0eda9e48,Buffalo,"Buffalo, Erie County, New York, United States"
-f58853a7-916d-4f0b-83fe-3e80b5cda47c,Adebisi Shank,Group,,IE,2007,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+f58853a7-916d-4f0b-83fe-3e80b5cda47c,Adebisi Shank,Group,,IE,2007,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 88a5ed53-1c52-474a-8ed5-49961ee2366e,Giraffes? Giraffes!,Group,,,2004,,5c7576b7-b0aa-4216-862a-c3237a999bf2,Santa Cruz,,,5c7576b7-b0aa-4216-862a-c3237a999bf2,Santa Cruz,"Santa Cruz, Santa Cruz County, California, United States"
 4d436119-8d30-4804-9e0e-164b1bfaf58e,Tera Melos,Group,,US,2004,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 a28ff33b-62b2-47d1-b33a-79ac6d0b8e44,Auto!Automatic!!,Group,,US,2003,,ff21865c-ce46-4417-967c-a3d2d02d29bf,Tampa,489ce91b-6658-3307-9877-795b68554c98,United States,ff21865c-ce46-4417-967c-a3d2d02d29bf,Tampa,"Tampa, Hillsborough County, Florida, United States"
@@ -3012,7 +3109,6 @@ c79df192-153f-4cc3-b9bf-9c36bc797c73,Lucy Rose,Person,Female,GB,1989-06-28,,,,8a
 7de39798-7866-45e6-a67c-64a33d2a1995,The Rubens,Group,,,2011,,ee8fe1ca-7455-485d-afbc-064844f5ee43,New South Wales,ee8fe1ca-7455-485d-afbc-064844f5ee43,New South Wales,ee8fe1ca-7455-485d-afbc-064844f5ee43,New South Wales,"New South Wales, Australia"
 98f8e048-f14f-4ef9-a958-5a79f2f6b542,Guards,Group,,US,2010,,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,489ce91b-6658-3307-9877-795b68554c98,United States,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,"New York, New York, United States"
 ff9f99d4-aa42-4c82-a7c7-9157a3cbb5ba,Great Good Fine Ok,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-d8e41375-bd8d-4e39-9da7-f0c171e97086,Grouplove,Group,,US,2009,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 5b6ebfe0-f72b-4902-bba9-74c8af0f1af0,The 1975,Group,,GB,2002,,852531bf-3410-401f-b432-9c3157a386b9,Manchester,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,852531bf-3410-401f-b432-9c3157a386b9,Manchester,"Manchester, Greater Manchester, England, United Kingdom"
 f7547a5b-df52-4c07-b3ca-fb72caff512c,The Griswolds,Group,,AU,2012,,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,"Sydney, New South Wales, Australia"
 13ae3bb0-be04-4c16-9777-680b56df7403,Desmond & The Tutus,Group,,,2008,,,,291777c2-c48d-4002-9a0d-c7f87fea5c2b,Johannesburg,291777c2-c48d-4002-9a0d-c7f87fea5c2b,Johannesburg,"Johannesburg, Gauteng, South Africa"
@@ -3078,7 +3174,6 @@ fae6f0a2-7b71-4535-a6c0-fe0eb1e28ddd,The Teeth,Group,,,2001,,b21e4552-050d-4c0c-
 b2befbb4-c585-4b05-8efa-3deebc8e1385,BØRNS,Person,Male,,1992-01-07,,b3060467-87f9-4a29-8f88-f0fde11e8da8,Grand Haven,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,b3060467-87f9-4a29-8f88-f0fde11e8da8,Grand Haven,"Grand Haven, Ottawa County, Michigan, United States"
 dc894255-3dd4-46d1-9547-fabe79738722,Chef'Special,Group,,NL,2008,,9e2a34db-dd12-433b-b61b-cd1e16f5a480,Haarlem,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,9e2a34db-dd12-433b-b61b-cd1e16f5a480,Haarlem,"Haarlem, Noord-Holland, Netherlands"
 2a9b17db-4f22-4ffa-a547-4fdfda1ce946,The Strumbellas,Group,,CA,,,,,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,Canada
-dc21d171-7204-4759-9fd0-77d031aeb40c,Frightened Rabbit,Group,,,2003,,c005cd8d-7d0a-48a2-8666-a7c7d86903d6,Selkirk,6fa1c7da-6689-4cec-85f9-680f853e8a08,Scotland,c005cd8d-7d0a-48a2-8666-a7c7d86903d6,Selkirk,"Selkirk, Scottish Borders, Scotland, United Kingdom"
 4c2ca679-2c94-4156-a04c-f07aed50dee2,Bronze Radio Return,Group,,US,2008,,5e81fea0-f163-42d4-82d5-4e443a5483af,Hartford,489ce91b-6658-3307-9877-795b68554c98,United States,5e81fea0-f163-42d4-82d5-4e443a5483af,Hartford,"Hartford, Hartford County, Connecticut, United States"
 98c3b2ad-dddd-43bd-8058-9d9c4e07b7e9,Panama Wedding,Group,,,,,,,,,,,
 36393a79-7cf3-4bdd-a917-f8db17e11f14,Brick+Mortar,Group,,US,2008-03,,8c449bf6-603a-410f-a95b-e2bbd3e73e59,Toms River,489ce91b-6658-3307-9877-795b68554c98,United States,8c449bf6-603a-410f-a95b-e2bbd3e73e59,Toms River,"Toms River, Ocean County, New Jersey, United States"
@@ -3189,7 +3284,6 @@ ae362950-090f-4686-82da-9d22a5f88f2e,The Soft Boys,Group,,GB,1976,1981,11ba7f4f-
 655b3e5b-09e4-45dd-941c-6fa3fc12521b,M. Ward,Person,Male,US,1973-10-04,,38f51a57-80e0-427b-934d-fd11983fac67,Thousand Oaks,489ce91b-6658-3307-9877-795b68554c98,United States,38f51a57-80e0-427b-934d-fd11983fac67,Thousand Oaks,"Thousand Oaks, Ventura County, California, United States"
 ff294730-0315-440d-a543-54005779c15b,The Mamas & the Papas,Group,,US,1965,1972,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,489ce91b-6658-3307-9877-795b68554c98,United States,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,"New York, New York, United States"
 c70be580-5b78-4ee0-ae55-a152e75a0a57,Tristen,Person,Male,FR,,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
-9fa07bb4-8312-4cd7-a19a-4fdbc5797148,Okkervil River,Group,,US,1998,,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,489ce91b-6658-3307-9877-795b68554c98,United States,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,"Austin, Travis County, Texas, United States"
 78e46ae5-9bfd-433b-be3f-19e993d67ecc,Rufus Wainwright,Person,Male,,1973-07-22,,d6258f84-08c5-4112-83dd-106d12cd8090,Rhinebeck,c3cc624e-b963-49cf-ad0b-e318cb341963,Montreal,d6258f84-08c5-4112-83dd-106d12cd8090,Rhinebeck,"Rhinebeck, Dutchess County, New York, United States"
 82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751,Otis Redding,Person,Male,US,1941-09-09,1967-12-10,5760d59b-1323-495f-99b4-a8c28a91775e,Dawson,489ce91b-6658-3307-9877-795b68554c98,United States,5760d59b-1323-495f-99b4-a8c28a91775e,Dawson,"Dawson, Terrell County, Georgia, United States"
 9ad6d1e3-427f-4921-b603-7e9eda94a061,Jenny Lewis,Person,Female,US,1976-01-08,,cd22d0ba-c79b-45b3-a8e0-617b240df5f0,Las Vegas,489ce91b-6658-3307-9877-795b68554c98,United States,cd22d0ba-c79b-45b3-a8e0-617b240df5f0,Las Vegas,"Las Vegas, Clark County, Nevada, United States"
@@ -3245,7 +3339,6 @@ f3c3803a-3149-467a-a816-c667146f3bed,I Monster,Group,,GB,1997,,,,8a754a16-0027-3
 46f4e349-ddec-4131-9367-91b630a821d0,The Pains of Being Pure at Heart,Group,,US,2007,,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,489ce91b-6658-3307-9877-795b68554c98,United States,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,"New York, New York, United States"
 7b3f60c5-5a3e-4045-8bf4-6de8161e2dd6,Bowerbirds,Group,,US,2006,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 ada7a83c-e3e1-40f1-93f9-3e73dbc9298a,Arctic Monkeys,Group,,GB,2002,,3ce737cb-f5bb-403d-a98a-e0602670229f,Sheffield,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,3ce737cb-f5bb-403d-a98a-e0602670229f,Sheffield,"Sheffield, South Yorkshire, England, United Kingdom"
-fac3ff34-6ba4-425a-8f01-b181ef4a908a,tUnE-yArDs,Person,Female,US,1979,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 eddc0911-21fc-4327-ab90-ccc459ce1ef7,Coconut Records,Person,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 7d57bab8-3c1f-4c91-8dd2-dd51c89155a2,Volcano Choir,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 c3f28da8-662d-4f09-bdc7-3084bf685930,Iron & Wine,Person,Male,US,1974-07-26,,9467f934-dffb-4a36-99c2-3ae0e636f2d1,Chapin,489ce91b-6658-3307-9877-795b68554c98,United States,9467f934-dffb-4a36-99c2-3ae0e636f2d1,Chapin,"Chapin, Lexington County, South Carolina, United States"
@@ -3333,7 +3426,6 @@ ea99eec5-bd72-4b4f-86e4-54c5a34f7e10,The Heavy,Group,,GB,2007,,f51a1724-464b-41a
 0bddc3cd-a8ae-43bc-93bf-f7b22603e7bc,Drowners,Group,,,,,,,,,,,
 47035a1e-7137-4c92-9a74-88647d021efd,The Virginmarys,Group,,,,,,,,,,,
 050fffd7-c7cc-4bb2-8f7a-a0ee4bc47678,Circa Waves,Group,,,2013,,c249c30e-88ab-4b2f-a745-96a25bd7afee,Liverpool,c249c30e-88ab-4b2f-a745-96a25bd7afee,Liverpool,c249c30e-88ab-4b2f-a745-96a25bd7afee,Liverpool,"Liverpool, Merseyside, England, United Kingdom"
-0ae49abe-d6af-44fa-8ab0-b9ace5690e6f,Bombay Bicycle Club,Group,,GB,2005,,1f2f8902-d8ed-41b5-b013-bd8d707851b2,Crouch End,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,1f2f8902-d8ed-41b5-b013-bd8d707851b2,Crouch End,"Crouch End, Haringey, London, England, United Kingdom"
 f0468734-9ae8-4701-bb18-42c4a162115a,The Xcerts,Group,,GB,2001,,7749e9ec-716b-4197-bd2c-1dd480e9c36a,Aberdeen,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,7749e9ec-716b-4197-bd2c-1dd480e9c36a,Aberdeen,"Aberdeen, Scotland, United Kingdom"
 aadee541-1990-41df-b8a9-38ac679435ec,Royal Blood,Group,,ES,,,,,471c46a7-afc5-31c4-923c-d0444f5053a4,Spain,471c46a7-afc5-31c4-923c-d0444f5053a4,Spain,Spain
 f0be891f-6114-448a-ac55-a11bb2961f78,The Struts,Group,,GB,2010,,4ce8712b-c3e9-4373-a5d6-87f0b2afd313,Derby,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,4ce8712b-c3e9-4373-a5d6-87f0b2afd313,Derby,"Derby, England, United Kingdom"
@@ -3534,7 +3626,7 @@ c306218f-6818-40ce-97ce-7cadd3d5213f,Lydia Loveless,Person,Female,US,1990-09-04,
 8c228680-2976-4d86-849a-6754579cc199,Martha Tilston,Person,Female,GB,1975,,16fe6dbc-b7aa-4935-a150-5d90660af8a5,Brighton,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,16fe6dbc-b7aa-4935-a150-5d90660af8a5,Brighton,"Brighton, Brighton and Hove, England, United Kingdom"
 ba1bf556-2af2-4772-835f-ed2e15070758,Mary Chapin Carpenter,Person,Female,US,1958-02-21,,61a9459b-05ee-483d-a364-785dfb6232e9,Princeton,489ce91b-6658-3307-9877-795b68554c98,United States,61a9459b-05ee-483d-a364-785dfb6232e9,Princeton,"Princeton, Mercer County, New Jersey, United States"
 3f7574d9-94f3-46dc-8228-9d7358019d9f,Rhiannon Giddens,Person,Female,US,1977-02-21,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-dcc0e816-31d2-4501-93c6-b5b64fcda39f,Mary Black,Person,Female,IE,1955-05-22,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+dcc0e816-31d2-4501-93c6-b5b64fcda39f,Mary Black,Person,Female,IE,1955-05-22,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 f731ccc4-e22a-43af-a747-64213329e088,[anonymous],Other,,XW,,,,,525d4e18-3d00-31b9-a58b-a146a916de8f,[Worldwide],525d4e18-3d00-31b9-a58b-a146a916de8f,[Worldwide],[Worldwide]
 d28a93fc-30a4-49e9-a8a5-68728d37900f,Kate Wolf,Person,Female,US,1942-01-27,1986-12-10,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 1e617848-7471-4c4c-8953-ecb4a251ed95,Caroline Herring,Person,Female,US,,,ade572c4-5885-4dc7-887f-20c4242cadc4,Canton,489ce91b-6658-3307-9877-795b68554c98,United States,ade572c4-5885-4dc7-887f-20c4242cadc4,Canton,"Canton, Madison County, Mississippi, United States"
@@ -3542,7 +3634,7 @@ d28a93fc-30a4-49e9-a8a5-68728d37900f,Kate Wolf,Person,Female,US,1942-01-27,1986-
 a289b721-febb-481b-8f17-572403bfc55a,Salt Cathedral,Group,,,,,,,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,"Brooklyn, New York, New York, United States"
 10000730-525f-4ed5-aaa8-92888f060f5f,Bat for Lashes,Person,Female,GB,1979-10-25,,808dbe1f-5047-4f97-aeca-cd16ccced82e,Wembley,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,808dbe1f-5047-4f97-aeca-cd16ccced82e,Wembley,"Wembley, Brent, London, England, United Kingdom"
 607f8553-8c34-49b0-a736-2b5c4c4297fe,Ann Mayo Muir,Person,,,,,,,,,,,
-1c64cee6-47d2-439a-a91a-8242c283ae87,Frances Black,Person,Female,IE,1960-06-25,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+1c64cee6-47d2-439a-a91a-8242c283ae87,Frances Black,Person,Female,IE,1960-06-25,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 231475d8-fddb-4d7d-aad9-287e59e4b4ba,Martha Wainwright,Person,Female,CA,1976-05-08,,c3cc624e-b963-49cf-ad0b-e318cb341963,Montreal,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,c3cc624e-b963-49cf-ad0b-e318cb341963,Montreal,"Montreal, Quebec, Canada"
 9e103f85-7af7-41d7-b83b-49ba8f0c5abf,Of Monsters and Men,Group,,IS,2010,,00285a39-7574-47fa-9234-e03d0d141831,Keflavík,48802a32-075a-3805-a183-277c66047693,Iceland,00285a39-7574-47fa-9234-e03d0d141831,Keflavík,"Keflavík, Reykjanesbær, Suðurnes, Iceland"
 d91cf2dc-80d0-4ba1-afe2-0d6227d636f7,Lisa Lampanelli,Person,,,1961-07-19,,,,,,,,
@@ -3591,7 +3683,7 @@ e4466078-fb0f-4899-98a2-7c7dfeb14714,First Aid Kit,Group,,ES,2004,,12c3b82e-fcab
 60c05c03-e33e-44a7-bef8-6fb245aaea51,Lee Hi,Person,Female,KR,1996-09-23,,74351fc1-a893-40f1-a254-6c37d3cead6c,Bucheon,b9f7d640-46e8-313e-b158-ded6d18593b3,South Korea,74351fc1-a893-40f1-a254-6c37d3cead6c,Bucheon,"Bucheon, Gyeonggido, South Korea"
 3ab2ee23-1c2f-458c-9c8c-ca4844729120,MØ,Person,Female,DK,1988-08-13,,4033e068-1d57-4aa3-87b5-0f3bfe8a8167,Odense,4757b525-2a60-324a-b060-578765d2c993,Denmark,4033e068-1d57-4aa3-87b5-0f3bfe8a8167,Odense,"Odense, Odense Municipality, Region of Southern Denmark, Denmark"
 4b585938-f271-45e2-b19a-91c634b5e396,Kate Bush,Person,Female,GB,1958-07-30,,f5fa3a2b-f793-4fab-8bb6-fe824c941b53,Welling,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,f5fa3a2b-f793-4fab-8bb6-fe824c941b53,Welling,"Welling, Bexley, London, England, United Kingdom"
-8d0d65cf-3d01-4110-bf36-7e1aa27b68f2,Lisa Hannigan,Person,Female,IE,1981-02-12,,c2718129-c49b-4e1b-a67f-5d1ebc209711,Kilcloon,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,c2718129-c49b-4e1b-a67f-5d1ebc209711,Kilcloon,"Kilcloon, County Meath, Leinster, Ireland, Ireland"
+8d0d65cf-3d01-4110-bf36-7e1aa27b68f2,Lisa Hannigan,Person,Female,IE,1981-02-12,,c2718129-c49b-4e1b-a67f-5d1ebc209711,Kilcloon,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,c2718129-c49b-4e1b-a67f-5d1ebc209711,Kilcloon,"Kilcloon, County Meath, Leinster, Ireland"
 3712a76d-8dbd-40fd-9bd1-27ae08f1cd51,Betty Who,Person,Female,,1991-10-05,,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,"Sydney, New South Wales, Australia"
 baf05baf-69fb-47dd-93c2-033536b8c385,Brandi Carlile,Person,Female,US,1981-06-01,,e6b13f7c-9917-4474-a562-22b55a57775a,Ravensdale,489ce91b-6658-3307-9877-795b68554c98,United States,e6b13f7c-9917-4474-a562-22b55a57775a,Ravensdale,"Ravensdale, King County, Washington, United States"
 17b39ce5-e3f5-4b1c-9223-1077260e0947,Sally Van Meter,Person,Female,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
@@ -3686,7 +3778,7 @@ cefd9d3d-9506-461c-972f-89b4cbade9da,Crystal Gayle,Person,Female,US,1951-01-09,,
 b84d7c94-d171-4257-a57a-48dc5425323b,Nadia Boulanger,Person,Female,FR,1887-09-16,1979-10-22,dc10c22b-e510-4006-8b7f-fecb4f36436e,Paris,08310658-51eb-3801-80de-5a0739207115,France,dc10c22b-e510-4006-8b7f-fecb4f36436e,Paris,"Paris, Île-de-France, France"
 3c047738-e773-4687-a561-3d2e7514c698,Natasha Leggero,,,,,,,,,,,,
 cc265f9f-a592-4fe0-a8d6-2bc01661a29e,Claire Lynch,Person,Female,US,1954-02-20,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-09a86c03-7909-4f05-bff7-ecb33ac7e3a2,Mary O'Hara,Person,Female,IE,1935-05-12,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+09a86c03-7909-4f05-bff7-ecb33ac7e3a2,Mary O'Hara,Person,Female,IE,1935-05-12,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 5a5eeab3-e4b7-42e9-8ae9-b90eeb210b96,Kitty Wells,Person,Female,US,1919-08-30,2012-07-16,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 9ce777de-7e3f-40fe-8c9e-415955fc49d8,Donna Fargo,Person,Female,,1945-11-10,,c0479cd7-e7dd-40c1-997d-93bdb8cd058f,Mount Airy,9bcf5f48-e3cb-4dba-a769-ba3d7aa15ccd,Franklin,c0479cd7-e7dd-40c1-997d-93bdb8cd058f,Mount Airy,"Mount Airy, Surry County, North Carolina, United States"
 61b4603b-e075-4869-a345-11a55c1c251a,Delia Bell,Person,,,,,,,,,,,
@@ -3718,7 +3810,7 @@ ed829618-9435-4ca3-b4df-ab6539d143fc,Moms Mabley,Person,Female,US,1894-03-19,197
 d35910d2-e04c-4a2f-a8f9-3dd2483a2a2c,Tig Notaro,Person,Female,US,1971,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 c4d0f625-6568-4f9f-b5ea-82ba4048c345,Morgan Murphy,Person,Female,US,1981-10-23,,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,489ce91b-6658-3307-9877-795b68554c98,United States,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,"Portland, Multnomah County, Oregon, United States"
 5e3c8159-f9a5-465c-aff0-98af8e9d7bd6,Esmerine,Group,,,,,,,,,,,
-1b3d2ea9-1e7d-48cd-ad23-70f79585e529,September Girls,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+1b3d2ea9-1e7d-48cd-ad23-70f79585e529,September Girls,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 16cc0097-9c96-4d79-a89f-e5e29a9af86c,Landshapes,Group,,GB,2012-05-08,,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,"London, England, United Kingdom"
 d2d99fa9-0f21-41d5-a810-933927ded10f,Forever,Group,,AU,,,,,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,Australia
 66dca896-5c42-44e4-8c8f-2837b0c9e72e,Casey Mecija,Person,Female,CA,1981,,,,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,Canada
@@ -3781,7 +3873,6 @@ d6ed7887-a401-47a8-893c-34b967444d26,Ramones,Group,,US,1974-01,1996,74e50e58-5de
 95c2339b-8277-49a6-9aaf-08d8eeeaa0be,Little Richard,Person,Male,,1932-12-05,,1e067421-c08c-40db-aaff-07583602ead8,Macon,1b0d9525-31b0-4ffe-9e89-da0af839c7de,Lynchburg,1e067421-c08c-40db-aaff-07583602ead8,Macon,"Macon, Bibb County, Georgia, United States"
 ed2135b6-30fe-4ea7-9ccb-8b04cc510abf,Asleep in the Sea,Group,,,2004-03,,,,,,,,
 6a4c2d34-7f7f-4f87-b17f-b5540aa840db,The Miracles,Group,,US,1955,2011,b03ff310-d8e2-45cf-9455-769f76641eb2,Detroit,489ce91b-6658-3307-9877-795b68554c98,United States,b03ff310-d8e2-45cf-9455-769f76641eb2,Detroit,"Detroit, Wayne County, Michigan, United States"
-f90e8b26-9e52-4669-a5c9-e28529c47894,Snoop Dogg,Person,Male,US,1971-10-20,,e183ffae-1d35-4c78-b552-957535e40af1,Long Beach,489ce91b-6658-3307-9877-795b68554c98,United States,e183ffae-1d35-4c78-b552-957535e40af1,Long Beach,"Long Beach, Los Angeles County, California, United States"
 debabff3-2559-46e5-862d-ef2a906d7010,Hall & Oates,Group,,US,1967,,0eeb01c2-6e31-46ad-96b8-319749f731d2,Philadelphia,489ce91b-6658-3307-9877-795b68554c98,United States,0eeb01c2-6e31-46ad-96b8-319749f731d2,Philadelphia,"Philadelphia, Philadelphia County, Pennsylvania, United States"
 091ec508-877f-4e3c-92a3-10903bbbc7ad,The Everly Brothers,Group,,US,1957,2014-01-03,2412f885-2939-44dc-ac6a-7c1275052c5c,Knoxville,489ce91b-6658-3307-9877-795b68554c98,United States,2412f885-2939-44dc-ac6a-7c1275052c5c,Knoxville,"Knoxville, Knox County, Tennessee, United States"
 e20747e7-55a4-452e-8766-7b985585082d,Frank Zappa,Person,Male,US,1940-12-21,1993-12-04,2fb5445d-3987-49fe-957a-f730a7acc4a2,Baltimore,489ce91b-6658-3307-9877-795b68554c98,United States,2fb5445d-3987-49fe-957a-f730a7acc4a2,Baltimore,"Baltimore, Maryland, United States"
@@ -3803,7 +3894,6 @@ b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,Group,,GB,1957-03,1970-04-10,c2
 da7bb7d8-557d-4635-9ca1-e6e985525bd5,Randy Newman,Person,Male,US,1943-11-28,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 183d6ef6-e161-47ff-9085-063c8b897e97,They Might Be Giants,Group,,US,1982,,11c4099a-ff61-45a3-ada4-23ac7a25d111,Lincoln,489ce91b-6658-3307-9877-795b68554c98,United States,11c4099a-ff61-45a3-ada4-23ac7a25d111,Lincoln,"Lincoln, Middlesex County, Massachusetts, United States"
 eb7a42aa-36d2-4dc2-9cc2-d083a13e1788,Mason Jennings,Person,Male,US,1975-03-19,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-1f574ab1-a46d-4586-9331-f0ded23e0411,Flight of the Conchords,Group,,NZ,1998,,,,8524c7d9-f472-3890-a458-f28d5081d9c4,New Zealand,8524c7d9-f472-3890-a458-f28d5081d9c4,New Zealand,New Zealand
 86c407d6-10ea-4062-9193-233a1bdf1f57,The Human Beinz,Group,,US,1964,,cbda7786-cedc-4473-96ee-31602f41ec7d,Youngstown,489ce91b-6658-3307-9877-795b68554c98,United States,cbda7786-cedc-4473-96ee-31602f41ec7d,Youngstown,"Youngstown, Mahoning County, Ohio, United States"
 2e885bfb-1f59-49cf-8d51-e743445e1b48,Del Shannon,Person,Male,US,1934-12-30,1990-02-08,cb8a856b-fd06-4dcf-a94e-d9841b0f85b6,Grand Rapids,489ce91b-6658-3307-9877-795b68554c98,United States,cb8a856b-fd06-4dcf-a94e-d9841b0f85b6,Grand Rapids,"Grand Rapids, Kent County, Michigan, United States"
 668fd73c-bf54-4310-a139-305517f05311,Willie Nelson,Person,Male,US,1933-04-30,,b1f00855-95f5-4cfc-897f-20aa51eabcec,Abbott,489ce91b-6658-3307-9877-795b68554c98,United States,b1f00855-95f5-4cfc-897f-20aa51eabcec,Abbott,"Abbott, Hill County, Texas, United States"
@@ -4114,7 +4204,6 @@ fce925cd-ed10-4518-8713-6f20d146e4fb,The New Mastersounds,Group,,GB,1999-02,,,,8
 4b2c889c-b4ef-45df-b4f0-59bb1b6e2a41,The Quantic Soul Orchestra,Group,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 9ebababe-9543-455d-a487-f9ecface5c2a,Gizelle Smith,Person,,,,,,,,,,,
 8a7a7d2c-f9c9-475b-be6d-daceaeba8f32,Orgone,Group,,,,,,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
-083cb33e-c9a2-4156-a21c-cfda976476e9,The Sugarman 3,Group,,US,1996,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 96a0ffd8-d1dd-4cc1-aa9b-f43f1fafafcf,The Poets of Rhythm,Group,,DE,,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
 6fb5506b-a4ca-43e6-ba48-1d17c5ffede6,Kings Go Forth,Group,,,,,,,,,,,
 e5e41532-4113-4051-b8bf-0e3ea2738054,Soft Powers,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
@@ -4151,7 +4240,7 @@ c6488dd8-0d4e-4035-bbbb-11719d2f41cd,Jason Collett,Person,Male,CA,,,5d6965e7-ef0
 7e915503-cc34-43fa-a6d7-986ff909d5e9,Kathleen Edwards,Person,Female,CA,1978-07-11,,bbc88d72-1f32-4936-8dc6-b62b3318e1c4,Ottawa,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,bbc88d72-1f32-4936-8dc6-b62b3318e1c4,Ottawa,"Ottawa, Ontario, Canada"
 7e786a4c-c743-4713-9340-a6f12d8515d4,Ultravox,Group,,GB,1976,,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,"London, England, United Kingdom"
 da6fd5ba-a8a9-4783-adc3-80926d9d3c45,Stackridge,Group,,GB,1969,,40d758a4-b7c2-40f3-b439-5efbd2a3b038,Bristol,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,40d758a4-b7c2-40f3-b439-5efbd2a3b038,Bristol,"Bristol, England, United Kingdom"
-a2175670-3804-43e8-8506-d79eea325f15,Spike Milligan,Person,Male,IE,1918-04-16,2002-02-27,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+a2175670-3804-43e8-8506-d79eea325f15,Spike Milligan,Person,Male,IE,1918-04-16,2002-02-27,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 05ec70a5-3858-4346-a649-fda0a297b8c1,Shirley Bassey,Person,Female,,1937-01-08,,f0b226db-8e22-40e6-9a53-d839cfec6228,Cardiff,dd1d37c5-9449-41ad-ae5f-70ee36ccfad9,Monte-Carlo,f0b226db-8e22-40e6-9a53-d839cfec6228,Cardiff,"Cardiff, Wales, United Kingdom"
 5fc85fb0-42d5-42e5-a9bd-b2b1f2f47deb,Ron Goodwin and His Concert Orchestra,Group,,,,,,,,,,,
 300c4c73-33ac-4255-9d57-4e32627f5e13,Ringo Starr,Person,Male,GB,1940-07-07,,520bce94-56d3-4d9a-b7a8-a419753936ae,Dingle,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,520bce94-56d3-4d9a-b7a8-a419753936ae,Dingle,"Dingle, Liverpool, Merseyside, England, United Kingdom"
@@ -4171,7 +4260,6 @@ e002853b-7843-449b-a46a-c35fe6b8bed5,Cilla Black,Person,Female,GB,1943-05-27,201
 86d312b4-3081-4a47-9679-10e9660886bc,Billy J. Kramer,Person,Male,GB,1943-08-19,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 fafe2656-b460-4702-9d45-4f33ffbe3683,Bernard Cribbins,Person,Male,GB,1928-12-29,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 8e0fe7bd-bd17-4d25-9b68-1e6a60705477,Too $hort,Person,Male,,1966-04-28,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,6195f381-5711-4655-bf7c-75918c04b201,Oakland,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
-baec7ed1-32d7-482d-9455-33c403e61952,The Game,,,GB,1963,1967,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 7bd66c18-cb33-49aa-9279-140acedbdb49,Ty Dolla $ign,Person,Male,US,1985-04-13,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 acc12019-10e3-40aa-b4bf-66fbb4a692af,Ab-Soul,Person,Male,US,1987-02-23,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 9b9bd06b-58cf-4867-90c8-d2332e7ff5f7,Berner,Person,Male,US,,,83f22bb6-4631-443c-bace-9fae8540362a,San Francisco,489ce91b-6658-3307-9877-795b68554c98,United States,83f22bb6-4631-443c-bace-9fae8540362a,San Francisco,"San Francisco, California, United States"
@@ -4195,7 +4283,6 @@ efa81d5c-b900-480a-b27f-0a66e48792de,Iamsu!,Person,Male,US,1989-11-17,,a4baf173-
 07a8922d-680a-4637-a55e-88d7d1969a95,Eric Bellinger,Person,Male,,,,,,,,,,
 d971a9d9-6db8-4ef1-a356-dfa76acdc0d0,Jonn Hart,Person,Male,US,1989-08-29,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 b475b9ae-8131-49ab-91a0-0eacafc09d14,Teeflii,Person,Male,,1987-07-17,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
-b6d7ec94-830c-44dd-b699-ce66556b7e55,Macklemore,Person,Male,US,1983-06-19,,10adc6b5-63bf-4b4e-993e-ed83b05c22fc,Seattle,489ce91b-6658-3307-9877-795b68554c98,United States,10adc6b5-63bf-4b4e-993e-ed83b05c22fc,Seattle,"Seattle, King County, Washington, United States"
 f6c003f9-4aae-40ce-8e4c-112d9a1b140c,Big Gigantic,Group,,US,2007-08-31,,93422fd5-1890-46cd-9ea9-3517c32f35b4,Boulder,489ce91b-6658-3307-9877-795b68554c98,United States,93422fd5-1890-46cd-9ea9-3517c32f35b4,Boulder,"Boulder, Boulder County, Colorado, United States"
 de210c9e-fbf6-4827-987f-dd8885f5d890,PVRIS,Group,,,,,,,,,,,
 c8adeb75-8ec5-4b0f-a5d3-13e87da1d19a,Whitney,,,,,,,,,,,,
@@ -4403,7 +4490,7 @@ db68f3a4-fc5c-45a9-b87c-fec96163880b,Charlie Simpson,Person,Male,GB,1985-06-07,,
 e5e88ded-e7dd-463c-994e-412ebab56fb0,Dave Barnes,Person,,US,1978-06-20,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 99337e6a-045c-4ab1-8467-dc1df8890468,The Wind and The Wave,Group,,,2012,,,,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,"Austin, Travis County, Texas, United States"
 5840b983-11fb-47a8-85a7-8340518772bb,Shake Shake Go,Group,,GB,2012,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
-d53ec070-36da-4a1a-a32a-410dd72e3b6e,Hudson Taylor,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+d53ec070-36da-4a1a-a32a-410dd72e3b6e,Hudson Taylor,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 e2a5eaeb-7de7-4ffe-a519-e18e427a5060,Walk Off the Earth,Group,,CA,2006,,,,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,Canada
 f52a7db9-cb1b-4c55-900f-b04ef6cf2ed0,Oh Honey,Group,,,2013,,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,"Brooklyn, New York, New York, United States"
 1a4931bc-5c9a-4ddc-88d9-948566c5e370,Family of the Year,Group,,US,2009,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
@@ -4451,7 +4538,6 @@ f5d7fa42-7764-49c4-a783-d7b6f7e25d4b,The Smittens,Group,,,,,,,a3435b4a-f42c-404e
 d53dfc45-47ad-4fb1-91b4-562fa927d5d8,Razorcuts,Group,,GB,1985,1989,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 a818116d-fd20-4db5-85ea-f544d1a9edcd,Stars in Coma,Group,,SE,2005,,cfca0d67-018c-4c5e-b9f6-2e098ef9a226,Malmö,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,cfca0d67-018c-4c5e-b9f6-2e098ef9a226,Malmö,"Malmö, Malmö Municipality, Skåne, Sweden"
 6ba775f4-c25f-4f34-94b4-8dc3a1c854d9,Language of Flowers,Group,,GB,2003,2007,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
-1cd4d60a-3e66-4a62-8505-36551a8930fe,The Pooh Sticks,Group,,GB,1987,1995,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 e01ee4a4-381a-49ef-bf45-245ff03066af,Liechtenstein,Group,,,,,,,,,,,
 67da8c9d-a5fe-4fdc-ba35-2c5741ae3b7c,A Smile and a Ribbon,Group,,,,,,,,,,,
 6d557c0b-05d5-4587-96de-673324c2ea10,Marine Research,Group,,GB,1997,1999,33587495-c775-4483-b819-931c4cf438cd,Oxford,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,33587495-c775-4483-b819-931c4cf438cd,Oxford,"Oxford, Oxfordshire, England, United Kingdom"
@@ -5160,7 +5246,6 @@ db703302-dd01-4535-b35c-e608c4dd82b0,Paul Engemann,Person,Male,US,1953-06-02,,,,
 a8ebde98-7e91-46c7-992c-90039ba42017,De La Soul,Group,,US,1987,,75e398a3-5f3f-4224-9cd8-0fe44715bc95,New York,489ce91b-6658-3307-9877-795b68554c98,United States,75e398a3-5f3f-4224-9cd8-0fe44715bc95,New York,"New York, United States"
 bb281e1b-bf00-49bb-ad31-80a85d30833d,AZ,,,,,,,,,,,,
 a8754ac4-a85e-4f48-a81f-eecd482570ef,Three 6 Mafia,Group,,US,1991,,c2d96f61-75a4-4375-aed5-6aacb0b6326a,Memphis,489ce91b-6658-3307-9877-795b68554c98,United States,c2d96f61-75a4-4375-aed5-6aacb0b6326a,Memphis,"Memphis, Shelby County, Tennessee, United States"
-f43dd62f-4fc7-4216-9220-be555f16d131,Westside Connection,Group,,US,1993,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 2792b097-0b1d-4c50-97f6-f7f097f86438,Rakim,Person,Male,US,1968-01-28,,800b9afd-d4e3-43e8-9126-ae3f5bc7d37d,Wyandanch,489ce91b-6658-3307-9877-795b68554c98,United States,800b9afd-d4e3-43e8-9126-ae3f5bc7d37d,Wyandanch,"Wyandanch, Babylon, Suffolk County, New York, United States"
 be0cb2f2-71c3-4e95-a584-c19248951ff4,DANGERDOOM,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 51508c1f-8d07-4a00-9cf1-26c570fe7b78,Cypress Hill,Group,,US,1988,,a18182c4-65a2-4f6b-87cb-6cd9573aec24,South Gate,489ce91b-6658-3307-9877-795b68554c98,United States,a18182c4-65a2-4f6b-87cb-6cd9573aec24,South Gate,"South Gate, Los Angeles County, California, United States"
@@ -5186,7 +5271,6 @@ de9e1687-377f-4559-8133-6fe5986dd95c,Funkmaster Flex,Person,Male,US,1968-08-05,,
 bf2e15d0-4b77-469e-bfb4-f8414415baca,Public Enemy,Group,,US,1982,,dce45ea2-f0be-4568-82a6-072837b54cf1,Long Island City,489ce91b-6658-3307-9877-795b68554c98,United States,dce45ea2-f0be-4568-82a6-072837b54cf1,Long Island City,"Long Island City, Queens, New York, New York, United States"
 d75d1f08-bbb8-4eae-9877-399ca9121197,Mobb Deep,Group,,,1993,,675bbb61-a94a-4b54-9242-1fbf81a46ee6,Queensbridge,431a085b-9f4c-4fbb-82de-2ca7ce735da8,Queens,675bbb61-a94a-4b54-9242-1fbf81a46ee6,Queensbridge,"Queensbridge, Queens, New York, New York, United States"
 fc0fa262-6197-4c29-8e22-22f0e369856a,Onyx,Group,,US,1989,,cbf35831-acfb-4ac4-b261-9336e515dd3a,South Jamaica,489ce91b-6658-3307-9877-795b68554c98,United States,cbf35831-acfb-4ac4-b261-9336e515dd3a,South Jamaica,"South Jamaica, Queens, New York, New York, United States"
-3a54bffa-2314-44a2-927b-60144119c780,N.W.A,Group,,US,1986,1992,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,489ce91b-6658-3307-9877-795b68554c98,United States,be9261e4-c8d1-49e6-acb2-3096c47ad4f8,Compton,"Compton, Los Angeles County, California, United States"
 486af4f0-a79b-468f-be73-527cd4caf6ea,Slick Rick,Person,Male,,1965-01-14,,cde0639e-0493-4901-aed2-ff8c741fb102,Mitcham,eb4a386e-1178-4e3a-a371-30418dd6fd2e,The Bronx,cde0639e-0493-4901-aed2-ff8c741fb102,Mitcham,"Mitcham, Merton, London, England, United Kingdom"
 a4dd0e77-83b8-4e92-89b7-effb0e47fd8c,LL Cool J,Person,Male,US,1968-01-14,,8dea479b-376e-4a89-bb18-ce37966ea2e7,Bay Shore,489ce91b-6658-3307-9877-795b68554c98,United States,8dea479b-376e-4a89-bb18-ce37966ea2e7,Bay Shore,"Bay Shore, Islip, Suffolk County, New York, United States"
 3bdcd49d-212e-4f4f-877a-eac1e4a2bddc,Naughty by Nature,Group,,US,1989,,b7abc17a-76de-40a2-88a5-c128228288a5,East Orange,489ce91b-6658-3307-9877-795b68554c98,United States,b7abc17a-76de-40a2-88a5-c128228288a5,East Orange,"East Orange, Essex County, New Jersey, United States"
@@ -5341,11 +5425,9 @@ af263abd-194b-4494-bfd8-3aab8d2fc00a,Liquid Mind,Person,Male,,,,,,,,,,
 37986d18-e8af-4502-8e08-2a87d7e5853f,Steven Halpern,Person,,,,,,,,,,,
 ff66e2e2-73d2-4b15-861d-53dcf73e1f0c,Riley Lee,Person,,,,,,,,,,,
 3c695565-5af7-4355-be35-de9f6a0db095,Parijat,,,,,,,,,,,,
-b6fa9b9b-41cf-45a6-adc0-0a4c9a8c0d3c,The Budos Band,Group,,US,2005,,a8c1d0e2-0837-454c-afa9-4190b3fe4d92,Staten Island,489ce91b-6658-3307-9877-795b68554c98,United States,a8c1d0e2-0837-454c-afa9-4190b3fe4d92,Staten Island,"Staten Island, New York, New York, United States"
 453dab0c-aa5f-4091-bf58-64dead0d06b8,The Souljazz Orchestra,Group,,CA,2002,,,,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,Canada
 c4031fc2-7341-4574-85b4-2c701d7d5ff9,Ariya Astrobeat Arkestra,Group,,,,,,,116e3eb1-2b14-42c9-91a1-7a2510dcc4b3,Leeds,116e3eb1-2b14-42c9-91a1-7a2510dcc4b3,Leeds,"Leeds, Leeds, West Yorkshire, England, United Kingdom"
 71e4ba48-904c-49d9-8f8c-cc608f088ad4,Ocote Soul Sounds,Group,,US,2001,,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,489ce91b-6658-3307-9877-795b68554c98,United States,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,"Brooklyn, New York, New York, United States"
-93da8c8a-bd13-4418-a00e-2861b8518a8d,Menahan Street Band,Group,,US,2007,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 33c2a158-a788-44e5-81ab-142d544a165b,Antibalas,Group,,US,1998-01,,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,489ce91b-6658-3307-9877-795b68554c98,United States,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,"Brooklyn, New York, New York, United States"
 dfea24b6-98b1-413f-97d8-12c626e7626b,The Whitefield Brothers,Group,,DE,,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
 d7a0e5d9-285a-4b3f-b369-bf2b00a0726a,Chela,Person,Female,AU,,,21e8495a-32fa-4a97-8a92-57184e36235a,Perth,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,21e8495a-32fa-4a97-8a92-57184e36235a,Perth,"Perth, Western Australia, Australia"
@@ -5384,7 +5466,7 @@ ff7103c5-da9e-434d-b8aa-037424ba45ad,Solange,Group,,,,,,,,,,,
 3f6e6624-5389-4cac-bda4-87f5d7aaa4d6,Tonstartssbandht,Group,,,,,ec1e55f4-03df-4ba1-a314-1ab959aa3fd6,Orlando,c3cc624e-b963-49cf-ad0b-e318cb341963,Montreal,ec1e55f4-03df-4ba1-a314-1ab959aa3fd6,Orlando,"Orlando, Orange County, Florida, United States"
 5c49f2ed-1371-4a96-b690-e2d255492ed4,León Benavente,Group,,,,,,,,,,,
 bb83fb59-a62c-4d82-a38d-50177cd34207,Monika,Person,Female,GR,1985-05-26,,,,803db0ca-b6ed-3bbc-aeb8-f89efd0a2168,Greece,803db0ca-b6ed-3bbc-aeb8-f89efd0a2168,Greece,Greece
-4c56405d-ba8e-4283-99c3-1dc95bdd50e7,Róisín Murphy,Person,Female,IE,1973-07-05,,7b71b844-9fcf-4eed-96dd-7ffa915aa4ff,Arklow,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,7b71b844-9fcf-4eed-96dd-7ffa915aa4ff,Arklow,"Arklow, County Wicklow, Leinster, Ireland, Ireland"
+4c56405d-ba8e-4283-99c3-1dc95bdd50e7,Róisín Murphy,Person,Female,IE,1973-07-05,,7b71b844-9fcf-4eed-96dd-7ffa915aa4ff,Arklow,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,7b71b844-9fcf-4eed-96dd-7ffa915aa4ff,Arklow,"Arklow, County Wicklow, Leinster, Ireland"
 1f8e4ffd-b81b-4d10-91f4-461585bf9d16,Midnight Juggernauts,Group,,AU,2004,,b4e9352c-8edf-4911-8fa3-e852afa30501,Melbourne,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,b4e9352c-8edf-4911-8fa3-e852afa30501,Melbourne,"Melbourne, Victoria, Australia"
 9f8bd506-cb45-4da8-9eb4-451961e79bc7,Pipilotti Rist,Person,Female,CH,1962-06-21,,80ec0598-3ddd-421c-bc20-b0c30dbd4476,Grabs,1333ff06-8e3d-3c8e-9f3a-13a2a38b41df,Switzerland,80ec0598-3ddd-421c-bc20-b0c30dbd4476,Grabs,"Grabs, Sankt Gallen, Switzerland"
 806139a2-556b-45d8-bc5e-93e3d898e4ad,Hollie Cook,Person,Female,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
@@ -5431,7 +5513,6 @@ ed7e8db7-749e-460b-bd28-eb1de46dccda,Marah,Group,,US,1993,,0eeb01c2-6e31-46ad-96
 6c4f2492-9735-4514-9268-772ff35272ea,Adrienne Young,Person,Female,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 5efe021b-61c8-45ed-9c89-ab808a892c96,Chris Walla,Person,Male,US,1975-11-02,,6a3b4aa5-1ee3-4b45-901b-052474e16ed6,Bothell,489ce91b-6658-3307-9877-795b68554c98,United States,6a3b4aa5-1ee3-4b45-901b-052474e16ed6,Bothell,"Bothell, King County, Washington, United States"
 f2903be0-79a7-4334-8cc5-e45309482a97,George Jones,Person,Male,US,1931-09-12,2013-04-26,824a3fd2-98b5-4377-bb39-f0652faacb27,Saratoga,489ce91b-6658-3307-9877-795b68554c98,United States,824a3fd2-98b5-4377-bb39-f0652faacb27,Saratoga,"Saratoga, Hardin County, Texas, United States"
-97b1142f-c71e-4971-8736-4a8ceaf6b4c3,The Decemberists,Group,,,2000,,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,"Portland, Multnomah County, Oregon, United States"
 ef07cdf4-43eb-419b-905d-74d8d6c574f9,Mala,Person,Female,BD,,,,,20395c3e-610c-34fd-9995-6b6f299121f2,Bangladesh,20395c3e-610c-34fd-9995-6b6f299121f2,Bangladesh,Bangladesh
 c116b504-ce24-4264-96dc-d10a7458236f,Julian Lage,Person,Male,US,1987-12-25,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 eb5df49c-092e-40a3-b2d8-770865d58080,Kermit,,,,,,,,,,,,
@@ -5571,7 +5652,7 @@ d2c1110f-827d-4664-aa75-4c4604bf1776,The Jazz June,Group,,US,1996,2002,75d8fdcf-
 113e0972-077f-423b-9b5f-3cc8a5bafa0f,Pink Martini,Group,,US,1994,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 deb2448c-6fdf-4d31-921e-757630515dbd,Merle Haggard,Person,Male,US,1937-04-06,2016-04-06,1d468fbe-487e-4e98-99d3-8d7aff56fb08,Oildale,489ce91b-6658-3307-9877-795b68554c98,United States,1d468fbe-487e-4e98-99d3-8d7aff56fb08,Oildale,"Oildale, Kern County, California, United States"
 daa0c966-31a1-4754-b293-67ffe5b4ac18,The Mynabirds,Group,,US,2009,,7968b302-75a6-4456-a09e-7bf7ac13293a,Omaha,489ce91b-6658-3307-9877-795b68554c98,United States,7968b302-75a6-4456-a09e-7bf7ac13293a,Omaha,"Omaha, Douglas County, Nebraska, United States"
-c78a77fa-507c-4c07-947a-0355029453bd,Sinéad O’Connor,Person,Female,IE,1966-12-08,,f4ed7dc2-c836-4eb9-af98-373e01f0a18e,Glenageary,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,f4ed7dc2-c836-4eb9-af98-373e01f0a18e,Glenageary,"Glenageary, County Dublin, Leinster, Ireland, Ireland"
+c78a77fa-507c-4c07-947a-0355029453bd,Sinéad O’Connor,Person,Female,IE,1966-12-08,,f4ed7dc2-c836-4eb9-af98-373e01f0a18e,Glenageary,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,f4ed7dc2-c836-4eb9-af98-373e01f0a18e,Glenageary,"Glenageary, County Dublin, Leinster, Ireland"
 e066d235-6af3-4b78-9b1e-bcf7ed360193,Delicate Steve,Group,,US,,,93cb397e-704a-402e-94e9-c65436f86e24,Fredon Township,489ce91b-6658-3307-9877-795b68554c98,United States,93cb397e-704a-402e-94e9-c65436f86e24,Fredon Township,"Fredon Township, Sussex County, New Jersey, United States"
 1c89bbcc-a253-452a-9181-546eb536e06f,Art Brut,Group,,GB,2003,,78b0f0f0-2b13-42c3-b99a-c8a6428ab112,Deptford,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,78b0f0f0-2b13-42c3-b99a-c8a6428ab112,Deptford,"Deptford, Lewisham, London, England, United Kingdom"
 642db658-a68b-40e3-8804-7973075238da,The Extra Lens,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
@@ -5621,7 +5702,7 @@ cae4fd51-4d58-4d48-92c1-6198cc2e45ed,Trombone Shorty,Person,Male,US,1986-01-02,,
 c46bf7f2-3cf3-4ea0-86fb-7bd98bfc134e,Rodd & Judy,,,,,,,,,,,,
 23cc1e55-bfc4-4480-8806-c721fce01525,Chadwick Stokes,Person,Male,US,1976-02-26,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 c35bd778-efb5-424b-ba7b-dae56d01a206,Zola Jesus,Person,Female,US,1989-04-11,,7f1c8f3f-69a9-454a-8633-c3d3a628858b,Phoenix,489ce91b-6658-3307-9877-795b68554c98,United States,7f1c8f3f-69a9-454a-8633-c3d3a628858b,Phoenix,"Phoenix, Maricopa County, Arizona, United States"
-4f70e325-8e95-406e-962c-e79190c7a5bf,Luka Bloom,Person,Male,IE,1955-05-23,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+4f70e325-8e95-406e-962c-e79190c7a5bf,Luka Bloom,Person,Male,IE,1955-05-23,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 6cf39d67-5464-4760-9469-8ab99d7f7133,Alyth McCormack,Person,Female,GB,1970,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 745fbe24-06f0-4d61-9d61-b1060551b173,Mystic Chords of Memory,,,,,,,,,,,,
 85d9eab5-7130-432b-8f26-8dbf11b2cb75,Vows,,,,,,,,,,,,
@@ -5999,7 +6080,7 @@ fd23e684-270f-4507-9cb0-a0e0d7854d16,"Harry Connick, Jr.",Person,Male,US,1967-09
 b5997eef-2516-491a-a10e-5cee842bbcdc,Louis Prima,Person,Male,US,1910-12-07,1978-08-24,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 49c48b7f-1ff1-4f02-a1aa-ca1254b46ef2,Harry Belafonte,Person,Male,US,1927-03-01,,7e037c94-d999-4611-a8fd-56e8770f2e3c,Harlem,489ce91b-6658-3307-9877-795b68554c98,United States,7e037c94-d999-4611-a8fd-56e8770f2e3c,Harlem,"Harlem, Manhattan, New York, New York, United States"
 50a45c3d-b54b-4fd5-bb83-5046e4ff6813,David Arkenstone,Person,Male,US,1952-07-01,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-4967c0a1-b9f3-465e-8440-4598fd9fc33c,Enya,Person,Female,IE,1961-05-17,,047f6043-677b-414e-b3e8-f09424e7eabb,Gweedore,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,047f6043-677b-414e-b3e8-f09424e7eabb,Gweedore,"Gweedore, County Donegal, Ulster, Ireland, Ireland"
+4967c0a1-b9f3-465e-8440-4598fd9fc33c,Enya,Person,Female,IE,1961-05-17,,047f6043-677b-414e-b3e8-f09424e7eabb,Gweedore,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,047f6043-677b-414e-b3e8-f09424e7eabb,Gweedore,"Gweedore, County Donegal, Ulster, Ireland"
 4ac60dc3-8e50-4c70-be0e-4a4a1298f7ba,Secret Garden,Group,,NO,,,,,6743d351-6f37-3049-9724-5041161fff4d,Norway,6743d351-6f37-3049-9724-5041161fff4d,Norway,Norway
 9a2afb1e-504c-443e-acff-6c40ce75b1a1,Yanni,Person,Male,GR,1954-11-14,,,,803db0ca-b6ed-3bbc-aeb8-f89efd0a2168,Greece,803db0ca-b6ed-3bbc-aeb8-f89efd0a2168,Greece,Greece
 8b6ab6bc-7c7b-49e4-908f-fb399ff437dc,Kevin Kern,Person,,US,1958-12-22,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
@@ -6021,7 +6102,6 @@ d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5,Sam Gellaitry,Person,Male,,,,,,6fa1c7da-668
 d41a6875-b626-4c0f-89a1-aecb643d29ff,The Pogues,Group,,GB,1982,1996,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,"London, England, United Kingdom"
 44632683-c340-44de-a65d-328212559f91,Badfinger,Group,,GB,1969,,f449c819-0a9b-4c08-9446-6e7d5bd48d08,Swansea,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,f449c819-0a9b-4c08-9446-6e7d5bd48d08,Swansea,"Swansea, Wales, United Kingdom"
 c7d35b71-961e-4713-b65d-35a98591204a,Asher Roth,Person,Male,US,1985-08-11,,70e137e7-2940-41a7-9e12-1d18eff0b7b0,Morrisville,489ce91b-6658-3307-9877-795b68554c98,United States,70e137e7-2940-41a7-9e12-1d18eff0b7b0,Morrisville,"Morrisville, Bucks County, Pennsylvania, United States"
-c3477250-bc5f-44e9-aa0a-144dd2d7a935,The Dø,Group,,FR,2007,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
 b09ced80-aa65-43c1-9aa7-58b1e982eada,Rudimental,Group,,GB,2010,,76325eca-c006-429f-93bb-d499ae80916c,Hackney,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,76325eca-c006-429f-93bb-d499ae80916c,Hackney,"Hackney, London, England, United Kingdom"
 25b7b584-d952-4662-a8b9-dd8cdfbfeb64,A$AP Rocky,Person,Male,US,1988-10-03,,7e037c94-d999-4611-a8fd-56e8770f2e3c,Harlem,489ce91b-6658-3307-9877-795b68554c98,United States,7e037c94-d999-4611-a8fd-56e8770f2e3c,Harlem,"Harlem, Manhattan, New York, New York, United States"
 ff4fc9b6-bdcd-44ee-b053-c1ccbe47fe4b,Mikky Ekko,Person,Male,,,,,,,,,,
@@ -6274,8 +6354,8 @@ f1d7f1fd-8883-47e9-ad2b-e9ec9ff61aac,Sam & Dave,Group,,US,1961,1981,4a9aeb42-376
 1e6b7643-8dac-4b0e-a8d1-4abf6211b882,The Chiffons,Group,,US,1960,,eb4a386e-1178-4e3a-a371-30418dd6fd2e,The Bronx,489ce91b-6658-3307-9877-795b68554c98,United States,eb4a386e-1178-4e3a-a371-30418dd6fd2e,The Bronx,"The Bronx, New York, New York, United States"
 a9111778-8cf7-413f-919c-793e4eb46487,Patty & The Emblems,Group,,US,1964,1964,b5e60f5a-960d-419f-a898-2d5b03229366,Camden,489ce91b-6658-3307-9877-795b68554c98,United States,b5e60f5a-960d-419f-a898-2d5b03229366,Camden,"Camden, Camden County, New Jersey, United States"
 62bf2c6b-efb6-4969-b139-dcb7699378a1,The Middle East,Group,,AU,2005,2011,622c68cb-3d72-498b-8f05-25375c5a2609,Townsville,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,622c68cb-3d72-498b-8f05-25375c5a2609,Townsville,"Townsville, Queensland, Australia"
-2119beb8-6ac5-4f21-82a4-b831c90c0024,Damien Rice,Person,Male,IE,1973-12-07,,09359490-3175-419a-95e9-0f995635ec2b,Celbridge,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,09359490-3175-419a-95e9-0f995635ec2b,Celbridge,"Celbridge, County Kildare, Leinster, Ireland, Ireland"
-b4691384-50c3-4afd-9988-51d3ec5db65d,Hozier,Person,Male,IE,1990-03-17,,0fea79e6-b4a9-4eea-99f6-f9969bcb3e2a,Bray,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,0fea79e6-b4a9-4eea-99f6-f9969bcb3e2a,Bray,"Bray, County Wicklow, Leinster, Ireland, Ireland"
+2119beb8-6ac5-4f21-82a4-b831c90c0024,Damien Rice,Person,Male,IE,1973-12-07,,09359490-3175-419a-95e9-0f995635ec2b,Celbridge,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,09359490-3175-419a-95e9-0f995635ec2b,Celbridge,"Celbridge, County Kildare, Leinster, Ireland"
+b4691384-50c3-4afd-9988-51d3ec5db65d,Hozier,Person,Male,IE,1990-03-17,,0fea79e6-b4a9-4eea-99f6-f9969bcb3e2a,Bray,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,0fea79e6-b4a9-4eea-99f6-f9969bcb3e2a,Bray,"Bray, County Wicklow, Leinster, Ireland"
 0d1e6322-c8ca-4c99-96db-96b063337465,Freelance Whales,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 e3c4c4af-f83b-4168-84cb-898009dd0447,Agnes Obel,Person,Female,DK,1980-10-28,,,,4757b525-2a60-324a-b060-578765d2c993,Denmark,4757b525-2a60-324a-b060-578765d2c993,Denmark,Denmark
 19de13cf-1422-47b2-9ed7-8ad3a728ee48,Paper Beat Scissors,Group,,CA,,,,,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,Canada
@@ -6295,7 +6375,7 @@ e22da122-aeff-4169-b490-a8401def5c68,Isbells,Group,,BE,,,,,5b8a5ee5-0bb3-34cf-9a
 43107061-a4fe-4efc-81ba-5515ddd26053,Milo Greene,Group,,US,2010,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 184699cd-f489-463a-95c3-f2f72d6fd92a,Neil Halstead,Person,Male,GB,1970-10-07,,9f11c5cc-b4b5-4589-8476-bc863930caa7,Reading,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,9f11c5cc-b4b5-4589-8476-bc863930caa7,Reading,"Reading, England, United Kingdom"
 7e54bb8a-d5c6-4dab-9bb8-a40b418e3532,The Unthanks,Group,,GB,2009,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
-22f6ed4d-c1ce-4f7b-8e69-a5761a9de9aa,Villagers,Group,,IE,2008,,00de0e2a-aa9d-4f16-8b59-435d7b721879,Dún Laoghaire,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,00de0e2a-aa9d-4f16-8b59-435d7b721879,Dún Laoghaire,"Dún Laoghaire, County Dublin, Leinster, Ireland, Ireland"
+22f6ed4d-c1ce-4f7b-8e69-a5761a9de9aa,Villagers,Group,,IE,2008,,00de0e2a-aa9d-4f16-8b59-435d7b721879,Dún Laoghaire,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,00de0e2a-aa9d-4f16-8b59-435d7b721879,Dún Laoghaire,"Dún Laoghaire, County Dublin, Leinster, Ireland"
 379fb100-063e-4472-b7c2-5bb9eda435ed,J. Tillman,Person,Male,US,1981-05-03,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 d296682d-8a2f-420d-be64-cc36451d1a12,Blessed Feathers,Group,,,,,,,,,,,
 c455e254-994c-40d3-a953-4ff6954c3557,Frazey Ford,Person,Female,,,,,,,,,,
@@ -6313,7 +6393,7 @@ a0042cd2-e57e-4548-84a4-6923a8a2e05b,Desert Noises,Group,,US,,,,,489ce91b-6658-3
 08b5f897-6c61-414a-836f-200c0d22fb36,Tall Heights,,,,,,,,,,,,
 4e675da3-3fa7-4afc-ab76-d9a3803e36bd,Sumie,Person,Female,SE,,,8f6c316e-9924-48ea-967b-16757dd82399,Gothenburg,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,8f6c316e-9924-48ea-967b-16757dd82399,Gothenburg,"Gothenburg, Västra Götaland, Sweden"
 43090d53-8e5a-421f-8840-b9a2cffff3c0,Hafdis Huld,Person,Female,IS,,,,,48802a32-075a-3805-a183-277c66047693,Iceland,48802a32-075a-3805-a183-277c66047693,Iceland,Iceland
-3b7b1fd3-6952-4aa8-9467-40b105d1039b,James Vincent McMorrow,Person,Male,IE,1983-01-14,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+3b7b1fd3-6952-4aa8-9467-40b105d1039b,James Vincent McMorrow,Person,Male,IE,1983-01-14,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 f10ee371-0ee9-446a-b612-6cb33429b711,The Daydream Club,Group,,GB,2010,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 265b1e2d-3bc7-454f-8efb-ec143b04be6e,Quiet American,,,,,,,,,,,,
 ef24b2c3-4327-4efc-960f-d693752b12fe,Nate Richert,,,,,,,,,,,,
@@ -6474,7 +6554,7 @@ f467181e-d5e0-4285-b47e-e853dcc89ee7,Ratatat,Group,,US,2001,,a71b0d32-7752-49e9-
 bdd697d6-c28c-4902-ac36-36fcc33c6969,Got a Girl,Group,,US,2012,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,489ce91b-6658-3307-9877-795b68554c98,United States,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 ba0eb739-583a-456b-ac82-77b43716ab0c,MillionYoung,,,,,,,,,,,,
 535c1e9c-850c-429d-9eb6-594284a99985,Win Win,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-713896a6-d3f1-44bb-8faa-4f99fdad6000,Finghin Collins,Person,Male,IE,1977-03-31,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+713896a6-d3f1-44bb-8faa-4f99fdad6000,Finghin Collins,Person,Male,IE,1977-03-31,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 cdc353e5-8d6d-408c-a08c-f91740b6a0b1,Steve Anderson,Person,Male,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 bba5b8aa-02d7-453c-99fd-4f2a45987afd,Toe,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 8defddcb-85ab-4283-a1a8-68405fa98b6b,小島麻由美,Person,,,1972-09-30,,,,,,,,
@@ -6658,7 +6738,7 @@ dc3dbfc1-f1f1-49c6-9d7c-425fabf3ae12,Apparat,Person,Male,DE,1978-06-27,,13fea8ff
 1b9034c1-7732-435f-8b8d-1aab99af43f8,Farhot,Person,Male,DE,,,aa95182f-df0a-3ad6-8bfb-4b63482cd276,Afghanistan,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,aa95182f-df0a-3ad6-8bfb-4b63482cd276,Afghanistan,Afghanistan
 1515c76e-333d-43c1-bade-deebcc2028ef,Biga Ranx,Person,Male,FR,1988-09-27,,dea069af-67b5-422c-a19a-a6915b9fe592,Tours,08310658-51eb-3801-80de-5a0739207115,France,dea069af-67b5-422c-a19a-a6915b9fe592,Tours,"Tours, Indre-et-Loire, Centre, France"
 94d958bf-8427-4657-9493-730336042705,Wise Blood,Person,Male,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-585a4449-2a50-4fc9-910d-e76b46c22718,Rejjie Snow,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+585a4449-2a50-4fc9-910d-e76b46c22718,Rejjie Snow,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 6be2828f-6c0d-4059-99d4-fa18acf1a296,Janet Jackson,Person,Female,US,1966-05-16,,34357067-8f7f-4c7a-8d5e-99b6e60f7891,Gary,489ce91b-6658-3307-9877-795b68554c98,United States,34357067-8f7f-4c7a-8d5e-99b6e60f7891,Gary,"Gary, Lake County, Indiana, United States"
 27ddb270-509f-41e4-9737-1974f54b4408,Payment,,,,,,,,,,,,
 0861171b-fe08-4d81-a0fe-bc34cdbb17d3,Noggin,,,,,,,,,,,,
@@ -7300,7 +7380,7 @@ f4cf52f0-285e-4c9d-9d4c-784a0ed71bb9,CLAMS,,,,,,,,,,,,
 4f2c4842-f90f-476e-95d3-8e868ae4d745,Dälek,Group,,US,1998,,85c7cd5f-6fe2-4195-a44d-69fa390bd6ec,Newark,489ce91b-6658-3307-9877-795b68554c98,United States,85c7cd5f-6fe2-4195-a44d-69fa390bd6ec,Newark,"Newark, Essex County, New Jersey, United States"
 1deeb899-02bf-4edd-b080-de6207cf4a3f,Algebra Suicide,Group,,US,1983,1995,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 4f7ae102-8964-4709-aefa-111fe35b9562,Heroes of Switzerland,Group,,,,,,,,,,,
-c6c06c33-4471-4c02-86ff-c023be2c06f9,Revolver,Group,,GB,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland, Ireland"
+c6c06c33-4471-4c02-86ff-c023be2c06f9,Revolver,Group,,GB,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland"
 00f3256b-7ff1-4ce8-b8f2-12f1dd72fa42,Anilore,Group,,US,1993,,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,489ce91b-6658-3307-9877-795b68554c98,United States,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,"New York, New York, United States"
 b476264b-dcdc-4cbf-bd40-9eddaf5a6942,Longwave,Group,,US,1999,,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,489ce91b-6658-3307-9877-795b68554c98,United States,a71b0d32-7752-49e9-8594-2247ad6ac12c,Brooklyn,"Brooklyn, New York, New York, United States"
 a769f735-964c-41b2-b144-f98378456d97,The Black Ryder,Group,,AU,2007,,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,"Sydney, New South Wales, Australia"
@@ -7540,7 +7620,7 @@ f569a00a-a5d4-4269-b383-e125a0b515a4,Diamanda Galás,Person,Female,US,1955-08-29
 0105c851-8780-42fe-96f4-0abdb2ab48fe,Sad Lovers and Giants,Group,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 cd1c948f-c8c6-49fd-8dd2-1bd1f670c5ed,Twisted Nerve,Group,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 a262543f-6ab4-4ac7-86f3-4fc09ff56f3b,Fields of the Nephilim,Group,,GB,1984,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
-cb739a50-4049-43ca-869e-d9826effc0bc,Inertia,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+cb739a50-4049-43ca-869e-d9826effc0bc,Inertia,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 87770db3-ed30-424e-9bea-d79011c7189e,Astari Nite,Group,,,,,,,,,,,
 a37834b8-c616-4276-8557-7756dbff123a,NordarR,Group,,DE,,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
 07934e8f-f079-4645-a984-4a529504d79c,My Life With the Thrill Kill Kult,Group,,US,1987,,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,489ce91b-6658-3307-9877-795b68554c98,United States,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,"Chicago, Cook County, Illinois, United States"
@@ -7837,7 +7917,6 @@ cd67b8c8-8b2f-4d56-b564-fbd837490256,Badshah,Person,,,,,,,,,,,
 7b9df0f0-12ca-4b07-9653-aeac67519f66,Sondaschule,Group,,DE,1999,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
 7670e529-0108-445c-a388-669e62c6a197,Lost Midas,Person,Male,,,,,,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,1f40c6e1-47ba-4e35-996f-fe6ee5840e62,Los Angeles,"Los Angeles, Los Angeles County, California, United States"
 d6d553f5-53d4-4d51-9875-1722b7a4c88c,Loma Prieta,Group,,US,2005,,83f22bb6-4631-443c-bace-9fae8540362a,San Francisco,489ce91b-6658-3307-9877-795b68554c98,United States,83f22bb6-4631-443c-bace-9fae8540362a,San Francisco,"San Francisco, California, United States"
-d10897d4-94d7-46d6-9c37-f859045e9717,Los Pakines,Group,,PE,1972,,,,719f6082-95c7-3dd5-9503-e143010a6cc1,Peru,719f6082-95c7-3dd5-9503-e143010a6cc1,Peru,Peru
 306636ec-4782-4082-ac5e-c8b69b30bdcd,The Midnight Beast,Group,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 4b0dd5e7-c795-42bd-8311-bc9f71fabd0a,Counterparts,Group,,,2007,,,,,,,,
 b669c53e-5a1f-4adc-80be-755e64e8115e,Symphony X,Group,,US,1994,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
@@ -7925,7 +8004,6 @@ bba868d4-974d-4b3b-a09f-ceef888da5b8,Vusi Mahlasela,Person,Male,ZA,1965,,,,50cc7
 63e2a7b3-3167-460f-9f72-24af5670b7bc,Busy Signal,Person,Male,JM,1982-01-24,,,,2dd47a64-91d5-3b13-bc94-80043ed063d7,Jamaica,2dd47a64-91d5-3b13-bc94-80043ed063d7,Jamaica,Jamaica
 38530867-8ed0-406b-a824-11eae7bb0dcb,Alick Nkhata,Person,,,,,,,,,,,
 746e59cc-37d8-4152-abff-6569d209c3c6,Solomon Linda,Person,Male,ZA,1909,1962-10-08,,,50cc7852-862e-30ae-aa82-385fe7135b7f,South Africa,50cc7852-862e-30ae-aa82-385fe7135b7f,South Africa,South Africa
-23c8fdc8-e593-48df-87f4-df448a85ba43,E.T. Mensah,Person,Male,GH,1919-05-31,1996-07-19,9cb34398-63c4-453e-91eb-0d52b36d62f7,Accra,cf48f4b4-28f0-39ab-9104-650324a1d1c8,Ghana,9cb34398-63c4-453e-91eb-0d52b36d62f7,Accra,"Accra, Greater Accra, Ghana"
 a1b20750-6757-4bf6-8235-4e1fc45cc46b,Mr. Vegas,Person,Male,JM,1974-12-29,,23e0d135-9fe7-48cb-b2c4-93addd3d1e37,Kingston,2dd47a64-91d5-3b13-bc94-80043ed063d7,Jamaica,23e0d135-9fe7-48cb-b2c4-93addd3d1e37,Kingston,"Kingston, Jamaica"
 cceed4a1-ee6c-408e-a869-00dc5c8a09af,Amaqawe Omculo,,,,,,,,,,,,
 a77347dc-9128-4f86-a6e6-f655bf623366,The Mgababa Queens,Group,,,,,,,,,,,
@@ -8390,7 +8468,7 @@ d4fde760-6aaf-4cbb-9736-1ae22f8a1b0d,Hopsin,Person,Male,US,1985-07-18,,1f40c6e1-
 eaed2193-e026-493b-ac57-113360407b06,Halestorm,Group,,,1998,,,,fab75365-03ca-4fd2-b54b-2309c560b562,York,fab75365-03ca-4fd2-b54b-2309c560b562,York,"York, York County, Pennsylvania, United States"
 c0bfa680-6c3f-4b79-8034-dacc23b929a7,Grieves,Person,Male,US,1984-02-23,,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,489ce91b-6658-3307-9877-795b68554c98,United States,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,"Chicago, Cook County, Illinois, United States"
 7f98cb2a-9b68-4b3d-9acf-e858694a3396,The Gourds,Group,,US,1994,,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,489ce91b-6658-3307-9877-795b68554c98,United States,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,"Austin, Travis County, Texas, United States"
-57f89cad-d2ef-48df-9119-8287b106716a,Glen Hansard,Person,Male,IE,1970-04-21,,b08536da-72c2-49de-93f4-4f6b149d1887,Ballymun,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,b08536da-72c2-49de-93f4-4f6b149d1887,Ballymun,"Ballymun, Dublin, County Dublin, Leinster, Ireland, Ireland"
+57f89cad-d2ef-48df-9119-8287b106716a,Glen Hansard,Person,Male,IE,1970-04-21,,b08536da-72c2-49de-93f4-4f6b149d1887,Ballymun,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,b08536da-72c2-49de-93f4-4f6b149d1887,Ballymun,"Ballymun, Dublin, County Dublin, Leinster, Ireland"
 1491e2b8-23bf-41a8-8184-cccd7e98a23c,Fünf Sterne deluxe,Group,,DE,1997,2004,11a44e18-a2e5-43a9-bee9-aa4f7c83f967,Hamburg,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,11a44e18-a2e5-43a9-bee9-aa4f7c83f967,Hamburg,"Hamburg, Germany"
 5d008bf9-2958-4640-a5de-dcdcebe711a4,Freeway,Person,Male,US,1978-08-06,,720761a8-643d-4bec-964b-2d8c239cc367,North Philadelphia,489ce91b-6658-3307-9877-795b68554c98,United States,720761a8-643d-4bec-964b-2d8c239cc367,North Philadelphia,"North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States"
 47948cf4-1c10-4acc-a3b9-8a9cda532dfb,Frauenarzt,Person,Male,DE,1978-10-18,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
@@ -8767,7 +8845,7 @@ d80cfb78-51ee-446d-8b3d-578d50a7ce2e,Pedro Abrunhosa,Person,Male,PT,1960-12-20,,
 f5037ebc-6e52-4ffe-a72f-154c31f01287,Retronic Voice,,,,,,,,,,,,
 583a7cb3-5361-4eef-be2e-26f9bdd7ede9,Burning Hearts,Group,,FI,,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
 c616aef1-e21f-46f8-864f-b7bad96f41b2,Yello,Group,,CH,1979,,e2bd38a1-c5ad-4dd4-b9a4-0632ff3be7ae,Zurich,1333ff06-8e3d-3c8e-9f3a-13a2a38b41df,Switzerland,e2bd38a1-c5ad-4dd4-b9a4-0632ff3be7ae,Zurich,"Zurich, Zürich, Switzerland"
-c2ef9273-30b5-4095-b429-6a5609663a19,Dark Room Notes,Group,,IE,2004,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+c2ef9273-30b5-4095-b429-6a5609663a19,Dark Room Notes,Group,,IE,2004,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 a87d3704-dad8-47ef-9dba-4dca3becc303,goJA moon ROCKAH,Group,,DE,,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
 f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db,Frost,Person,Male,SE,,,,,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,Sweden
 c7cb9a2e-ff57-4bb8-bd2c-83524e18e369,Berlin,Group,,US,1978,,8ba9ac5a-5b4e-4ecc-b24a-e730920fc12b,Orange County,489ce91b-6658-3307-9877-795b68554c98,United States,8ba9ac5a-5b4e-4ecc-b24a-e730920fc12b,Orange County,"Orange County, California, United States"
@@ -8788,7 +8866,7 @@ c1b5b303-b472-4846-8ce8-0a1814b60356,Rational Youth,Group,,CA,1981,,,,71bbafaa-e
 85fc9e87-d557-467f-a9ab-c5df7f674c9f,Depth & Current,Group,,,2008,,cc9e5d1a-28bf-4ae2-8e36-190508072926,Norman,d2083d84-09e2-4d45-8fc0-45eed33748b5,Oklahoma,cc9e5d1a-28bf-4ae2-8e36-190508072926,Norman,"Norman, Cleveland County, Oklahoma, United States"
 6bbb9ed3-bb91-452f-b801-5c9a511de165,She Past Away,Group,,,2006,,ca2d6640-977f-4732-b3c1-c8a052d9a6f8,Bursa,ca2d6640-977f-4732-b3c1-c8a052d9a6f8,Bursa,ca2d6640-977f-4732-b3c1-c8a052d9a6f8,Bursa,"Bursa, Turkey"
 c33c2065-b1c3-4406-b066-d33a9e2ea71a,OneRepublic,Group,,US,2004,,373183af-56db-44d7-b06a-5877c02c5f01,Colorado,489ce91b-6658-3307-9877-795b68554c98,United States,373183af-56db-44d7-b06a-5877c02c5f01,Colorado,"Colorado, United States"
-61808650-fdde-4aa5-813c-67736379286e,Ryan Sheridan,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+61808650-fdde-4aa5-813c-67736379286e,Ryan Sheridan,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 5f248ed9-a263-4cd1-a849-f1bc6dbf266e,Soviet,Group,,US,1998,,1fee56fe-5b76-4a50-bc63-37ee51d3300f,Syracuse,489ce91b-6658-3307-9877-795b68554c98,United States,1fee56fe-5b76-4a50-bc63-37ee51d3300f,Syracuse,"Syracuse, Onondaga County, New York, United States"
 7c5acaaa-3f74-4e16-82b2-f8046fce4338,Trans Am,Group,,US,1990,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 15145488-7bed-4f88-96d1-9408a04345d8,Nash the Slash,Person,Male,CA,1948-03-29,,,,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,Canada
@@ -8900,9 +8978,9 @@ aac4330f-ccf0-4ba7-877c-6989481eef3d,Fake Moss,Group,,,1996,,,,,,,,
 580424e3-9e77-4b89-ad7e-377a34c79a64,Chris Tilton,Person,Male,US,1979-06-09,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 582c15e8-0f6b-4462-9796-85bae34173b8,120 Days,Group,,NO,2001,2012-09,f3c0cdd2-9d0e-4300-89a4-4a7b8338f0f2,Kristiansund,6743d351-6f37-3049-9724-5041161fff4d,Norway,f3c0cdd2-9d0e-4300-89a4-4a7b8338f0f2,Kristiansund,"Kristiansund, Møre og Romsdal, Norway"
 b852ba17-5d71-4918-845d-423af1e939a7,AV,Person,Male,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-d36a3897-f76d-4227-be80-d0d7282ff12a,Paddy Casey,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+d36a3897-f76d-4227-be80-d0d7282ff12a,Paddy Casey,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 39331b2f-9df0-4de1-a3ee-c28dd103045c,Carmen Twillie,Person,Female,US,1950,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-4731ff84-f455-4684-a9f7-5a481552c76c,Delorentos,Group,,IE,2005,,2a36cf91-d4a8-452b-a118-a5192e25f1e3,Portrane,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,2a36cf91-d4a8-452b-a118-a5192e25f1e3,Portrane,"Portrane, County Dublin, Leinster, Ireland, Ireland"
+4731ff84-f455-4684-a9f7-5a481552c76c,Delorentos,Group,,IE,2005,,2a36cf91-d4a8-452b-a118-a5192e25f1e3,Portrane,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,2a36cf91-d4a8-452b-a118-a5192e25f1e3,Portrane,"Portrane, County Dublin, Leinster, Ireland"
 5dfe458c-7b7b-4275-9448-88049cc2a3eb,Black Tie Dynasty,Group,,US,2004,2010-10-02,ae96202a-e993-45de-adfe-a8c6b66a781d,Fort Worth,489ce91b-6658-3307-9877-795b68554c98,United States,ae96202a-e993-45de-adfe-a8c6b66a781d,Fort Worth,"Fort Worth, Tarrant County, Texas, United States"
 4b462375-c508-432a-8c88-ceeec38b16ae,Kim Wilde,Person,Female,GB,1960-11-18,,1ab9f238-ee1e-4853-9b08-49f4b0c92150,Chiswick,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,1ab9f238-ee1e-4853-9b08-49f4b0c92150,Chiswick,"Chiswick, Hounslow, London, England, United Kingdom"
 cf4eab9f-c584-48eb-b115-5b3148535ab9,Dynatron,Person,Male,,,,,,,,,,
@@ -9004,7 +9082,7 @@ f6b3cf87-d083-4d27-87fc-cd53110553a4,Jamaica,,,,,,,,,,,,
 fddd15e4-0d15-4272-97ad-1df1ebe31298,Ari Pulkkinen,Person,Male,FI,1963-03-19,,,,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,Finland
 a4ea3572-0b7b-4586-bad4-02508b10f5dd,The Foreign Resort,Group,,DK,2006,,e0e3c82a-aea8-48d3-beda-9e587db0b969,Copenhagen,4757b525-2a60-324a-b060-578765d2c993,Denmark,e0e3c82a-aea8-48d3-beda-9e587db0b969,Copenhagen,"Copenhagen, Capital Region of Denmark, Denmark"
 d5611a8a-425b-4b54-aa2e-77e61d7853d6,The Girl & The Robot,,,,,,,,,,,,
-8cf11da5-a373-4221-a32d-970feab1b9f4,Maria Doyle Kennedy,Person,Female,IE,1964-09-25,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+8cf11da5-a373-4221-a32d-970feab1b9f4,Maria Doyle Kennedy,Person,Female,IE,1964-09-25,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 d6285d95-8ee1-4de2-8ceb-ff90098ab1d1,Yuksek,Person,Male,FR,1977,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
 9fee7d8c-2c12-40e6-af9c-338957a75a55,Exhibit A,Group,,GB,2000,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 ed3588d0-a076-491e-8856-a830a77f3016,Veto,Group,,,1984,,,,72cb4849-5677-47c2-8c5f-415c9074f5f3,Augsburg,72cb4849-5677-47c2-8c5f-415c9074f5f3,Augsburg,"Augsburg, Bayern, Germany"
@@ -9088,7 +9166,7 @@ d574debd-ef1d-42b1-b6de-a19b5054a7e4,Brainiac,,,,,,,,,,,,
 0a2efb78-d61b-4de7-9891-3d269215e395,Mode Moderne,Group,,CA,,,,,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,Canada
 303abdee-ffca-4685-a582-6aaaefd81b01,Carpenter Brut,,,FR,2012,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
 3e02a82b-fd3c-477b-8967-c1f07fbdbdb1,Conetik,Group,,,,,,,,,,,
-304233ff-b6cb-41da-89b9-bff125f2249a,Halves,Group,,IE,2006,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+304233ff-b6cb-41da-89b9-bff125f2249a,Halves,Group,,IE,2006,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 f512e935-9679-4b24-9991-53e50dbaecb3,Concorde,,,,,,,,,,,,
 ec277bdf-319f-4097-8d2f-39a94f2ea575,Mayhem,Person,Male,CA,,,,,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,71bbafaa-e825-3e15-8ca9-017dcad1748b,Canada,Canada
 3f8a5e5b-c24b-4068-9f1c-afad8829e06b,Soda Stereo,Group,,AR,1983,2007,2bd8607d-56fe-4fa1-96e3-3badd6a98588,Buenos Aires,0df04709-c7d8-3b55-a6ea-f3e5069a947b,Argentina,2bd8607d-56fe-4fa1-96e3-3badd6a98588,Buenos Aires,"Buenos Aires, Argentina"
@@ -9139,7 +9217,7 @@ fab34286-b8e1-4879-bce3-194e1358fbd2,Ke$ha,Person,Female,US,1987-03-01,,1f40c6e1
 f7f32d93-0801-45cb-9f5a-e68f640649f4,Cold Cave,Group,,US,2007,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7,Grinderman,Group,,GB,2006,2011-12-11,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 dd4de3c9-4d6b-4405-be12-4ca3f880ad8e,Lower,Person,,,,,,,,,,,
-ccf0e412-7d29-4128-b9eb-7ebc72249a22,Inni-K,Person,Female,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+ccf0e412-7d29-4128-b9eb-7ebc72249a22,Inni-K,Person,Female,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 9552398b-27e6-43b6-9da0-a7e582b7aa08,Vår,Group,,DK,2012,,e0e3c82a-aea8-48d3-beda-9e587db0b969,Copenhagen,4757b525-2a60-324a-b060-578765d2c993,Denmark,e0e3c82a-aea8-48d3-beda-9e587db0b969,Copenhagen,"Copenhagen, Capital Region of Denmark, Denmark"
 25f7f810-3dc0-400e-a8e3-796819450264,Ernest Gonzales,Person,Male,US,,,a6f7157a-bfab-49e8-a22b-240ade4552ca,San Antonio,489ce91b-6658-3307-9877-795b68554c98,United States,a6f7157a-bfab-49e8-a22b-240ade4552ca,San Antonio,"San Antonio, Bexar County, Texas, United States"
 386b19c6-a3d2-414a-bef2-c178572b1cbe,Moonspell,Group,,PT,1992,,6374e47f-69f4-450c-b0bc-ffa4a3849adb,Amadora,781b0c54-3d54-362d-a941-8a617def4992,Portugal,6374e47f-69f4-450c-b0bc-ffa4a3849adb,Amadora,"Amadora, Lisboa, Portugal"
@@ -9147,7 +9225,7 @@ ccf0e412-7d29-4128-b9eb-7ebc72249a22,Inni-K,Person,Female,IE,,,,,390b05d4-11ec-3
 ec184ef3-a49c-4215-84ca-46233dc5d5dd,No,Group,,DE,2000,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
 ac496108-cc64-45cd-9b28-59fc726ffa7b,Joy Electric,Group,,US,1994,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 28aafd8f-20f9-40b5-b364-f0495bf9838d,Elkland,Group,,,2002,,,,,,,,
-6c04c602-977a-4f95-862e-6879a3e02afb,Silences,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+6c04c602-977a-4f95-862e-6879a3e02afb,Silences,Person,Male,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 896becf5-d8eb-4556-9177-15127969abde,Zeigeist,Group,,SE,2004,2009-02,,,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,Sweden
 e86b5d9a-3dc1-4524-896a-baf28b6e94c9,The Vibrators,Group,,JM,,,,,2dd47a64-91d5-3b13-bc94-80043ed063d7,Jamaica,2dd47a64-91d5-3b13-bc94-80043ed063d7,Jamaica,Jamaica
 c7bee23e-f9bb-4dee-b1e3-5d49f81cde11,Motorama,Group,,RU,2006,,4c13267c-6995-4c02-8aa4-c11b5f4f52e7,Rostov-on-Don,1f1fc3a4-9500-39b8-9f10-f0a465557eef,Russia,4c13267c-6995-4c02-8aa4-c11b5f4f52e7,Rostov-on-Don,"Rostov-on-Don, Rostovskaya oblast', Russia"
@@ -9221,7 +9299,7 @@ dbf23164-c702-46b9-a7e1-32acaabca310,Tsjuder,Group,,NO,1993,,,,6743d351-6f37-304
 fc21cdc6-d366-42d1-832d-6f169b140aa2,Nameless,,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 de016c9b-2c23-483e-b70f-8d9c9d94f81f,Fatherson,Group,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 aa281784-a8a9-4dfc-b17e-b5503c6a2c96,Future World Music,,,,,,,,,,,,
-fc4988dd-0d88-4c34-beb2-05132d268a89,Mick Flannery,Person,Male,IE,1983-11-28,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+fc4988dd-0d88-4c34-beb2-05132d268a89,Mick Flannery,Person,Male,IE,1983-11-28,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 2eb2420d-d176-4c01-863c-c934d0761fe3,João Portugal,Person,Male,PT,,,,,781b0c54-3d54-362d-a941-8a617def4992,Portugal,781b0c54-3d54-362d-a941-8a617def4992,Portugal,Portugal
 c64e17c1-bb5f-42ca-81c8-20613fb8b989,TGV,Group,,FR,1980,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
 b27f2873-6c3d-4e8a-924f-8d19a6a7c2f9,Oh! Tiger Mountain,Person,,,,,,,,,,,
@@ -9377,12 +9455,12 @@ a7c1132d-8fa5-4c96-beb9-69866c07e318,WE ARE MATCH,Group,,FR,,,dc10c22b-e510-4006
 477597d4-c13d-4d8c-854b-e97d73ea87df,Gloria Lasso,Person,Female,,1922-11-25,2005-12-04,,,,,,,
 3f23ce60-38bf-48b1-9f76-9a6582d0784b,Endor,,,,,,,,,,,,
 7c31f8dc-9c01-4fab-9069-9c0791f481eb,The Bewitched Hands,Group,,FR,2007,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
-c420390b-32cc-403a-b31b-b8ecbcec9de2,Gemma Hayes,Person,Female,IE,1977-08-11,,7066437d-bd63-475f-a9d3-b311841b6f57,Ballyporeen,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,7066437d-bd63-475f-a9d3-b311841b6f57,Ballyporeen,"Ballyporeen, County Tipperary, Munster, Ireland, Ireland"
+c420390b-32cc-403a-b31b-b8ecbcec9de2,Gemma Hayes,Person,Female,IE,1977-08-11,,7066437d-bd63-475f-a9d3-b311841b6f57,Ballyporeen,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,7066437d-bd63-475f-a9d3-b311841b6f57,Ballyporeen,"Ballyporeen, County Tipperary, Munster, Ireland"
 f479047b-b320-4852-8b5a-af3c64db8262,Last Battle,Group,,,,,,,,,,,
 4aec1363-ab7a-4de2-a253-c529eeec55bd,Gaby Moreno,Person,Female,GT,1981-12-16,,,,01448ddc-6ee3-3fa4-b136-507d984e31ee,Guatemala,01448ddc-6ee3-3fa4-b136-507d984e31ee,Guatemala,Guatemala
 64d62f45-e001-40a1-a055-c3545fcc14de,Idlewild,Group,,GB,1995-12,,6658f787-692d-417f-852c-dcca728d5849,Edinburgh,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,6658f787-692d-417f-852c-dcca728d5849,Edinburgh,"Edinburgh, Scotland, United Kingdom"
 507c50b4-b1c8-4fe4-a370-c95f6e43a30e,Los Machucambos,Group,,,,,,,,,,,
-a0178fb8-717d-45e3-847d-0c34170c803b,We Cut Corners,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+a0178fb8-717d-45e3-847d-0c34170c803b,We Cut Corners,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 06d925cc-ead6-42f4-9e8b-cc7d7aedc884,Fredrik Pacius,Person,Male,FI,1809-03-19,1891-01-08,11a44e18-a2e5-43a9-bee9-aa4f7c83f967,Hamburg,6a264f94-6ff1-30b1-9a81-41f7bfabd616,Finland,11a44e18-a2e5-43a9-bee9-aa4f7c83f967,Hamburg,"Hamburg, Germany"
 a7979d49-1a87-4dd0-944a-e7ef31b4aa68,We See Lights,Group,,GB,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 5b657772-98c4-4cbe-a3de-5ba56819b4f0,Mein Sohn William,Person,Male,FR,,,,,08310658-51eb-3801-80de-5a0739207115,France,08310658-51eb-3801-80de-5a0739207115,France,France
@@ -9600,7 +9678,6 @@ a0e10984-0eca-4920-a171-5fd7a62ee069,Beady Eye,Group,,GB,2009,2014-10,,,8a754a16
 aa895e35-e7c5-446b-9f62-26b27ea5b8a2,Systema Solar,Group,,CO,2006,,,,02b60d8d-7164-339d-868d-22d147d9f74a,Colombia,02b60d8d-7164-339d-868d-22d147d9f74a,Colombia,Colombia
 d5f54887-117b-42a1-9aee-8780b84ebaba,Noel Gallagher’s High Flying Birds,Group,,GB,2011,,852531bf-3410-401f-b432-9c3157a386b9,Manchester,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,852531bf-3410-401f-b432-9c3157a386b9,Manchester,"Manchester, Greater Manchester, England, United Kingdom"
 0741b30d-e15b-4a8c-b2e5-8834a03d6116,Cold War Kids,Group,,US,2004,,e183ffae-1d35-4c78-b552-957535e40af1,Long Beach,489ce91b-6658-3307-9877-795b68554c98,United States,e183ffae-1d35-4c78-b552-957535e40af1,Long Beach,"Long Beach, Los Angeles County, California, United States"
-aa1d4315-5246-42b2-b62b-f997d046d8b2,Emancipator,Person,Male,,1987,,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,74e50e58-5deb-4b99-93a2-decbb365c07f,New York,"New York, New York, United States"
 cd949939-d9f5-439f-b0aa-be08aa96c20f,Letherette,,,,,,,,,,,,
 5a27baf7-405b-4515-8dec-591f67006189,Gold Stars,Group,,,,,,,,,,,
 ee953029-6de8-4c50-8d0f-215a1e4e8dd6,Alex Turner,Person,Male,GB,1986-01-06,,90f11ec3-6204-4fc3-b0e9-67a1a6771d63,High Green,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,90f11ec3-6204-4fc3-b0e9-67a1a6771d63,High Green,"High Green, Sheffield, South Yorkshire, England, United Kingdom"
@@ -9618,7 +9695,7 @@ ff2a4e04-60d2-4cea-a093-8ba9d42af5e3,Moonlight Sonata,Group,,RU,2009,,,,1f1fc3a4
 1507b368-e660-4c15-af94-3f5603561045,Balmorhea,Group,,US,2006,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 0e16502c-879e-41ce-9e14-7564eec20d96,The Calm Blue Sea,Group,,US,,,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,489ce91b-6658-3307-9877-795b68554c98,United States,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,"Austin, Travis County, Texas, United States"
 f20913ba-c4be-4c78-809a-e90718bae03a,Collapse Under the Empire,Group,,DE,,,,,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,85752fda-13c4-31a3-bee5-0e5cb1f51dad,Germany,Germany
-e9dfc148-d5f6-425e-b80b-f99ed2bd7c09,God Is an Astronaut,Group,,IE,2002,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+e9dfc148-d5f6-425e-b80b-f99ed2bd7c09,God Is an Astronaut,Group,,IE,2002,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 195f9eff-9af2-43b6-87ea-bd1c0cffc254,Epic45,Group,,,,,,,,,,,
 d877b2d5-5b6f-4020-a2c1-25c44dbbaf94,The Six Parts Seven,Group,,US,1995,2008,8b4a60a1-2240-4019-b915-2ca03526013d,Kent,489ce91b-6658-3307-9877-795b68554c98,United States,8b4a60a1-2240-4019-b915-2ca03526013d,Kent,"Kent, Portage County, Ohio, United States"
 001d3f4f-f4eb-4f51-86fa-4baec411d00c,sleepmakeswaves,Group,,AU,2006,,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,3f179da4-83c6-4a28-a627-e46b4a8ff1ed,Sydney,"Sydney, New South Wales, Australia"
@@ -9742,7 +9819,7 @@ c6b3050d-28dc-4d85-a1de-1c59e942c1ba,Gaza,,,,,,,,,,,,
 6dd5961a-16e7-4f03-8385-b251e12f9698,Floor,Group,,US,1992,1996,4a9aeb42-3763-4234-8fb8-1167ac1dfdfe,Miami,489ce91b-6658-3307-9877-795b68554c98,United States,4a9aeb42-3763-4234-8fb8-1167ac1dfdfe,Miami,"Miami, Miami-Dade County, Florida, United States"
 e50fc485-1574-4dc6-8a2d-afccb253fea8,Fight Amp,Group,,US,2003,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 d723750d-db44-4667-ab57-52a54469310f,Bongripper,Group,,,2005,,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,"Chicago, Cook County, Illinois, United States"
-9ffad553-cf15-48b4-8631-97e1f41dba7b,Indian,Group,,,,,,,4f76e417-da27-4d6e-9808-483a0f72fc22,County Sligo,4f76e417-da27-4d6e-9808-483a0f72fc22,County Sligo,"County Sligo, Connaught, Ireland, Ireland"
+9ffad553-cf15-48b4-8631-97e1f41dba7b,Indian,Group,,,,,,,4f76e417-da27-4d6e-9808-483a0f72fc22,County Sligo,4f76e417-da27-4d6e-9808-483a0f72fc22,County Sligo,"County Sligo, Connaught, Ireland"
 75a97901-0051-4b67-a79b-9ebf2400d1d9,Old Man Gloom,Group,,US,1999,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 a4af0b62-ca53-4c79-9484-4964da5212dd,Buzzov•en,Group,,US,1989,,b3195d3d-7442-4ac1-9db3-4e518eb53396,Wilmington,489ce91b-6658-3307-9877-795b68554c98,United States,b3195d3d-7442-4ac1-9db3-4e518eb53396,Wilmington,"Wilmington, New Hanover County, North Carolina, United States"
 d8b01cf8-a7ff-41fd-95cb-47b56c9c895f,Harvey Milk,Group,,US,1992,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
@@ -10606,7 +10683,7 @@ af4c773f-10ad-4e51-932d-c37218e0e885,Stephen Spender,Person,Male,GB,1909-02-27,1
 c8535791-460f-4d1b-8051-d8028f74a2c3,Louise Bogan,Person,Male,US,1897-08-11,1970-02-04,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 da546442-850c-4fbd-8072-1b298af29dd5,Nigel Planer,Person,Male,GB,1953-02-22,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 4a08e99d-3a9d-4dda-b9d9-c9a52bb7e87d,Marianne Moore,Person,Female,US,1887-12-11,1972-02-05,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-60ab738d-ffe9-45f6-bc08-f9ef5d4f7731,William Butler Yeats,Person,Male,IE,1865-06-13,1939-01-28,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland, Ireland"
+60ab738d-ffe9-45f6-bc08-f9ef5d4f7731,William Butler Yeats,Person,Male,IE,1865-06-13,1939-01-28,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland"
 69264dbd-1096-4a58-82c9-668e2f33a4d5,Joseph Campbell,Person,Male,US,1904-03-26,1987-10-31,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 a5327141-b1a6-4229-b9e1-68a76a048693,Dwight D. Eisenhower,Person,Male,US,1890-10-14,1969-03-28,d60b9ab0-fb32-4540-9020-c259fc43460a,Denison,489ce91b-6658-3307-9877-795b68554c98,United States,d60b9ab0-fb32-4540-9020-c259fc43460a,Denison,"Denison, Grayson County, Texas, United States"
 acb66207-7266-4654-9e43-315e6c800d25,Joseph Fiennes,Person,Male,,1970-05-27,,,,,,,,
@@ -11109,7 +11186,7 @@ c1611f46-7e50-48c1-a8c8-28aa8a63a818,Eric Gales,Person,Male,US,1974-10-29,,c2d96
 55fd270b-f4e6-49a7-98f8-ac1af1b6d5a8,Trigger Hippy,Group,,US,2009,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 810af667-6a1f-40df-87a9-27f726cba4f3,Tony Joe White,Person,Male,US,1943-07-23,,fc68ecf5-507e-4012-b60b-d93747a3cfa7,Louisiana,489ce91b-6658-3307-9877-795b68554c98,United States,fc68ecf5-507e-4012-b60b-d93747a3cfa7,Louisiana,"Louisiana, United States"
 8330d986-aff3-4d79-a22f-50eea8f1c7f2,Paul Geremia,Person,Male,US,1944-04-21,,1b4c4320-f55b-47ca-84c6-6e95dc5493b4,Providence,489ce91b-6658-3307-9877-795b68554c98,United States,1b4c4320-f55b-47ca-84c6-6e95dc5493b4,Providence,"Providence, Providence County, Rhode Island, United States"
-933fdeae-ec68-48e9-a752-8bcfd44bc429,Rory Gallagher,Person,Male,IE,1948-03-02,1995-06-14,bbd67e6e-8f53-4ee2-a067-6132f817142a,County Donegal,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,bbd67e6e-8f53-4ee2-a067-6132f817142a,County Donegal,"County Donegal, Ulster, Ireland, Ireland"
+933fdeae-ec68-48e9-a752-8bcfd44bc429,Rory Gallagher,Person,Male,IE,1948-03-02,1995-06-14,bbd67e6e-8f53-4ee2-a067-6132f817142a,County Donegal,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,bbd67e6e-8f53-4ee2-a067-6132f817142a,County Donegal,"County Donegal, Ulster, Ireland"
 fc1a1e50-b6f7-431f-834b-d1441e54dcb7,Mark Robinson,Person,Male,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 aef72125-35f8-4ce3-9400-88a8d1e5d78f,Tommy Castro and the Painkillers,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 d6ad2c36-9ea8-4293-aea7-1ca287f8c322,Marcus Bonfanti,Person,,,,,,,,,,,
@@ -11975,7 +12052,7 @@ e81160b4-3ee8-4c0a-965c-32eab2aaa517,Eduardo Costa,Person,Male,,,,,,,,,,
 731041cd-4cd0-4245-aafb-2b3fb9f9fdb9,Nelson Sargento,Person,Male,BR,1924-07-24,,,,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,Brazil
 b715f4bd-2e23-4dd0-8d7b-6c224557ff45,Janaynna,Person,Female,BR,1985,,,,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,Brazil
 f7c823d0-c49f-40d3-84c0-edc32d045ea2,Bruno & Marrone,Group,,BR,1985,,d8064b41-311b-47f2-99bb-043b2a17adc6,Goiânia,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,d8064b41-311b-47f2-99bb-043b2a17adc6,Goiânia,"Goiânia, Goiás, Brazil"
-f38cd4b8-5701-4f0c-ade1-1f056ec13f11,Gloria,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
+f38cd4b8-5701-4f0c-ade1-1f056ec13f11,Gloria,Group,,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 2c360ea2-8ee0-4aaa-840b-bef48ff01764,Latino,Person,Male,BR,1973-02-22,,7a317b09-3948-46f2-99da-a14355d6fff7,Rio de Janeiro,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,7a317b09-3948-46f2-99da-a14355d6fff7,Rio de Janeiro,"Rio de Janeiro, Brazil"
 92f9deec-b057-4599-ab09-4db470662d44,João Lucas e Marcelo,,,,,,,,,,,,
 15f48f68-b87c-4824-8f16-db300b996b72,Sorriso Maroto,Group,,BR,1997,,9443d4f5-668c-4f30-96bd-6caf831de30f,Rio de Janeiro,f45b47f8-5796-386e-b172-6c31b009a5d8,Brazil,9443d4f5-668c-4f30-96bd-6caf831de30f,Rio de Janeiro,"Rio de Janeiro, Rio de Janeiro, Brazil"
@@ -12074,7 +12151,7 @@ c6e5c5f4-984e-432a-87b8-b6afa288bca1,Olivier Messiaen,Person,Male,FR,1908-12-10,
 cd39bada-c6b4-402f-a829-d5b0cf2189fd,Alexis Ffrench,Person,Male,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 e48fa0b9-7e30-4406-aed2-3605854c9e52,Far,Group,,US,1991,1999,21879fba-fe4e-4dbc-99e8-cad9142e5618,Sacramento,489ce91b-6658-3307-9877-795b68554c98,United States,21879fba-fe4e-4dbc-99e8-cad9142e5618,Sacramento,"Sacramento, Sacramento County, California, United States"
 5396fe33-4f3f-4517-8d85-9cb82e12ff38,Houses,Group,,NL,2009,2014-02-01,,,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,Netherlands
-b77a873a-9faf-4f59-81b4-9b247ca911f3,REID,Person,Male,,,,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland, Ireland"
+b77a873a-9faf-4f59-81b4-9b247ca911f3,REID,Person,Male,,,,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland"
 379196a9-124a-4c0c-a046-c6a188605ff5,Jon Cooper,Person,Male,,,,,,c279f805-01f8-46f5-99cf-51f165a1adad,Glasgow,c279f805-01f8-46f5-99cf-51f165a1adad,Glasgow,"Glasgow, Scotland, United Kingdom"
 6c501f02-7bb4-4116-af3a-c702177e19bf,Sea Oleena,Person,Female,,1991,,,,c3cc624e-b963-49cf-ad0b-e318cb341963,Montreal,c3cc624e-b963-49cf-ad0b-e318cb341963,Montreal,"Montreal, Quebec, Canada"
 b47adfe6-faf5-4b24-92b8-f730bdb79fcf,Thundamentals,Group,,AU,,,,,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,Australia
@@ -12101,7 +12178,7 @@ e29e48eb-03b5-4cb3-9b0a-b445b0252b46,Kate Boy,Group,,SE,2011,,1127ddc2-eab3-4662
 36270ad4-4cbd-4703-8501-68a9bc4c2734,Oceaán,Person,Male,,,,7bda5d46-4809-41dc-a0b8-e889ff818f2e,Brussels,852531bf-3410-401f-b432-9c3157a386b9,Manchester,7bda5d46-4809-41dc-a0b8-e889ff818f2e,Brussels,"Brussels, Belgium"
 6ed40778-8d03-4a5c-ad35-93cf814627c9,Jessie Ware,Person,Female,GB,1984-10-15,,8147ca78-c199-4083-a9a9-971f0d13e071,Hammersmith,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8147ca78-c199-4083-a9a9-971f0d13e071,Hammersmith,"Hammersmith, Hammersmith and Fulham, London, England, United Kingdom"
 ce279100-7d2a-4af2-9bd8-7f66ffcea95b,Awesome New Republic,Group,,US,2003,,4a9aeb42-3763-4234-8fb8-1167ac1dfdfe,Miami,489ce91b-6658-3307-9877-795b68554c98,United States,4a9aeb42-3763-4234-8fb8-1167ac1dfdfe,Miami,"Miami, Miami-Dade County, Florida, United States"
-0dec6a68-6876-43d6-a190-b4d4920a8606,Sleep Thieves,Group,,,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland, Ireland"
+0dec6a68-6876-43d6-a190-b4d4920a8606,Sleep Thieves,Group,,,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland"
 d906b01a-8607-4cae-bd4f-eb7dee2ff66e,Phil Gerus,,,,,,,,,,,,
 78dab1fc-a680-4ba2-9432-fa2d71490a9d,Young & Sick,Person,Male,,,,,,,,,,
 da62ad09-d584-4e97-aad4-c955e2e8fd51,IYES,Group,,GB,,,ff63e1f7-14fa-422f-876a-f57293c9219d,Brighton and Hove,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,ff63e1f7-14fa-422f-876a-f57293c9219d,Brighton and Hove,"Brighton and Hove, England, United Kingdom"
@@ -12214,7 +12291,7 @@ a2bff7aa-390e-4412-9a0b-c18526fc233a,Marvin Sapp,Person,Male,US,1967-12-06,,,,48
 62b79b6a-5ae8-4827-a457-812355684371,A Forest of Stars,Group,,GB,2007,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,United Kingdom
 f011c91f-d245-4782-93cc-2c5238b6657b,Arcane,Group,,,,,,,,,,,
 75fd76eb-09d8-4567-b24a-5fe43334ed15,Keep of Kalessin,Group,,NO,1994,,,,6743d351-6f37-3049-9724-5041161fff4d,Norway,6743d351-6f37-3049-9724-5041161fff4d,Norway,Norway
-eacf66a8-8ea0-41e4-879e-fcc61bcb03f0,Primordial,Group,,IE,1987,,c2b74f84-ee4a-4d98-9577-0cf179c13bc5,Skerries,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,c2b74f84-ee4a-4d98-9577-0cf179c13bc5,Skerries,"Skerries, County Dublin, Leinster, Ireland, Ireland"
+eacf66a8-8ea0-41e4-879e-fcc61bcb03f0,Primordial,Group,,IE,1987,,c2b74f84-ee4a-4d98-9577-0cf179c13bc5,Skerries,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,c2b74f84-ee4a-4d98-9577-0cf179c13bc5,Skerries,"Skerries, County Dublin, Leinster, Ireland"
 3927ce7e-5840-462d-9dff-2858c1c901fe,Solefald,Group,,NO,1995,,289e716f-c682-413c-a0b2-22c1dbebbaab,Kristiansand,6743d351-6f37-3049-9724-5041161fff4d,Norway,289e716f-c682-413c-a0b2-22c1dbebbaab,Kristiansand,"Kristiansand, Vest-Agder, Norway"
 52096238-13cc-4b37-846e-7fff9e736b5d,While Heaven Wept,Group,,US,1991,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 dcbd8453-ea36-4e05-89cf-33ee8c1690ac,Kenneth Thomas,Person,,,,,,,,,,,
@@ -12493,7 +12570,7 @@ b82d7fb6-8814-458e-aad1-fd1a3c74fc9f,Oh Mercy,Group,,AU,2007,,b4e9352c-8edf-4911
 67771ada-7339-4d01-8763-9e6a7621b087,Whitley,Person,Female,AU,,,,,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,106e0bec-b638-3b37-b731-f53d507dc00e,Australia,Australia
 164eaecb-a03a-455a-9b83-36c4b0708825,Wiretree,Group,,US,2005,,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,489ce91b-6658-3307-9877-795b68554c98,United States,58d2816b-daf9-4fc5-962c-06967f14a5e5,Austin,"Austin, Travis County, Texas, United States"
 f01f4e0c-20c7-44fb-b549-d353c94bef55,Roo Panes,Person,Male,GB,1988-06-08,,06ab37cf-afcf-40cb-9e50-56f482c3b4ff,Wimborne Minster,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,06ab37cf-afcf-40cb-9e50-56f482c3b4ff,Wimborne Minster,"Wimborne Minster, Dorset, England, United Kingdom"
-1a74972b-82b9-49ba-9dcf-ca7cdaee4fa5,Fionn Regan,Person,Male,IE,1981,,0fea79e6-b4a9-4eea-99f6-f9969bcb3e2a,Bray,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,0fea79e6-b4a9-4eea-99f6-f9969bcb3e2a,Bray,"Bray, County Wicklow, Leinster, Ireland, Ireland"
+1a74972b-82b9-49ba-9dcf-ca7cdaee4fa5,Fionn Regan,Person,Male,IE,1981,,0fea79e6-b4a9-4eea-99f6-f9969bcb3e2a,Bray,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,0fea79e6-b4a9-4eea-99f6-f9969bcb3e2a,Bray,"Bray, County Wicklow, Leinster, Ireland"
 f5816f57-274c-4542-b426-044c2cbf4bba,The Bird and The Bear,Group,,,2011,,e68879f9-bd95-41ff-96ba-c082ff37cc74,Nashville,e68879f9-bd95-41ff-96ba-c082ff37cc74,Nashville,e68879f9-bd95-41ff-96ba-c082ff37cc74,Nashville,"Nashville, Davidson County, Tennessee, United States"
 ff5211f7-fcd4-44fb-82c2-f98950b11c9c,Little Bear,,,,,,,,,,,,
 2e088ea8-b8f7-4df4-ac83-7024a50aabf1,Sam Amidon,Person,Male,US,1981-06-03,,10d01282-4b05-49f5-8586-7c30b640f2c5,Brattleboro,489ce91b-6658-3307-9877-795b68554c98,United States,10d01282-4b05-49f5-8586-7c30b640f2c5,Brattleboro,"Brattleboro, Windham County, Vermont, United States"
@@ -12911,7 +12988,7 @@ f5e31fda-bbf5-4ab6-8194-bcc9209b53f8,The Romantics,Group,,US,1977-02-14,,b03ff31
 9072df14-b61e-42e2-b4f4-6bbb7fdb5586,Tina Turner,Person,Female,US,1939-11-26,,cb5e5d19-3b62-4040-b048-f8c23838486b,Nutbush,489ce91b-6658-3307-9877-795b68554c98,United States,cb5e5d19-3b62-4040-b048-f8c23838486b,Nutbush,"Nutbush, Haywood County, Tennessee, United States"
 c0d96e6b-ee48-422d-8c28-f169ada973a8,Holly Golightly,Person,Female,GB,1966-09-07,,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,f03d09b3-39dc-4083-afd6-159e3f0d462f,London,"London, England, United Kingdom"
 60a5cca4-c7c1-4746-b915-d39e09bbe513,Black Prairie,Group,,US,2007,,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,489ce91b-6658-3307-9877-795b68554c98,United States,2b748d6e-bc1c-4434-9f7b-ecd6332bc557,Portland,"Portland, Multnomah County, Oregon, United States"
-f96451e4-4cc4-4cc0-87c8-cfba4e74fc1c,The Gloaming,Group,,,2011,,22014c5c-92ec-45e2-a9c3-03de668179f6,County Westmeath,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,22014c5c-92ec-45e2-a9c3-03de668179f6,County Westmeath,"County Westmeath, Leinster, Ireland, Ireland"
+f96451e4-4cc4-4cc0-87c8-cfba4e74fc1c,The Gloaming,Group,,,2011,,22014c5c-92ec-45e2-a9c3-03de668179f6,County Westmeath,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,22014c5c-92ec-45e2-a9c3-03de668179f6,County Westmeath,"County Westmeath, Leinster, Ireland"
 4f9e220f-a0c7-4b26-be35-70d88b3d0ca0,Robert Ellis,Person,,,,,,,e68879f9-bd95-41ff-96ba-c082ff37cc74,Nashville,e68879f9-bd95-41ff-96ba-c082ff37cc74,Nashville,"Nashville, Davidson County, Tennessee, United States"
 e50f9da8-a0a2-4a97-94b6-c649a2b96c0b,Basil Poledouris,Person,Male,US,1945-08-21,2006-11-08,c1fc21db-40e9-47f5-af93-f3ebe6581113,Kansas City,489ce91b-6658-3307-9877-795b68554c98,United States,c1fc21db-40e9-47f5-af93-f3ebe6581113,Kansas City,"Kansas City, Jackson County, Missouri, United States"
 50549203-9602-451c-b49f-ff031ba8635c,Dashboard Confessional,Group,,US,1999,,931592a4-f23a-4bc4-ac27-67142172f11e,Boca Raton,489ce91b-6658-3307-9877-795b68554c98,United States,931592a4-f23a-4bc4-ac27-67142172f11e,Boca Raton,"Boca Raton, Palm Beach County, Florida, United States"
@@ -13030,7 +13107,7 @@ ed7ba37c-bf87-485e-844b-246137e25a97,Chris O'Brien,Person,,US,,,,,489ce91b-6658-
 af432cb6-d89c-437c-8780-b6ca8d115bad,The Black Atlantic,Group,,NL,,,,,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,Netherlands
 c3ac0d79-8adc-42db-aa70-9ab15e980f3d,Mindy Smith,Person,Female,US,1972-06-01,,75e398a3-5f3f-4224-9cd8-0fe44715bc95,New York,489ce91b-6658-3307-9877-795b68554c98,United States,75e398a3-5f3f-4224-9cd8-0fe44715bc95,New York,"New York, United States"
 6e5e3adb-7be9-4bb2-86c1-781aa213e827,Cory Branan,Person,Male,US,1974-12-15,,9d2d14ee-d508-4fcd-b09c-1a0cbdc6873b,Southaven,489ce91b-6658-3307-9877-795b68554c98,United States,9d2d14ee-d508-4fcd-b09c-1a0cbdc6873b,Southaven,"Southaven, DeSoto County, Mississippi, United States"
-bb47c3a3-eb2c-431f-8d29-8c3e4ee86e15,The Strypes,Group,,IE,2010-11-01,,61b19b58-8fdf-4e96-a412-e15343b59acc,Cavan,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,61b19b58-8fdf-4e96-a412-e15343b59acc,Cavan,"Cavan, County Cavan, Ulster, Ireland, Ireland"
+bb47c3a3-eb2c-431f-8d29-8c3e4ee86e15,The Strypes,Group,,IE,2010-11-01,,61b19b58-8fdf-4e96-a412-e15343b59acc,Cavan,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,61b19b58-8fdf-4e96-a412-e15343b59acc,Cavan,"Cavan, County Cavan, Ulster, Ireland"
 a098c4f4-8407-4c2d-932c-5c6e4f35766a,Orenda Fink,Person,Female,US,1975-09-18,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 28cbf94d-0700-4095-a188-37e373b069a7,Basement Jaxx,Group,,GB,1994,,61941444-5a83-43e2-ba48-4db7438e0f26,Brixton,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,61941444-5a83-43e2-ba48-4db7438e0f26,Brixton,"Brixton, Lambeth, London, England, United Kingdom"
 6572b26f-09c8-48e1-906d-84c4df14bbc6,Christian Gregory,Person,Male,GB,1987-06-18,,33587495-c775-4483-b819-931c4cf438cd,Oxford,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,33587495-c775-4483-b819-931c4cf438cd,Oxford,"Oxford, Oxfordshire, England, United Kingdom"
@@ -13118,7 +13195,7 @@ e7b587f7-e678-47c1-81dd-e7bb7855b0f9,Phil Spector,Person,Male,,1939-12-26,,eb4a3
 a77cacbe-e6ea-449f-9f13-a6de0b35b9b2,Gaby Amarantos,Person,,,,,,,,,,,
 daa09819-5da5-4c7a-8bef-eb372bb27ff1,Timbaland,Person,Male,US,1972-03-10,,520b4d15-da9b-40ce-8ba5-d797d0eae8a2,Norfolk,489ce91b-6658-3307-9877-795b68554c98,United States,520b4d15-da9b-40ce-8ba5-d797d0eae8a2,Norfolk,"Norfolk, Virginia, United States"
 cace049f-3ce9-467b-a785-751f7f3a96b8,Chapters,Group,,US,,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
-4ef79472-c86c-4895-a96f-4cb340d16143,The Cast of Cheers,Group,,,,,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland, Ireland"
+4ef79472-c86c-4895-a96f-4cb340d16143,The Cast of Cheers,Group,,,,,,,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,462e7952-4fa9-43cd-bc24-2c5c9cd5dd47,Dublin,"Dublin, County Dublin, Leinster, Ireland"
 f3e5f1ec-5d76-40c1-b28e-93b1ec0f67cc,Superfly,,,,,,,,,,,,
 96a1182f-e8e6-4df6-a811-82cb67d4565c,Gene Simmons,Person,Male,,1949-08-25,,4da37f20-218d-4406-8d29-7d30a32978bf,Haifa,73d8cbdd-3149-4cb6-a36d-1ef2036a8b88,Beverly Hills,4da37f20-218d-4406-8d29-7d30a32978bf,Haifa,"Haifa, H̱efa, Israel"
 d5219064-1342-4ab7-a182-eb72deade1f6,Kairos 4tet,Group,,,,,,,,,,,
@@ -13131,7 +13208,6 @@ e4f92153-dd32-4c81-98bd-e0ad9a1b9672,Jane Birkin,Person,Female,,1946-12-14,,0c52
 b02cc1b7-35ef-4804-9678-e95085e106ae,Jan & Dean,Group,,US,1958,2004,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 efc0ee36-ad69-45af-8602-991b254b7529,Duane Eddy,Person,Male,US,1938-04-26,,772232c3-0173-4afe-bb10-f5f772e6cb0b,Corning,489ce91b-6658-3307-9877-795b68554c98,United States,772232c3-0173-4afe-bb10-f5f772e6cb0b,Corning,"Corning, Steuben County, New York, United States"
 fae710ec-80a1-4b02-87af-cbbe4ccb228f,Gonçalo Salgueiro,Person,Male,PT,????-11-07,,,,781b0c54-3d54-362d-a941-8a617def4992,Portugal,781b0c54-3d54-362d-a941-8a617def4992,Portugal,Portugal
-c73617a2-72a0-4f60-9b82-4cad3557d916,Joana Amendoeira,Person,Female,PT,1982-09-30,,,,781b0c54-3d54-362d-a941-8a617def4992,Portugal,781b0c54-3d54-362d-a941-8a617def4992,Portugal,Portugal
 8b12971e-2527-480e-ace0-91f320433077,Miguel Ramos,Person,,,1984,,,,,,,,
 f29072d3-5bd6-4709-8834-610f1eb3f2ad,Ana Laíns,Person,Female,PT,,,,,781b0c54-3d54-362d-a941-8a617def4992,Portugal,781b0c54-3d54-362d-a941-8a617def4992,Portugal,Portugal
 e4427850-ba10-4a36-9c0c-ccae5f7ccc18,Ricardo Ribeiro,Person,Male,PT,1981-08-19,,,,781b0c54-3d54-362d-a941-8a617def4992,Portugal,781b0c54-3d54-362d-a941-8a617def4992,Portugal,Portugal
@@ -13567,7 +13643,6 @@ cabebdc4-5803-4605-8f3f-ddaf92f7b5ad,The New Seekers,Group,,GB,1969,,,,8a754a16-
 fce16149-74d3-47cf-af80-192b68f41c7c,Casablanca,Group,,SE,,,,,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,23d10872-f5ae-3f0c-bf55-332788a16ecb,Sweden,Sweden
 c71ef2f7-da87-4f6c-a670-6b0221b04ff1,John Tesh,Person,Male,US,1952-07-09,,db7e4639-1163-41d3-98a6-c350eed8028a,Garden City,489ce91b-6658-3307-9877-795b68554c98,United States,db7e4639-1163-41d3-98a6-c350eed8028a,Garden City,"Garden City, North Hempstead, Nassau County, New York, United States"
 09d717db-5428-472b-ac6e-3c0600c8c753,Loose Fur,Group,,US,2002,,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,489ce91b-6658-3307-9877-795b68554c98,United States,29a709d8-0320-493e-8d0c-f2c386662b7f,Chicago,"Chicago, Cook County, Illinois, United States"
-84683370-5eae-418b-acd8-883ac028a8a0,George Clinton,Person,Male,US,1941-07-22,,5d733f7d-0039-4747-bd78-329fda7f3ed6,Kannapolis,489ce91b-6658-3307-9877-795b68554c98,United States,5d733f7d-0039-4747-bd78-329fda7f3ed6,Kannapolis,"Kannapolis, Cabarrus County, North Carolina, United States"
 8f54d90b-f322-4e5d-a0fd-bdc960f2d20f,Gastr del Sol,Group,,US,1991,1998,b21e4552-050d-4c0c-ac5a-031108eb0c47,Louisville,489ce91b-6658-3307-9877-795b68554c98,United States,b21e4552-050d-4c0c-ac5a-031108eb0c47,Louisville,"Louisville, Jefferson County, Kentucky, United States"
 73fe8b5f-3baa-41ab-b3e3-1e5f99baf84c,Vitamin C,Person,Female,US,1969-07-20,,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 79491354-3d83-40e3-9d8e-7592d58d790a,Deep Purple,Group,,GB,1968,,93e36643-acf7-4fb4-8760-de9d6bebfe4c,Hertford,8a754a16-0027-3a29-b6d7-2b40ea0481ed,United Kingdom,93e36643-acf7-4fb4-8760-de9d6bebfe4c,Hertford,"Hertford, Hertfordshire, England, United Kingdom"
@@ -13712,6 +13787,6 @@ fa37018e-3557-4cb7-973f-555003c30174,London Philharmonic Orchestra,Orchestra,,GB
 feb20e30-7c95-4523-9c44-2713980a5f83,Trio Sur,,,,,,,,,,,,
 6a0439a1-4520-443b-9bf1-02acdf692d6e,Danity Kane,Group,,US,2006,2014-08-08,,,489ce91b-6658-3307-9877-795b68554c98,United States,489ce91b-6658-3307-9877-795b68554c98,United States,United States
 76bee0a6-10fc-416c-a8fd-d9c91ee9642c,Alice DeeJay,Group,,NL,1999,,,,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,ef1b7cc0-cd26-36f4-8ea0-04d9623786c7,Netherlands,Netherlands
-fc6da421-2a0c-48bf-b80c-6785c26ffcc3,BATS,Group,,IE,2007,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,"Ireland, Ireland"
-a95384b1-6aec-468c-ae0d-8c6daf87c4c2,Lil Jon,Person,Male,US,1971-01-17,,26e0e534-19ea-4645-bfb3-1aa4e83a4046,Atlanta,489ce91b-6658-3307-9877-795b68554c98,United States,26e0e534-19ea-4645-bfb3-1aa4e83a4046,Atlanta,"Atlanta, Fulton County, Georgia, United States"
+fc6da421-2a0c-48bf-b80c-6785c26ffcc3,BATS,Group,,IE,2007,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,390b05d4-11ec-3bce-a343-703a366b34a5,Ireland,Ireland
 0d9ff9c7-394e-4228-93aa-c4afd4765324,Paris Hilton,Person,Female,US,1981-02-17,,75e398a3-5f3f-4224-9cd8-0fe44715bc95,New York,489ce91b-6658-3307-9877-795b68554c98,United States,75e398a3-5f3f-4224-9cd8-0fe44715bc95,New York,"New York, United States"
+a95384b1-6aec-468c-ae0d-8c6daf87c4c2,Lil Jon,Person,Male,US,1971-01-17,,26e0e534-19ea-4645-bfb3-1aa4e83a4046,Atlanta,489ce91b-6658-3307-9877-795b68554c98,United States,26e0e534-19ea-4645-bfb3-1aa4e83a4046,Atlanta,"Atlanta, Fulton County, Georgia, United States"
