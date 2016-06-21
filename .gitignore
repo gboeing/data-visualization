@@ -6,6 +6,7 @@ keys.py
 keys.pyc
 *.mbox
 *.tsv
+*cache*.js
 
 # Compiled source #
 ###################
