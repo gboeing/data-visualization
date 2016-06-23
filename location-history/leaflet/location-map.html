@@ -43,8 +43,8 @@
     // specify what the circle markers should look like
     var markerStyles = {
         radius: 6,
-        fillColor: 'blue', fillOpacity: 0.4,
-        color: '#333333', opacity: 0.5, weight: 1
+        fillColor: '#0033cc', fillOpacity: 0.5,
+        color: '#333333', opacity: 0.7, weight: 1
     };
     
     // specify how to load the individual features 
@@ -63,7 +63,8 @@
     map.addLayer(pointsLayer);
     
     // fit the map window to the data points
-    map.fitBounds(pointsLayer.getBounds());
+    //map.fitBounds(pointsLayer.getBounds());
+    map.setView(new L.LatLng(35, -115), 6);
 
     </script>
 </body>
