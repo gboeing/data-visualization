@@ -1,41 +1,41 @@
 artist,track,play_count
-Wolf Parade,Modern World,133
+Wolf Parade,Modern World,134
 The Kinks,Waterloo Sunset,127
-Badly Drawn Boy,Once Around the Block,117
-The Zombies,This Will Be Our Year,113
-The Kinks,Days,105
-The Shins,New Slang,103
-Nada Surf,Blonde on Blonde,102
+Badly Drawn Boy,Once Around the Block,118
+The Zombies,This Will Be Our Year,114
+The Kinks,Days,106
+The Shins,New Slang,104
+Nada Surf,Blonde on Blonde,103
 The Kinks,The Village Green Preservation Society,97
 Belle and Sebastian,Dress Up in You,95
 The Dismemberment Plan,Gyroscope,94
+Phish,Farmhouse,93
 Ween,What Deaner Was Talkin' About,93
-Phish,Farmhouse,92
 Animal Collective,Summertime Clothes,91
 Electric Light Orchestra,Sweet Talkin' Woman,91
 Teenage Fanclub,I Don't Want Control Of You,90
 Radiohead,Idioteque,90
-Menomena,Rotten Hell,87
+Menomena,Rotten Hell,88
+Pavement,Major Leagues,86
+Clap Your Hands Say Yeah,Over and Over Again (Lost and Found),86
 The Cars,Just What I Needed,85
-Pavement,Major Leagues,85
-Clap Your Hands Say Yeah,Over and Over Again (Lost and Found),85
 Arcade Fire,Intervention,83
 The Zombies,"I Want Her, She Wants Me",82
 The Kinks,Victoria,82
 Surfer Blood,Floating Vibes,81
+My Morning Jacket,What a Wonderful Man,80
 The Pipettes,One Night Stand,79
 La casa azul,Quiero Parar,79
-My Morning Jacket,What a Wonderful Man,79
-The Unicorns,Ready To Die,78
+The Unicorns,Ready To Die,79
 The Zombies,Beechwood Park,77
 Queen,Good Old-Fashioned Lover Boy,77
+David Bowie,Life on Mars?,77
 Built to Spill,Center of the Universe,75
 Spoon,I Turn My Camera On,75
-David Bowie,Life on Mars?,75
 Can,Vitamin C,75
+Crowded House,Fall at Your Feet,73
 Fleet Foxes,White Winter Hymnal,73
 The Hives,A Little More For Little You,72
-Crowded House,Fall at Your Feet,72
 Sparklehorse,Gold Day,72
 Can,I'm So Green,72
 Surfer Blood,Take It Easy,72
@@ -43,22 +43,22 @@ The Band,The Weight,72
 La casa azul,Prefiero Bailar,71
 Wu-Tang Clan,Shame on a Nigga,71
 Erasure,A Little Respect,70
+Neutral Milk Hotel,In the Aeroplane Over the Sea,70
+Wilco,"Jesus, Etc.",70
 Gorillaz,Last Living Souls,70
 The Hives,No Pun Intended,70
 Built to Spill,Temporarily Blind,70
+The Notwist,Consequence,69
 Gnarls Barkley,Crazy,69
-Neutral Milk Hotel,In the Aeroplane Over the Sea,69
-Wilco,"Jesus, Etc.",69
 Panda Bear,Ponytail,69
 The Fiery Furnaces,Spaniolated,69
 XTC,Ballet for a Rainy Day,68
-The Notwist,Consequence,68
 Thelonious Monk,Epistrophy,68
 Beck,Lazy Flies,68
+The Notwist,One With the Freaks,68
+Broken Social Scene,Anthems for a Seventeen Year Old Girl,67
 Neutral Milk Hotel,Communist Daughter,67
-The Notwist,One With the Freaks,67
 Led Zeppelin,Tangerine,67
-Broken Social Scene,Anthems for a Seventeen Year Old Girl,66
 Teenage Fanclub,Did I Say,66
 Oasis,Digsy's Dinner,66
 Yo La Tengo,Mr. Tough,66
@@ -69,26 +69,27 @@ Queen,Don't Stop Me Now,63
 Buddy Holly,Early In The Morning,63
 The Dismemberment Plan,Girl O' Clock,63
 The Unicorns,I Don't Wanna Die,63
+The Velvet Underground,Pale Blue Eyes,63
 The Jam,Pretty Green,63
 Spoon,Something to Look Forward To,63
+Fleet Foxes,Tiger Mountain Peasant Song,63
 The Hives,Abra Cadaver,62
 The Dismemberment Plan,I Love a Magician,62
-The Velvet Underground,Pale Blue Eyes,62
 Can,Sing Swan Song,62
 The Unicorns,The Clap,62
-Fleet Foxes,Tiger Mountain Peasant Song,62
 The Fiery Furnaces,Chief Inspector Blancheflower,61
 Björk,Frosti,61
+The Unicorns,Ghost Mountain,61
 Fleet Foxes,Meadowlarks,61
 Roxy Music,Same Old Scene,61
 The Kinks,Sunny Afternoon,61
 Paul McCartney,Young Boy,61
 Xiu Xiu,Brian the Vampire,60
-The Unicorns,Ghost Mountain,60
 Xiu Xiu,"I Luv the Valley, OH!",60
 The Unicorns,Let's Get Known,60
 The Notorious B.I.G.,Suicidal Thoughts,60
 Doves,Where We're Calling From,60
+Belle and Sebastian,"Get Me Away from Here, I'm Dying",59
 Arcade Fire,Keep the Car Running,59
 Vampire Weekend,Mansard Roof,59
 The Dismemberment Plan,Memory Machine,59
@@ -100,7 +101,7 @@ The Replacements,Tommy Gets His Tonsils Out,59
 The Dismemberment Plan,8½ Minutes,58
 Panda Bear,Comfy in Nautica,58
 Grizzly Bear,Foreground,58
-Belle and Sebastian,"Get Me Away from Here, I'm Dying",58
+The Raspberries,I Saw The Light,58
 The Doors,Love Me Two Times,58
 Can,One More Night,58
 Wilco,Poor Places,58
@@ -110,17 +111,17 @@ Frank Black,Thalassocracy,58
 My Bloody Valentine,Touched,58
 Vampire Weekend,A-Punk,57
 Os Mutantes,Baby,57
-The Raspberries,I Saw The Light,57
+Air,Ce Matin-là,57
 Panda Bear,I'm Not,57
 Band of Horses,No One's Gonna Love You,57
 Hot Hot Heat,"Oh, Goddamnit",57
 Grizzly Bear,About Face,56
+The Cure,Boys Don't Cry,56
 Gorillaz,DARE,56
 Frank Black,Sir Rockaby,56
 The Libertines,The Good Old Days,56
 Paul McCartney,Uncle Albert/Admiral Halsey,56
 Thom Yorke,Atoms for Peace,55
-The Cure,Boys Don't Cry,55
 Public Enemy,Countdown to Armageddon,55
 Frank Black,Headache,55
 Doves,Intro,55
@@ -141,6 +142,7 @@ David Bowie,Queen Bitch,54
 Panda Bear,Search for Delicious,54
 Public Enemy,Show 'Em Whatcha Got,54
 The Jam,Start!,54
+Animal Collective,Taste,54
 Elliott Smith,Waltz #2 (XO),54
 Deerhunter,Activa,53
 The Fiery Furnaces,Birdie Brain,53
@@ -149,6 +151,7 @@ La casa azul,C'est Fini,53
 Deerhunter,Calvary Scars,53
 John Coltrane,Countdown,53
 Deerhunter,Cover Me (Slowly),53
+The Wrens,Ex-Girl Collection,53
 Modest Mouse,Float On,53
 Stephen Malkmus,Freeze the Saints,53
 The Byrds,Have You Seen Her Face,53
@@ -156,19 +159,17 @@ Mercury Rev,I Collect Coins,53
 Vampire Weekend,I Stand Corrected,53
 Chuck Berry,Maybellene,53
 The Cars,My Best Friend's Girl,53
+The Helio Sequence,No Regrets,53
 Fleet Foxes,Oliver James,53
-Animal Collective,Taste,53
+Spoon,Sister Jack,53
 Dirty Projectors,Temecula Sunrise,53
 Mercury Rev,The Happy End (The Drunk Room),53
 The Libertines,Time for Heroes,53
 Xiu Xiu,Bunny Gamer,52
 Sufjan Stevens,"Decatur, or, Round of Applause for Your Step Mother!",52
-The Wrens,Ex-Girl Collection,52
 The Flaming Lips,Fight Test,52
 Fleet Foxes,Heard Them Stirring,52
 Band of Horses,Is There a Ghost,52
-The Helio Sequence,No Regrets,52
-Spoon,Sister Jack,52
 Can,Soup,52
 David Bromberg,Sugar in the Ground,52
 Smog,Sweet Treat,52
@@ -180,11 +181,15 @@ The Velvet Underground,Beginning To See The Light,51
 DANGERDOOM,Benzi Box,51
 Panda Bear,Bros,51
 Surfer Blood,Catholic Pagans,51
+Tenacious D,Dude (I Totally Miss You),51
 Fleet Foxes,He Doesn't Know Why,51
 Ben Kweller,I Gotta Move,51
 Radiohead,I Might Be Wrong,51
 They Might Be Giants,I Palindrome I,51
 The Unicorns,I Was Born (A Unicorn),51
+Dirty Projectors,Impregnable Question,51
+The Mekons,Last Dance,51
+Air,Le Voyage de Pénélope,51
 My Bloody Valentine,Loomer,51
 Grandaddy,Lost On Yer Merry Way,51
 The Jam,Monday,51
@@ -194,8 +199,3 @@ The Velvet Underground,Sunday Morning,51
 Real Estate,Talking Backwards,51
 David Bromberg,Tennessee Waltz,51
 The Clash,Train in Vain,51
-Roxy Music,Virginia Plain,51
-The Fiery Furnaces,1917,50
-La casa azul,Bonus Track,50
-Tenacious D,Dude (I Totally Miss You),50
-Iron & Wine,History of Lovers,50
