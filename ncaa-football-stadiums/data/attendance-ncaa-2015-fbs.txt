@@ -1,0 +1,128 @@
+school;games_total_pergame
+Air Force; 6 156,158 26,026
+Akron; 6 108,588 18,098
+Alabama; 7 707,786 101,112
+Appalachian St.; 6 128,755 21,459
+Arizona; 6 308,355 51,393
+Arizona St.; 7 368,985 52,712
+Arkansas; 7 471,279 67,326
+Arkansas St.; 6 138,043 23,007
+Army West Point; 6 185,946 30,991
+Auburn; 7 612,157 87,451
+Ball St.; 6 47,841 7,974
+Baylor; 6 276,960 46,160
+Boise St.; 6 201,669 33,612
+Boston College; 7 211,433 30,205
+Bowling Green; 5 98,042 19,608
+Buffalo; 6 110,743 18,457
+BYU; 6 351,191 58,532
+California; 6 292,797 48,800
+Central Mich.; 6 94,029 15,672
+Cincinnati; 6 222,578 37,096
+Clemson; 7 588,266 84,038
+Colorado; 6 236,331 39,389
+Colorado St.; 6 149,500 24,917
+Duke; 6 158,562 26,427
+East Carolina; 6 259,645 43,274
+Eastern Mich.; 6 29,381 4,897
+FIU; 5 76,907 15,381
+Fla. Atlantic; 6 105,703 17,617
+Florida; 7 630,457 90,065
+Florida St.; 7 512,534 73,219
+Fresno St.; 6 174,217 29,036
+Ga. Southern; 6 124,681 20,780
+Georgia; 7 649,222 92,746
+Georgia St.; 6 62,081 10,347
+Georgia Tech; 7 354,946 50,707
+Hawaii; 7 164,031 23,433
+Houston; 8 271,836 33,980
+Idaho; 6 69,915 11,653
+Illinois; 7 289,397 41,342
+Indiana; 7 310,195 44,314
+Iowa; 7 441,992 63,142
+Iowa St.; 6 339,113 56,519
+Kansas; 7 190,972 27,282
+Kansas St.; 7 371,698 53,100
+Kent St.; 6 75,366 12,561
+Kentucky; 8 490,361 61,295
+La.-Lafayette; 6 129,577 21,596
+La.-Monroe; 5 58,659 11,732
+Louisiana Tech; 6 125,863 20,977
+Louisville; 6 294,413 49,069
+LSU*; 6 612,026 102,004
+Marshall; 6 157,930 26,322
+Maryland; 7 310,389 44,341
+Massachusetts; 6 66,743 11,124
+Memphis; 6 262,811 43,802
+Miami (FL); 6 285,363 47,561
+Miami (OH); 6 94,241 15,707
+Michigan; 7 771,174 110,168
+Michigan St.; 7 522,628 74,661
+Middle Tenn.; 6 103,258 17,210
+Minnesota; 7 366,484 52,355
+Mississippi St.; 7 432,490 61,784
+Missouri; 6 390,720 65,120
+Navy; 7 226,366 32,338
+Nebraska; 7 629,983 89,998
+Nevada; 6 133,022 22,170
+New Mexico; 8 188,224 23,528
+New Mexico St.; 5 87,429 17,486
+North Carolina; 7 347,500 49,643
+North Carolina St.; 6 341,928 56,988
+North Texas; 5 68,155 13,631
+Northern Ill.; 6 83,649 13,942
+Northwestern; 7 233,560 33,366
+Notre Dame; 6 484,770 80,795
+Ohio; 6 127,938 21,323
+Ohio St.; 7 750,705 107,244
+Oklahoma; 6 512,139 85,357
+Oklahoma St.; 7 403,678 57,668
+Old Dominion; 7 140,826 20,118
+Ole Miss; 7 423,355 60,479
+Oregon; 7 403,419 57,631
+Oregon St.; 6 216,476 36,079
+Penn St.; 7 698,590 99,799
+Pittsburgh; 6 288,900 48,150
+Purdue; 7 262,559 37,508
+Rice; 6 116,034 19,339
+Rutgers; 7 334,061 47,723
+San Diego St.; 7 203,459 29,066
+San Jose St.; 6 91,869 15,312
+SMU; 7 147,301 21,043
+South Ala.; 6 96,234 16,039
+South Carolina; 6 472,934 78,822
+South Fla.; 6 159,468 26,578
+Southern California; 7 527,506 75,358
+Southern Miss.; 6 170,007 28,335
+Stanford; 7 349,417 49,917
+Syracuse; 7 224,717 32,102
+TCU; 6 280,604 46,767
+Temple; 6 264,951 44,159
+Tennessee; 7 704,088 100,584
+Texas; 6 540,210 90,035
+Texas A&M; 7 725,354 103,622
+Texas St.; 6 108,998 18,166
+Texas Tech; 6 338,042 56,340
+Toledo; 6 125,051 20,842
+Troy; 5 96,993 19,399
+Tulane; 6 137,577 22,930
+Tulsa; 6 117,730 19,622
+UCF; 6 180,388 30,065
+UCLA; 6 401,149 66,858
+UConn; 6 169,343 28,224
+UNLV; 6 116,228 19,371
+Utah; 7 325,732 46,533
+Utah St.; 6 128,172 21,362
+UTEP; 5 116,058 23,212
+UTSA; 6 138,048 23,008
+Vanderbilt; 6 192,802 32,134
+Virginia; 7 302,994 43,285
+Virginia Tech; 6 364,942 60,824
+Wake Forest; 6 160,043 26,674
+Washington; 7 433,432 61,919
+Washington St.; 6 176,444 29,407
+West Virginia; 7 383,779 54,826
+Western Ky.; 6 107,759 17,960
+Western Mich.; 6 116,646 19,441
+Wisconsin; 7 546,099 78,014
+Wyoming; 6 108,361 18,060
