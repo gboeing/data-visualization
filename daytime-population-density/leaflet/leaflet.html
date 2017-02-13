@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Daytime Density Map</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+
+
+	<style>
+		#map {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          width: 100%;
+        }
+        .info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.95); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } 
+        .info h4 { margin: 0 0 5px; color: #777; }
+        .legend { text-align: left; line-height: 18px; color: #555; } 
+        .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+
+<script type="text/javascript" src="geojson.js"></script>
+
+<script type="text/javascript">
+    
+    // create map and zoom into SF
+	var map = L.map('map').setView([37.79, -122.38], 11);
+
+	//add tile layer basemap to the map
+    var basemapUrl = 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
+    var basemapAttribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>';
+    var basemapProperties = {minZoom: 9, maxZoom: 16, attribution: basemapAttribution};
+    var basemap = L.tileLayer(basemapUrl, basemapProperties);
+    map.addLayer(basemap);
+
+
+	// control that shows tract info on hover
+	var info = L.control();
+    
+    // create info control
+	info.onAdd = function (map) {
+		this._div = L.DomUtil.create('div', 'info');
+		this.update();
+		return this._div;
+	};
+    
+    // update info control
+	info.update = function (props) {
+		this._div.innerHTML = '<h4>Daytime Density per Tract</h4>' +  (props ?
+			props.daytime_density + ' persons/km<sup>2</sup>'
+			: 'Hover over a tract');
+	};
+
+	info.addTo(map);
+
+
+	// get feature color depending on quantile bin value
+	function getColor(d) {
+		return d == 0 ? '#0C0786' :
+               d == 1 ? '#5C00A5' :
+			   d == 2 ? '#9B179E' :
+			   d == 3 ? '#CB4777' :
+			   d == 4 ? '#EC7853' :
+			   d == 5 ? '#FDB32E' :
+			   d == 6 ? '#EFF821' :
+                        '#EFF821'
+	}
+    
+    // define standard style of features
+	function style(feature) {
+		return {
+			weight: 1,
+			opacity: 1,
+			color: 'white',
+			dashArray: '',
+			fillOpacity: 0.7,
+			fillColor: getColor(feature.properties.bin)
+		};
+	}
+    
+    // style the features when hovered over
+	function highlightFeature(e) {
+		var layer = e.target;
+
+		layer.setStyle({
+			fillColor: 'black'
+		});
+
+		if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+			layer.bringToFront();
+		}
+
+		info.update(layer.feature.properties);
+	}
+    
+    // reset the feature style on mouse out
+	function resetHighlight(e) {
+		geojson.resetStyle(e.target);
+		info.update();
+	}
+    
+    // zoom into feature when clicked
+	function zoomToFeature(e) {
+		map.fitBounds(e.target.getBounds());
+	}
+    
+    // bind actions to features
+	function onEachFeature(feature, layer) {
+		layer.on({
+			mouseover: highlightFeature,
+			mouseout: resetHighlight,
+			click: zoomToFeature
+		});
+	}
+    
+    // load data set with styles and actions
+	geojson = L.geoJson(dataset, {
+		style: style,
+		onEachFeature: onEachFeature
+	}).addTo(map);
+    
+</script>
+
+
+
+</body>
+</html>
